@@ -64,6 +64,7 @@ export default function Navbar() {
   // Language Setup
   const localeLabels: Record<string, string> = {
     en: 'EN',
+    th: 'TH',
     my: 'BM',
   };
 
@@ -73,8 +74,8 @@ export default function Navbar() {
       onClick: () => router.replace(pathname, { locale: 'en' }),
     },
     {
-      label: 'Bahasa Melayu',
-      onClick: () => router.replace(pathname, { locale: 'my' }),
+      label: 'ไทย',
+      onClick: () => router.replace(pathname, { locale: 'th' }),
     },
   ];
 
