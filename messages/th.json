@@ -1,0 +1,804 @@
+{
+  "Navigation": {
+    "home": "หน้าแรก",
+    "about": "เกี่ยวกับเรา",
+    "features": "คุณสมบัติ",
+    "inspection_plan": "แผนการตรวจสภาพ",
+    "faqs": "คำถามที่พบบ่อย",
+    "our_tech_stack": "เทคโนโลยีของเรา",
+    "our_audience": "กลุ่มเป้าหมายของเรา",
+    "partnership_models": "รูปแบบความร่วมมือ",
+    "contact_us": "ติดต่อเรา",
+    "inspect_with_confidence_button": "ตรวจสภาพอย่างมั่นใจ",
+    "partner_with_us_button": "เป็นพันธมิตรกับเรา"
+  },
+  "StickyBanner": {
+    "text": "คุณเป็นดีลเลอร์ บริษัทประกัน หรือผู้ให้ทุนใช่ไหม? ดูว่า Wisedrive ปกป้องพอร์ตของคุณอย่างไร",
+    "ctaLabel": "ไปที่โซลูชันระดับองค์กร",
+    "ctaLink": "/enterprise-solutions"
+  },
+  "PopUp": {
+    "title": "ขยายพอร์ตของคุณด้วยข้อมูลที่เชื่อถือได้",
+    "description": "Wisedrive ปกป้องพอร์ตของคุณด้วยการตรวจสภาพทางเทคนิคที่เสริมด้วย AI การวิเคราะห์ ECU แบบเรียลไทม์ และอัลกอริทึมตรวจจับการทุจริต—ผสานเข้ากับเวิร์กโฟลว์องค์กรของคุณโดยตรง",
+    "features": [
+      "ธนาคารและผู้ให้ทุน",
+      "บริษัทประกันภัย",
+      "เครือข่ายดีลเลอร์และ OEM",
+      "มาร์เก็ตเพลสและแพลตฟอร์ม"
+    ],
+    "ctaLabel": "เป็นพันธมิตรกับเรา"
+  },
+  "PartnershipModels": {
+    "heading": "รูปแบบความร่วมมือ",
+    "subheading": "รูปแบบการมีส่วนร่วมระดับองค์กรที่ออกแบบมาเพื่อการขยายสเกล",
+    "cards": {
+      "card_1": {
+        "heading": "ไลเซนส์แบบปริมาณ / การสมัครสมาชิกระดับองค์กร",
+        "subheading": "เหมาะที่สุดสำหรับ: ธนาคาร บริษัทประกัน OEM และกลุ่มดีลเลอร์ขนาดใหญ่",
+        "description": "ข้อตกลงรายเดือนแบบสัญญาที่ออกแบบมาเพื่อความเสถียรสำหรับปริมาณงานสูง รวมถึงราคาตามระดับปริมาณสำหรับการตรวจสภาพ การดูแลบัญชีแบบเฉพาะ และเวลาส่งมอบที่รับประกันด้วย SLA"
+      },
+      "card_2": {
+        "heading": "การผสานรวม API และไวท์เลเบล",
+        "subheading": "เหมาะที่สุดสำหรับ: ซูเปอร์แอป ฟินเทค และมาร์เก็ตเพลสหลัก",
+        "description": "โมเดลการผสานรวมที่ยืดหยุ่น มอบการเข้าถึง API และโซลูชันไวท์เลเบล เหมาะสำหรับธุรกิจที่ต้องการฝังบริการของเราเข้ากับแพลตฟอร์มอย่างไร้รอยต่อ พร้อมการปรับแต่งแบรนด์และประสบการณ์ผู้ใช้"
+      }
+    }
+  },
+  "CTAs": {
+    "confidence": {
+      "heading": "ซื้ออย่างมั่นใจ หลีกเลี่ยงความเสียใจ",
+      "highlighted": "ความมั่นใจ",
+      "subheading": "ข้อมูลเชิงลึกที่ชัดเจน การตัดสินใจที่ฉลาด ไม่มีเรื่องเซอร์ไพรส์",
+      "btn1": "จองการตรวจสภาพของคุณ",
+      "btn2": "พูดคุยกับผู้เชี่ยวชาญ"
+    },
+    "consultation": {
+      "heading": "ลังเลเกี่ยวกับรถคันนี้อยู่ใช่ไหม? รับคำปรึกษาฟรี",
+      "highlighted": "คำปรึกษาฟรี",
+      "subheading": "รับคำปรึกษาฟรีโดยไม่มีข้อผูกมัด เพื่อตอบคำถามของคุณทันที",
+      "btn1": "ขอให้โทรกลับฟรี"
+    },
+    "secure": {
+      "heading": "ดูว่า Wisedrive สามารถปกป้องพอร์ตของคุณได้อย่างไร",
+      "highlighted": "ปกป้อง",
+      "subheading": "ใช้การตรวจสภาพที่ขับเคลื่อนด้วย AI เพื่อยืนยันความถูกต้องของหลักประกัน และลดความเสี่ยงทั่วทั้งเครือข่ายการปล่อยกู้ของคุณ",
+      "btn1": "สำรวจโซลูชันระดับองค์กร"
+    }
+  },
+  "Highlights": {
+    "highlight_1": {
+      "title": "ขับเคลื่อนด้วย AI",
+      "description": "AI ของเรา “เห็น” และ “ได้ยิน” สิ่งที่หลายคนอาจมองข้าม ช่วยให้คุณหลีกเลี่ยงค่าซ่อมแพง"
+    },
+    "highlight_2": {
+      "title": "ตรวจสภาพรวดเร็ว",
+      "description": "การตรวจเช็กมากกว่า 200 จุดแบบครบถ้วน ใช้เวลาไม่ถึง 90 นาที ช่วยเร่งการตัดสินใจซื้อ"
+    },
+    "highlight_3": {
+      "title": "รายงานทันที",
+      "description": "รายงานละเอียด อ่านง่าย พร้อมทันทีเมื่อเราตรวจเสร็จ"
+    },
+    "highlight_4": {
+      "title": "การตรวจเช็ก 200+ จุด",
+      "description": "โปรโตคอลที่เข้มงวดและเป็นกลาง เพื่อให้ได้ผลลัพธ์สม่ำเสมอที่คุณเชื่อถือได้"
+    },
+    "highlight_5": {
+      "title": "การป้องกันการทุจริต",
+      "description": "เราตรวจสอบเลขไมล์และข้อมูลเพื่อปกป้องคุณจากการดัดแปลงและการเคลมเท็จ"
+    },
+    "highlight_6": {
+      "title": "ข้อมูลภาพเชิงวัตถุ",
+      "description": "AI สแกนภาพเพื่อค้นหาการซ่อมแซมที่ซ่อนอยู่ ให้หลักฐานภาพที่ปฏิเสธไม่ได้"
+    }
+  },
+  "EnterpriseSolutions": {
+    "heading": "เราขับเคลื่อนอุตสาหกรรม ไม่ใช่แค่ผู้ซื้อ",
+    "description": "เข้าร่วมเครือข่ายบริษัทประกัน ธนาคาร และดีลเลอร์ที่ใช้ Wisedrive เพื่อป้องกันการทุจริต ปกป้องพอร์ตยานยนต์ และทำให้การตรวจสภาพเป็นอัตโนมัติ",
+    "cta_button_text": "สำรวจโซลูชันระดับองค์กร",
+    "pills": {
+      "pill_1_text": "เครือข่ายดีลเลอร์และ OEM",
+      "pill_2_text": "บริษัทประกันภัย",
+      "pill_3_text": "ธนาคารและผู้ให้ทุน",
+      "pill_4_text": "มาร์เก็ตเพลสและแพลตฟอร์ม"
+    }
+  },
+  "WhyChooseUs": {
+    "badge_text": "ทำไมต้องเลือกเรา?",
+    "heading": "AI ของเราทำอะไรให้คุณ",
+    "heading_highlighted_word": "AI",
+    "slides": {
+      "slide_1": {
+        "image": "/why_choose_us/why-choose-us-1.webp",
+        "image_alt_text": "AI เสียง",
+        "panel_heading": "AI เสียง",
+        "panel_text": "ตรวจจับความผิดปกติภายในเครื่องยนต์และการสึกหรอที่หูคนไม่ได้ยิน ช่วยป้องกันการเสียในอนาคต",
+        "button_text": "AI ภาพ",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_2": {
+        "image": "/why_choose_us/why-choose-us-2.webp",
+        "image_alt_text": "AI ภาพ",
+        "panel_heading": "AI ภาพ",
+        "panel_text": "ตรวจพบสีเพี้ยน สนิมที่ซ่อนอยู่ และงานซ่อมอุบัติเหตุที่แม้แต่คุณเองอาจพลาด",
+        "button_text": "AI ภาพ",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_3": {
+        "image": "/why_choose_us/why-choose-us-3.webp",
+        "image_alt_text": "AI ทำนายราคา",
+        "panel_heading": "AI ทำนายราคา",
+        "panel_text": "คำนวณมูลค่าตลาดที่แท้จริงของรถจากสภาพจริง เพื่อให้คุณไม่จ่ายแพงเกินไป",
+        "button_text": "AI ทำนายราคา",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_4": {
+        "image": "/why_choose_us/why-choose-us-4.webp",
+        "image_alt_text": "ยืนยันโดยผู้เชี่ยวชาญอิสระ",
+        "panel_heading": "ยืนยันโดยผู้เชี่ยวชาญอิสระ",
+        "panel_text": "ให้คำตัดสินชัดเจน “ต่อรอง” หรือ “เดินออกมา” ให้ความชัดเจนเต็มที่สำหรับการตัดสินใจครั้งใหญ่ของคุณ",
+        "button_text": "AI เสียง",
+        "button_link": "/why_choose_us/slide_2"
+      }
+    }
+  },
+  "B2CHero": {
+    "heading": "กำลังซื้อรถมือสองอยู่ไหม?",
+    "description": "คุณสมควรรู้แน่ชัดว่าคุณกำลังซื้ออะไร Wisedrive ผสานพลังของเทคโนโลยี AI และความเชี่ยวชาญของมนุษย์เพื่อตรวจสภาพมากกว่า 200 จุดในรถ เรามอบความสบายใจที่มีหลักฐานรองรับ เพื่อให้คุณซื้อได้อย่างมั่นใจและไร้กังวล",
+    "book_your_inspection_button": "จองการตรวจสภาพของคุณ",
+    "how_it_works_button": "ทำงานอย่างไร",
+    "counter_text_1": "การตรวจสภาพ Wisedrive ช่วยประหยัด",
+    "counter_text_2": "ให้ผู้ซื้อรถมาแล้วจนถึงตอนนี้..."
+  },
+  "B2BHero": {
+    "heading": "ปกป้องพอร์ตยานยนต์ของคุณด้วยข้อมูลที่ยืนยันแล้ว",
+    "description": "ไม่ว่าคุณจะเป็นบริษัทประกันที่บริหารความเสี่ยง ผู้ให้ทุนที่คุ้มครองหลักประกัน หรือ OEM ที่บริหารสต็อก CPO ตัวแปรที่ใหญ่ที่สุดคือ “ตัวสินทรัพย์” เอง Wisedrive ปกป้องพอร์ตของคุณด้วยการตรวจสภาพทางเทคนิคที่เสริมด้วย AI การวิเคราะห์ ECU แบบเรียลไทม์ และอัลกอริทึมตรวจจับการทุจริต—ผสานเข้ากับเวิร์กโฟลว์องค์กรของคุณโดยตรง",
+    "partner_with_button": "เป็นพันธมิตรกับเรา",
+    "view_enterprise_solution_button": "ดูโซลูชันระดับองค์กร"
+  },
+  "Inspection": {
+    "heading": "การตรวจสภาพเดียวที่คุณจะต้องใช้",
+    "heading_highlighted_word": "การตรวจสภาพ",
+    "description": "AI ของเราวิเคราะห์จุดตรวจมากกว่า 200 จุด เพื่อให้คุณรู้แน่ชัดว่าคุณกำลังซื้ออะไร",
+    "book_your_inspection_button": "จองการตรวจสภาพของคุณ",
+    "speak_to_an_expert_button": "พูดคุยกับผู้เชี่ยวชาญ",
+    "sample_report_button": "ตัวอย่างรายงาน",
+    "checkbox_items_text": "จุดตรวจสภาพ 200+ จุด|ทดสอบสแกนเนอร์ OBD2 ขั้นสูง|ประเมินความพร้อมใช้งานบนถนนและความปลอดภัย|การวินิจฉัยและตัวชี้วัดการซ่อมที่สร้างโดย AI|คำปรึกษาฟรีกับผู้เชี่ยวชาญการตรวจสภาพ"
+  },
+  "Advantage": {
+    "badge_text": "ข้อได้เปรียบของ Wisedrive",
+    "heading": "เมื่อความเชี่ยวชาญของมนุษย์พบกับเทคโนโลยี AI",
+    "heading_highlighted_word": "เทคโนโลยี AI",
+    "description": "การตรวจสภาพของเราขับเคลื่อนด้วยความเชี่ยวชาญของผู้ตรวจมืออาชีพ ผสานด้วยเทคโนโลยี AI ที่สร้างจากข้อมูลมากกว่าหนึ่งล้านจุด เมื่อรวมกัน Wisedrive มอบรายงานที่คุณเชื่อถือได้อย่างเต็มที่"
+  },
+  "TechStack": {
+    "title": "เทคสแต็กของ Wisedrive: เรายืนยันสินทรัพย์อย่างไร",
+    "subheading": "มากกว่าการตรวจด้วยตาเปล่า เราใช้เทคโนโลยีเฉพาะเพื่อเปิดเผยความจริงเชิงกลไกและการเงินของทุกสินทรัพย์",
+    "dropdowns": [
+      {
+        "id": "ecu-obd",
+        "title": "การวินิจฉัย ECU และ OBD-II เชิงลึก",
+        "description": "เราไม่ได้แค่ฟังเสียงเครื่องยนต์; เราตรวจสอบคอมพิวเตอร์บนรถโดยตรง สแกนเนอร์ของเราวิเคราะห์สตรีมข้อมูลแบบเรียลไทม์เพื่อค้นหาโค้ดขัดข้องที่ซ่อนอยู่ อาการลื่นของเกียร์ และบันทึกข้อผิดพลาดในอดีตที่การตรวจด้วยตาเปล่ามักพลาด"
+      },
+      {
+        "id": "bodywork-analysis",
+        "title": "การวิเคราะห์งานตัวถังเชิงวิทยาศาสตร์ (ไมครอนสี)",
+        "description": "ด้วยเครื่องวัดความหนาสีแบบดิจิทัล เราทำแผนที่ความหนาสีบนแผงตัวถังมากกว่า 15 จุด ความไม่สม่ำเสมอเผยให้เห็นอุบัติเหตุในอดีต งานโป๊ว (bondo) และการพ่นสีใหม่ที่ตาเปล่ามองไม่เห็น"
+      },
+      {
+        "id": "ai-protocol",
+        "title": "โปรโตคอล 150 จุดที่เสริมด้วย AI",
+        "description": "ผู้ตรวจของเราปฏิบัติตามเวิร์กโฟลว์ที่เข้มงวดและมีแอปนำทาง เพื่อลดอคติของมนุษย์ ทุกจุดตรวจต้องมีหลักฐานภาพถ่ายและการป้อนข้อมูล สร้าง “Wisedrive Score” มาตรฐานที่ช่วยให้คุณเปรียบเทียบคุณภาพสินทรัพย์ข้ามสาขาหรือภูมิภาคได้ทันที"
+      },
+      {
+        "id": "fraud-detection",
+        "title": "การตรวจจับการทุจริตด้วยอัลกอริทึม",
+        "description": "เราตรวจสอบสภาพรถปัจจุบันเทียบกับฐานข้อมูลเลขไมล์ย้อนหลังและประวัติการเข้าศูนย์ ระบบของเราจะเตือนทันทีเมื่อพบการกรอไมล์และการดัดแปลง VIN ป้องกันไม่ให้คุณให้สินเชื่อหรือทำประกันบนมูลค่าลวง"
+      }
+    ]
+  },
+  "Infrastructure": {
+    "heading": "โครงสร้างพื้นฐานสำหรับระบบนิเวศยานยนต์",
+    "description": "ปกป้องสินทรัพย์และทำให้การดำเนินงานลื่นไหลด้วยโครงสร้างพื้นฐานข้อมูลที่ออกแบบให้เหมาะกับภาคธุรกิจของคุณ",
+    "cards": {
+      "card_1": {
+        "title": "ธนาคารและผู้ให้ทุน",
+        "tag": "THE WISEDRIVE ADVANTAGE",
+        "description": "ปกป้องอัตราส่วน LTV ของคุณด้วยข้อมูลทางเทคนิคที่ชัดเจน เรายืนยันเลขไมล์จริงและสภาพเชิงกลของหลักประกันก่อนอนุมัติ ด้วยการตรวจพบความเสี่ยงด้านกลไกตั้งแต่เนิ่นๆ เราช่วยลดความเสี่ยงที่สินทรัพย์จะกลายเป็น NPL จากการเสื่อมค่ากะทันหันหรือการละทิ้งของผู้กู้",
+        "image": "/infrastructure/banks-new.webp"
+      },
+      "card_2": {
+        "title": "บริษัทประกันภัย",
+        "tag": "THE WISEDRIVE ADVANTAGE",
+        "description": "สร้างไทม์สแตมป์ดิจิทัลสำหรับสภาพสินทรัพย์ การตรวจประเมินก่อนเริ่มกรมธรรม์ของเราบันทึกรอยขีดข่วน รอยบุบ และรอยบิ่นกระจกทุกจุดก่อนออกกรมธรรม์ สิ่งนี้สร้างฐานข้อมูลอ้างอิงที่โต้แย้งไม่ได้ ช่วยกรองการเคลมความเสียหายที่มีอยู่ก่อนแล้วโดยอัตโนมัติ และลดอัตราส่วนความสูญเสียของคุณในกรมธรรม์รถมือสองอย่างมีนัยสำคัญ",
+        "image": "/infrastructure/insurance-new.webp"
+      },
+      "card_3": {
+        "title": "เครือข่ายดีลเลอร์และ OEM",
+        "tag": "THE WISEDRIVE ADVANTAGE",
+        "description": "เราเป็นด่านป้องกันทางเทคนิคให้คุณ รายงานเชิงกลอย่างละเอียดของเราชี้ให้เห็นประวัติอุบัติเหตุที่ซ่อนอยู่และปัญหาเครื่องยนต์ก่อนรับเทิร์น สำหรับ OEM โปรโตคอล “Wisedrive Certified” ของเรามอบมาตรฐานที่จำเป็นในการเปิดตัวและขยายโปรแกรม CPO ไปทั่วเครือข่ายดีลเลอร์ที่กระจัดกระจาย",
+        "image": "/infrastructure/dealership-new.webp"
+      },
+      "card_4": {
+        "title": "มาร์เก็ตเพลสและแพลตฟอร์ม",
+        "tag": "THE WISEDRIVE ADVANTAGE",
+        "description": "เราช่วยเชื่อมช่องว่างความเชื่อมั่นในธุรกรรมระยะไกล ด้วยการเป็นผู้ยืนยันอิสระที่เป็นกลาง พร้อมรายงานดิจิทัลมาตรฐาน เราทำให้ธุรกรรมมูลค่าสูงเกิดขึ้นได้ทั้งหมดออนไลน์ สิ่งนี้เพิ่ม GMV โดยมอบความมั่นใจเชิงเทคนิคให้ผู้ซื้อระยะไกลตัดสินใจซื้อได้โดยไม่ต้องดูรถจริง",
+        "image": "/infrastructure/marketplace-new.webp"
+      }
+    },
+    "button_labels": {
+      "btn_1": "ธนาคารและผู้ให้ทุน",
+      "btn_2": "บริษัทประกันภัย",
+      "btn_3": "เครือข่ายดีลเลอร์และ OEM",
+      "btn_4": "มาร์เก็ตเพลสและแพลตฟอร์ม"
+    }
+  },
+  "FAQSection": {
+    "badge_text": "คำถามที่พบบ่อย",
+    "heading": "มีคำถามเกี่ยวกับการตรวจสภาพของเราหรือไม่?",
+    "heading_highlighted_word": "การตรวจสภาพ?",
+    "subtitle": "ค้นหาคำตอบเกี่ยวกับการตรวจสภาพที่ขับเคลื่อนด้วย AI และวิธีที่เราปกป้องคุณจากค่าซ่อมแซมแฝงที่มีราคาแพง",
+    "q1": {
+      "question": "Wisedrive ให้บริการอะไรบ้างสำหรับการตรวจสภาพรถมือสอง?",
+      "answer": "Wisedrive ให้บริการตรวจสภาพรถมือสองแบบครบวงจร ครอบคลุมชิ้นส่วนสำคัญ เช่น เครื่องยนต์ เกียร์ เบรก และระบบไฟฟ้า"
+    },
+    "q2": {
+      "question": "ฉันจะจองนัดตรวจสภาพรถได้อย่างไร?",
+      "answer": "คุณสามารถจองการตรวจสภาพผ่านเว็บไซต์หรือแอปมือถือของเรา โดยเลือกแพ็กเกจที่ต้องการและนัดหมายเวลา"
+    },
+    "q3": {
+      "question": "การตรวจสภาพรถมือสองของ Wisedrive มีอะไรบ้าง?",
+      "answer": "การตรวจสภาพของเราครอบคลุมมากกว่า 200 จุด รวมถึงระบบกลไก ไฟฟ้า และความปลอดภัย"
+    },
+    "q4": {
+      "question": "กระบวนการตรวจสภาพทำงานอย่างไร?",
+      "answer": "ช่างเทคนิคที่ได้รับการรับรองจะตรวจรถของคุณที่สถานที่ของคุณหรืออู่พันธมิตร และส่งรายงานละเอียดหลังจากนั้น"
+    },
+    "q5": {
+      "question": "การตรวจสภาพรถโดยทั่วไปใช้เวลานานเท่าไร?",
+      "answer": "โดยปกติการตรวจสภาพใช้เวลาประมาณ 1–2 ชั่วโมง ขึ้นอยู่กับสภาพรถและแพ็กเกจที่เลือก"
+    },
+    "q6": {
+      "question": "ฉันสามารถขอการตรวจสภาพสำหรับรถทุกประเภทได้ไหม?",
+      "answer": "เราตรวจสภาพรถได้เกือบทุกประเภท รวมถึงรถเก๋ง SUV และรถกระบะ/รถบรรทุก"
+    },
+    "q7": {
+      "question": "ค่าใช้จ่ายในการตรวจสภาพรถมือสองเท่าไร?",
+      "answer": "ค่าใช้จ่ายแตกต่างกันตามแพ็กเกจที่เลือก รายละเอียดราคาอยู่บนเว็บไซต์ของเรา"
+    },
+    "q8": {
+      "question": "Wisedrive มีการรับประกันแบบใดบ้าง?",
+      "answer": "เรามีแผนการรับประกันหลายแบบ ครอบคลุมด้านต่างๆ ของการบำรุงรักษาและการซ่อมแซมรถยนต์"
+    },
+    "q9": {
+      "question": "ฉันจะซื้อการรับประกันพร้อมการตรวจสภาพได้อย่างไร?",
+      "answer": "คุณสามารถเพิ่มการรับประกันเข้าไปในแพ็กเกจตรวจสภาพได้ระหว่างขั้นตอนการจองบนเว็บไซต์หรือแอปของเรา"
+    },
+    "q10": {
+      "question": "การรับประกันของ Wisedrive ครอบคลุมอะไรบ้าง?",
+      "answer": "ความคุ้มครองแตกต่างกันตามแผน แต่โดยทั่วไปครอบคลุมชิ้นส่วนหลัก เช่น เครื่องยนต์ เกียร์ และระบบไฟฟ้า"
+    },
+    "q11": {
+      "question": "มีข้อยกเว้นในการรับประกันหรือไม่?",
+      "answer": "ใช่ มีข้อยกเว้นบางประการ โปรดดูข้อกำหนดและเงื่อนไขการรับประกันเฉพาะสำหรับรายละเอียด"
+    },
+    "q12": {
+      "question": "ฉันจะเคลมการซ่อมภายใต้การรับประกันกับ Wisedrive ได้อย่างไร?",
+      "answer": "ติดต่อทีมซัพพอร์ตของเราเพื่อยื่นเคลม แล้วเราจะช่วยแนะนำขั้นตอนและพาไปยังศูนย์บริการที่ได้รับอนุญาต"
+    },
+    "q13": {
+      "question": "ฉันสามารถโอนการรับประกันให้เจ้าของใหม่ได้ไหมถ้าขายรถ?",
+      "answer": "ได้ การรับประกันสามารถโอนให้เจ้าของใหม่ได้ เพื่อให้ยังคงได้รับความคุ้มครอง"
+    },
+    "q14": {
+      "question": "ระยะเวลาคุ้มครองของการรับประกันนานเท่าไร?",
+      "answer": "ระยะเวลารับประกันแตกต่างกันตามแพ็กเกจ ตั้งแต่ 6 เดือนจนถึงหลายปี"
+    }
+  },
+  "HighlightPills": {
+    "heading": "Wisedrive คือมาตรฐานใหม่ของความเชื่อมั่นและความแม่นยำ",
+    "heading_highlighted_word": "ความเชื่อมั่นและความแม่นยำ",
+    "pills": {
+      "pill_1": {
+        "value": "20x",
+        "label": "วิเคราะห์เครื่องยนต์แม่นยำขึ้น"
+      },
+      "pill_2": {
+        "value": "95%",
+        "label": "ลดข้อผิดพลาดของมนุษย์"
+      },
+      "pill_3": {
+        "value": "75%",
+        "label": "รายงานเร็วขึ้น"
+      },
+      "pill_4": {
+        "value": "99%",
+        "label": "ความแม่นยำในการวินิจฉัย"
+      }
+    }
+  },
+  "Reviews": {
+    "badge_text": "รีวิวของเรา",
+    "heading": "ขับออกไปอย่างมีความสุข",
+    "heading_highlighted_word": "มีความสุข",
+    "description": "เข้าร่วมผู้ใช้ที่พึงพอใจนับพันคนที่ซื้อรถด้วยความสบายใจเต็มที่",
+    "reviews": {
+      "review_1": {
+        "customer_name": "Eng Chan",
+        "content": "ผู้ตรวจจาก Wisedrive เป็นมิตร มืออาชีพ และละเอียดมาก รายงานครอบคลุมทุกอย่างที่ฉันต้องรู้ และบริการลูกค้าก็ยอดเยี่ยม ฉันสบายใจขึ้นเพราะมีข้อมูลครบก่อนตัดสินใจซื้อ"
+      },
+      "review_2": {
+        "customer_name": "Saravanan",
+        "content": "หากคุณกำลังซื้อรถมือสอง Wisedrive คือบริการที่ต้องมี รายงานตรวจสภาพละเอียดและเข้าใจง่าย ผู้ตรวจตั้งใจตรวจทุกจุดเกินความคาดหมาย ดีใจมากที่ใช้ก่อนตัดสินใจซื้อ"
+      },
+      "review_3": {
+        "customer_name": "Muzry J.",
+        "content": "ฉันใช้ Wisedrive มาแล้วสองครั้ง และทั้งสองครั้งบริการยอดเยี่ยม ผู้ตรวจมีความรู้และไม่เร่งรีบ รายงานละเอียดช่วยให้ฉันตัดสินใจได้อย่างมีข้อมูล แน่นอนว่าเป็นบริการที่ต้องใช้สำหรับผู้ซื้อรถมือสอง"
+      },
+      "review_4": {
+        "customer_name": "Rosmah Alif",
+        "content": "บริการตรวจสภาพของ Wisedrive ยอดเยี่ยมมาก! พวกเขาให้รายงานละเอียดที่ช่วยให้ฉันต่อรองราคาได้ดีขึ้น ผู้ตรวจมีความรู้และตอบทุกคำถามของฉัน ฉันจะใช้บริการอีกแน่นอนในการซื้อรถครั้งต่อไป"
+      },
+      "review_5": {
+        "customer_name": "Bryan Lim",
+        "content": "Wisedrive ช่วยฉันไม่ให้ซื้อรถที่แย่! รถดูดีจากภายนอก แต่ผู้ตรวจพบปัญหาทางกลหลายอย่าง บริการนี้คุ้มค่าทุกบาทหากคุณอยากหลีกเลี่ยงการโดนโกงตอนซื้อรถมือสอง"
+      },
+      "review_6": {
+        "customer_name": "Suzannah Ibrahim",
+        "content": "พูดตามตรง ตอนแรกฉันแอบสงสัย แต่ตัดสินใจลอง Wisedrive เพราะเอาจริงๆ ใครจะซื้อรถใหม่ไหวในเศรษฐกิจแบบนี้ล่ะ? ฉันทัก WhatsApp ไป แล้วตอบเร็วมาก ได้คิวนัดภายในสัปดาห์เดียว และการตรวจใช้เวลาไม่นาน ที่ดีที่สุดคือเขามาหาคุณจริงๆ! ฉันทำระหว่างนั่งดื่มกาแฟแถวๆ นั้น รายงานออกเร็ว และช่วยฉันประหยัดค่าซ่อมที่อาจเกิดขึ้นเกือบ RM5k ถ้าไม่มีการตรวจนี้ ฉันคงไม่รู้แน่ๆ! แนะนำมากสำหรับใครที่วางแผนจะซื้อรถมือสอง หรืออยากสบายใจก่อนตัดสินใจ ระบบ AI ใช้งานได้จริง 👍🏻 ลูกค้ามีความสุข"
+      },
+      "review_7": {
+        "customer_name": "Aisyah Yacob",
+        "content": "Wisedrive Tech ⭐️⭐️⭐️⭐️⭐️ แนะนำ! ประสบการณ์ก่อนซื้อรถกับ Wisedrive Tech ดีมากและเป็นบวก"
+      },
+      "review_8": {
+        "customer_name": "Arun Mambully",
+        "content": "บริการที่น่าเชื่อถือซึ่งจำเป็นมาก ทีมงานช่วยเหลือดี"
+      },
+      "review_9": {
+        "customer_name": "Mohd Adli Mohd Noor",
+        "content": "บริการดีมาก…ทีม WiseDrive ตรวจละเอียดทุกจุด..รายงานครบพร้อมโน้ตและรูปภาพ…ขอบคุณมาก"
+      }
+    }
+  },
+  "NewsBlogs": {
+    "badge_text": "ข้อมูลเชิงลึกล่าสุด",
+    "heading": "ข่าวและบทความบล็อก",
+    "heading_highlighted_word": "บทความบล็อก",
+    "description": "อัปเดตความรู้ด้วยเคล็ดลับจากผู้เชี่ยวชาญเรื่องการซื้อรถมือสอง ข้อมูลเชิงลึกการตรวจสภาพด้วย AI และข่าวสารอุตสาหกรรมยานยนต์ล่าสุด",
+    "blogs": {
+      "blog_1": {
+        "title": "เปิดตัวระบบนิเวศการตรวจสภาพรถมือสองด้วย AI ของ Wisedrive",
+        "description": "",
+        "date": "Jan 14, 2026",
+        "read-time": 5,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog1/01.png",
+        "url": "https://www.carz.com.my/2026/01/wisedrive-ai-powered-used-car-inspection-ecosystem-launched"
+      },
+      "blog_2": {
+        "title": "การตรวจสภาพรถมือสองด้วย AI ขณะนี้ในมาเลเซีย",
+        "description": "",
+        "date": "Jan 14, 2026",
+        "read-time": 3,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog2/01.png",
+        "url": "https://themalaysiapost.com/pemeriksaan-kereta-terpakai/"
+      },
+      "blog_3": {
+        "title": "WISEDRIVE เปิดตัวในฐานะโซลูชันครบวงจรขับเคลื่อนด้วย AI แห่งแรกของมาเลเซียสำหรับตลาดรถมือสอง",
+        "description": "",
+        "date": "Jan 15, 2026",
+        "read-time": 3,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog3/01.png",
+        "url": "https://keyauto.my/news/wisedrive-officially-in-malaysia"
+      },
+      "blog_4": {
+        "title": "เทคโนโลยีตรวจสภาพรถด้วย AI ของ WiseDrive สำหรับรถมือสอง",
+        "description": "",
+        "date": "Jan 15, 2026",
+        "read-time": 3,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog4/01.png",
+        "url": "https://www.carsifu.my/news/wisedrive-ai-vehicle-inspection-tech-for-used-cars"
+      },
+      "blog_5": {
+        "title": "WISEDRIVE เปิดตัวในฐานะโซลูชันครบวงจรขับเคลื่อนด้วย AI แห่งแรกของมาเลเซียสำหรับตลาดรถมือสอง",
+        "description": "",
+        "date": "Jan 14, 2026",
+        "read-time": 3,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog5/01.png",
+        "url": "https://carsick.my/2026/01/wisedrive-debuts-as-malaysias-first-ai-powered-end-to-end-solution-for-the-used-car-market/"
+      },
+      "blog_6": {
+        "title": "เปิดตัวระบบนิเวศการตรวจสภาพรถมือสองด้วย AI ของ Wisedrive",
+        "description": "",
+        "date": "Jan 14, 2026",
+        "read-time": 3,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog6/01.png",
+        "url": "https://newswav.com/article/wisedrive-ai-powered-used-car-inspection-ecosystem-launched-A2601_gPXlAG"
+      },
+      "blog_7": {
+        "title": "Wisedrive เข้าสู่มาเลเซีย แนะนำการตรวจสภาพรถมือสองด้วย AI",
+        "description": "",
+        "date": "Jan 15, 2026",
+        "read-time": 4,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog7/01.png",
+        "url": "https://luminews.my/ms/news/3920368"
+      },
+      "blog_8": {
+        "title": "Wisedrive เข้าสู่มาเลเซีย แนะนำการตรวจสภาพรถมือสองด้วย AI",
+        "description": "",
+        "date": "Jan 15, 2026",
+        "read-time": 4,
+        "category": "Article",
+        "thumbnail-path": "/blogs/blog8/01.png",
+        "url": "https://bm.soyacincau.com/2026/01/15/wisedrive-masuki-malaysia-perkenal-pemeriksaan-kereta-terpakai-berasaskan-ai/"
+      }
+    }
+  },
+  "Steps": {
+    "heading": "ซื้อรถของคุณด้วยความมั่นใจเต็มที่",
+    "heading_highlighted_word": "ความมั่นใจ",
+    "disclaimer_text": "ขั้นตอนอาจเปลี่ยนแปลงสำหรับแผนองค์กร",
+    "subtitle_question": "มีคำถามหรือพร้อมจองแล้วหรือยัง?",
+    "subtitle_heading": "ส่ง “Hi” ไปที่ +60 12 255 9610 ทาง WhatsApp ผู้เชี่ยวชาญของเราพร้อมนัดหมายการตรวจสภาพหรือช่วยเหลือในการซื้อของคุณ",
+    "subtitle_heading_highlighted_word": "+60 12 255 9610",
+    "steps": {
+      "step_1": {
+        "heading": "01. ซื้อแพ็กเกจ",
+        "description": "ชำระเงินออนไลน์ภายในไม่กี่นาที"
+      },
+      "step_2": {
+        "heading": "02. นัดหมาย",
+        "description": "เลือกเวลา/สถานที่ (บ้าน ดีลเลอร์ สถานที่ผู้ขาย) ผ่านเว็บหรือ WhatsApp"
+      },
+      "step_3": {
+        "heading": "03. ตรวจสภาพ",
+        "description": "ตรวจเช็กทางกายภาพ + สแกน OBD-II/ECM/BCM + รีวิวภายนอกจากภาพด้วย AI เราชี้ประเด็นความเสียหายสำคัญ ประเมินค่าซ่อม และแนะแนวราคาที่เหมาะสม"
+      },
+      "step_4": {
+        "heading": "04. รายงาน",
+        "description": "รับลิงก์ที่เหมาะกับมือถือ พร้อมภาพถ่าย การวินิจฉัย และขั้นตอนถัดไป รถที่ผ่านจะได้รับการรับรอง Wisedrive-Certified"
+      }
+    }
+  },
+  "Contact": {
+    "heading": "มาร่วมออกแบบโซลูชันความเสี่ยงสินทรัพย์ของคุณกัน",
+    "subheading": "เวิร์กโฟลว์องค์กรแต่ละแบบมีพารามิเตอร์ความเสี่ยงต่างกัน บอกความต้องการของคุณ แล้วเราจะแสดงให้เห็นว่าชั้นข้อมูลของเราผสานรวมเพื่อปกป้องผลกำไรของคุณได้อย่างไร",
+    "image": {
+      "src": "/contact/contact-us-img-new.webp",
+      "alt": "Contact Image"
+    },
+    "form": {
+      "fields": {
+        "name": {
+          "label": "ชื่อ",
+          "placeholder": "กรอกชื่อ-นามสกุลของคุณ"
+        },
+        "company": {
+          "label": "บริษัท",
+          "placeholder": "ชื่อบริษัท"
+        },
+        "email": {
+          "label": "อีเมล",
+          "placeholder": "กรอกที่อยู่อีเมลของคุณ"
+        },
+        "phone": {
+          "label": "หมายเลขโทรศัพท์",
+          "placeholder": "กรอกหมายเลขโทรศัพท์ของคุณ"
+        },
+        "businessType": {
+          "label": "ประเภทธุรกิจ",
+          "options": [
+            {
+              "label": "ธนาคาร",
+              "value": "ธนาคาร"
+            },
+            {
+              "label": "บริษัทประกันภัย",
+              "value": "บริษัทประกันภัย"
+            },
+            {
+              "label": "OEM",
+              "value": "OEM"
+            },
+            {
+              "label": "อื่นๆ",
+              "value": "อื่นๆ"
+            }
+          ]
+        },
+        "message": {
+          "label": "ข้อความ",
+          "placeholder": "ข้อความของคุณที่นี่"
+        }
+      },
+      "submitButton": {
+        "label": "ติดต่อฝ่ายขายองค์กร"
+      },
+      "messages": {
+        "success": "ส่งข้อความสำเร็จ!",
+        "error": "เกิดข้อผิดพลาดบางอย่าง"
+      }
+    }
+  },
+  "OurBrands": {
+    "badge_text": "แบรนด์ของเรา",
+    "heading": "ความเชี่ยวชาญครอบคลุมทุกยี่ห้อ",
+    "heading_highlighted_word": "",
+    "description": "ตั้งแต่ Proton และ Perodua ไปจนถึงรถนำเข้า เราได้รับการฝึกอบรมสำหรับรถที่คุณขับ"
+  },
+  "Footer": {
+    "address": "ห้อง 5.03 ชั้น 5 บล็อก B อาคาร Pan Global, 1A, ถนน Tandang, เขต 51, 46050 Petaling Jaya, Selangor",
+    "products": "ผลิตภัณฑ์",
+    "car_inspections": "การตรวจสภาพรถ",
+    "luxury_inspection": "การตรวจสภาพรถหรู",
+    "car_service": "บริการและบำรุงรักษารถ (เร็วๆ นี้)",
+    "car_repairs": "การซ่อมและบำรุงรักษารถ (เร็วๆ นี้)",
+    "company": "บริษัท",
+    "about_us": "เกี่ยวกับเรา",
+    "how_it_works": "ทำงานอย่างไร",
+    "contact_us": "ติดต่อเรา",
+    "resources": "แหล่งข้อมูล",
+    "sample_report": "ตัวอย่างรายงาน",
+    "faqs": "ศูนย์ช่วยเหลือ / คำถามที่พบบ่อย",
+    "coverage_areas": "พื้นที่ให้บริการ",
+    "customer_reviews": "รีวิวลูกค้า",
+    "policies": "นโยบายและข้อกำหนด",
+    "inspection_terms": "ข้อกำหนดและเงื่อนไขการตรวจสภาพ",
+    "refund_policy": "นโยบายการยกเลิกและคืนเงิน",
+    "terms_conditions": "ข้อกำหนดและเงื่อนไข",
+    "privacy_policy": "นโยบายความเป็นส่วนตัว",
+    "copyright": "© Wisedrive Technologies (M) Sdn. Bhd. สงวนลิขสิทธิ์ {year}"
+  },
+  "TermsAndConditions": {
+    "page_title": "ข้อกำหนดและเงื่อนไข",
+    "definitions": {
+      "section_title": "1. Definitions",
+      "we_us": "We/Us and We",
+      "we_us_desc": "means Wisedrive Technologies (M) Sdn. Bhd.",
+      "agreement": "Agreement",
+      "agreement_desc": "means the agreement between Wisedrive and Customer where Wisedrive agrees to arrange for an Inspector to conduct an Inspection in accordance with these terms and conditions.",
+      "cancellation_fee": "Cancellation Fee",
+      "cancellation_fee_desc": "means the amount payable by the Customer as stated in these terms and conditions.",
+      "customer_you": "Customer/You",
+      "customer_you_desc": "means a Wisedrive customer who makes a booking for an Inspection.",
+      "fee": "Fee",
+      "fee_desc": "means the amount payable by the Customer to Wisedrive for the Inspection as stated at https://www.wisedrive.com.",
+      "inspection": "Inspection",
+      "inspection_desc": "means the visual audio and external inspection as well as test drive conducted by an Inspector on behalf of Wisedrive for the Customer in accordance with these terms and conditions.",
+      "inspector": "Inspector",
+      "inspector_desc": "refers to the certified inspector who conducts the Inspection on behalf of Wisedrive. Inspectors are subject to availability and may be replaced with suitable third-party agents.",
+      "report": "Report",
+      "report_desc": "means the written report produced by the Inspector as part of the Inspection, which includes the Customer's name and address, the inspected Vehicle's registration details and its location, whether the Vehicle passed or failed the Inspection, a list of checks performed (depending on the type of Inspection requested by the Customer) and a summary of any areas of concern that need attention from the Customer.",
+      "report_checklist": "Report Checklist",
+      "report_checklist_desc": "means the list of aspects that will be or have been inspected by the Inspector as part of the Physical Inspection, which can be found at https://www.wisedrive.com.",
+      "vehicle": "Vehicle",
+      "vehicle_desc": "means the vehicle for which the Customer requires the Inspector to conduct an Inspection.",
+      "inspection_categories": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle."
+    },
+    "general_scope": {
+      "section_title": "2. General Scope",
+      "point_1": "Inspections are provided based on visual and external inspection only and are limited to the parts and/or items identified in the Report. The Inspection does not involve disassembly or interference with any structure, component, or internal mechanism. The Inspector will conduct a test drive on the Vehicle and produce a Report. There are certain parts of the Vehicle that will not be inspected. You should read the Report Checklist carefully to see what will not be inspected.",
+      "point_2": "A copy of the Report will be sent to you via email to the email address you provided when making the Inspection booking. Due to the nature of the internet and virus protection software used by your internet service provider or installed on your computer, it may not be guaranteed that the Report will be delivered via email in all cases. If you do not receive your Report within 24 hours after your Wisedrive Vehicle Inspection, you must notify Us as soon as possible so that We can resend the Report to you.",
+      "point_3": "Items listed in the Report Checklist as parts/items to be inspected, but which cannot be easily accessed on the Vehicle, will not be inspected. In such circumstances, We have no obligation to inspect and/or report on those parts/items, and the Inspector will mark the relevant sections in the Report accordingly.",
+      "point_4": "The Vehicle should be in a clean condition to ensure the Inspector can accurately see and report on the vehicle parts being inspected. If the vehicle is not clean, the Inspector reserves the right not to comment on those parts and will mark the Report Checklist accordingly. In this case, the Report Fee is still payable in full."
+    },
+    "road_test": {
+      "section_title": "3. Road Test Requirements",
+      "point_1": "To enable our Inspector to conduct a Road Test on your Vehicle, you must ensure that the vehicle contains sufficient quantities of:",
+      "point_1_items": [
+        "Water",
+        "Oil",
+        "Petrol"
+      ],
+      "point_2": "Road tests are conducted in the area surrounding the Inspection. If the Vehicle is in an unsafe condition to be driven or contains insufficient quantities of oil, water and/or petrol, or if the Customer cannot confirm that the Vehicle has a valid roadworthiness certificate, the road test cannot be carried out during the Inspection.",
+      "point_3": "The payment for the Inspection is still payable in full and additional charges will be applied for any subsequent road test that you ask Us to conduct.",
+      "point_4": "The performance of a road test does not mean that our Inspector has seen a valid roadworthiness certificate.",
+      "point_5": "Obtaining the necessary permissions and access to the Vehicle is the responsibility of the Customer.",
+      "point_6": "The Customer must ensure that proper arrangements have been made (including obtaining any necessary permissions from the Vehicle owner) for the Inspection to be carried out at workshop premises or in an off-road area with a flat, hard, and dry surface.",
+      "point_7": "Our Inspector requires sufficient space to walk around the Vehicle and fully open all doors. Our Inspector also needs to have sufficient space to park his/her vehicle near the Inspection location.",
+      "point_8": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions."
+    },
+    "payment_cancellation": {
+      "section_title": "4. Payment and Cancellation",
+      "point_1": "Payment must be made at the time of booking the Inspection.",
+      "point_2": "We reserve the right to refuse to conduct an Inspection or issue a Report for any vehicle: that cannot be reasonably accessed by the Inspector; or that appears to the Inspector as:",
+      "point_2_items": [
+        "not standard production (for example, but not limited to, a kit car)",
+        "has been modified or not used frequently (for example, showing signs of excessive corrosion on moving parts due to being left too long and could cause the Vehicle to be unsafe to drive without repairs)",
+        "unsafe to drive or is in an unroadworthy condition"
+      ],
+      "point_3": "Where the Customer fails to ensure proper arrangements for the Inspection to be carried out, as required, or has provided incorrect or incomplete information that prevents Us from carrying out the Inspection, you acknowledge that in such circumstances We are entitled to treat the Agreement as terminated and retain the Payment in full.",
+      "point_4": "If you wish Us to carry out another Inspection, you need to make an additional payment at the time of the new booking.",
+      "point_5": "You are entitled to cancel the Inspection and receive a full refund of the Payment if the cancellation is made at least 24 hours before the scheduled Inspection. After the Inspection has been carried out, no refund of the payment will be given.",
+      "point_6": "To cancel the Inspection, you must notify our Customer Support Team of your decision by sending an email to support.my@wisedrive.com or by calling +60 122559610, Monday to Friday from 9 am to 5 pm.",
+      "point_7": "To enable us to locate your booking, you need to provide your name, address, telephone number, and booking reference number (as given in your booking confirmation) along with your cancellation request."
+    },
+    "complaints": {
+      "section_title": "5. Complaints",
+      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to conduct a re-inspection of the Vehicle to address that complaint, and you agree to allow Us to do so.",
+      "point_2": "No repairs should be undertaken or any parts of the vehicle replaced before a re-inspection is carried out by Us. If emergency repairs are needed to ensure the Vehicle is safe to use and subsequently becomes the subject of a complaint to Us, you must ensure that the complaint is made to Us (including notification of the emergency repair requirement) within a reasonable period after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not be responsible under any circumstances for the cost of repairs or parts replacement without prior written agreement from Us.",
+      "point_3": "We reserve the right to require another of our Inspectors to conduct a re-inspection of any Vehicle at our own expense if deemed necessary to address any complaint. You are also required to allow our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued."
+    },
+    "matters_beyond_control": {
+      "section_title": "6. Matters Beyond Our Reasonable Control",
+      "point_1": "We will not be responsible for any delay or inability to conduct an Inspection due to events or circumstances beyond our reasonable control. We will take steps to minimize the impact where possible.",
+      "point_2": "Wisedrive will only be responsible to the Customer (and not to any other party) if Wisedrive fails to perform the Inspection in accordance with these terms and conditions. Without limiting the above, you acknowledge that Wisedrive or the Inspector will not be liable to you or any other party for any liability, loss, damage, claim, proceeding, cost or expense (collectively referred to as \"Losses\") suffered or incurred in any of the following circumstances:",
+      "point_3": "Such Losses are not a reasonably foreseeable consequence of any breach (Losses are considered foreseeable if they could be anticipated by you and Us at the time the Vehicle Inspection was performed).",
+      "point_4": "Such Losses are not directly caused by a breach of these terms and conditions by Us or the Inspector.",
+      "point_5": "Such Losses relate to business losses or other losses to a customer who is not a consumer.",
+      "point_6": "Such Losses are increased as a result of a breach of any of these terms and conditions by you.",
+      "point_7": "Nothing in this document will affect a consumer's statutory rights under any applicable laws."
+    },
+    "enforcement": {
+      "section_title": "7. Enforcement of Terms",
+      "point_1": "Each clause in these terms operates separately. If any court or relevant authority decides that any of them are invalid, the remaining clauses will remain in full force and effect.",
+      "point_2": "This Agreement is between you and Wisedrive. No other party has any right to enforce any term in this Agreement. We also do not need to get the agreement of any party to make any changes to these terms."
+    },
+    "advice": {
+      "section_title": "8. Advice Regarding Report",
+      "content": "You are advised to discuss the findings in the Report with the seller before making a decision to purchase the Vehicle. If you have not seen the Vehicle personally, you must ensure that the cosmetic condition and specifications of the Vehicle are satisfactory and suitable for your requirements and expectations. We suggest that you view and drive the Vehicle yourself before making a purchase decision."
+    }
+  },
+  "CancellationAndRefund": {
+    "page_title": "นโยบายการยกเลิกและคืนเงิน",
+    "within_ten_days": {
+      "section_title": "Within the First 10 Days",
+      "eligibility": "If you request cancellation within 10 days of purchase, you are entitled to a full refund of your premium.",
+      "how_to_cancel": "To request cancellation, please send an email to support.my@wisedrive.com with your policy details and cancellation request.",
+      "coverage_termination": "Your coverage will be terminated immediately upon receipt of your cancellation request.",
+      "refund_entitlement": "You will receive a full refund of the amount paid."
+    },
+    "after_ten_days": {
+      "section_title": "Cancellation Request Received After 10 Days",
+      "no_refund": "If you request cancellation after the first 10 days, you are not entitled to a refund of your premium.",
+      "cancellation_allowed": "However, you may still submit a cancellation request to terminate your coverage at any time.",
+      "coverage_end": "Your coverage will end on the date specified in your cancellation request."
+    },
+    "refund_methods": {
+      "section_title": "Payment and Refund Methods",
+      "processing_time": "Approved refunds will be processed within 14 days.",
+      "original_method": "Refunds will be credited back to your original payment method.",
+      "alternative_arrangement": "If you would like to arrange an alternative refund method, please contact our support team at support.my@wisedrive.com."
+    }
+  },
+  "PrivacyPolicy": {
+    "page_title": "นโยบายความเป็นส่วนตัว",
+    "what_we_do": {
+      "section_title": "What We Do With Your Information",
+      "content": "When you purchase from our store, as part of the buying and selling process, we collect personal information you provide to us such as your name, address and email address. When you browse our store, we also automatically receive your computer's Internet Protocol (IP) address to provide us information that helps us understand your browser and operating system. Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates."
+    },
+    "consent": {
+      "section_title": "Consent",
+      "how_consent": "How do you give us your consent? When you provide personal information to us to complete a transaction, verify your credit card, place an order, arrange delivery or return a purchase, we consider that you consent for us to collect and use it only for that specific purpose. If we ask for your personal information for a secondary purpose, such as marketing, we will ask for your permission directly or give you an opportunity to refuse. How can I withdraw my consent? If after you consent, you change your mind, you can withdraw your consent for us to contact you, to continue collecting, using or disclosing your information at any time by contacting us at support.my@wisedrive.com."
+    },
+    "disclosure": {
+      "section_title": "Disclosure",
+      "content": "We may disclose your personal information if we are required to do so by law or if you breach our Terms of Service."
+    },
+    "payment": {
+      "section_title": "Payment",
+      "content": "We use Razorpay to process payments. We/Razorpay do not store your card data on their servers. This data is encrypted through Payment Card Data Security Standard (PCI-DSS) during payment processing. Your purchase transaction data is only used as long as needed to complete your purchase transaction. After that, your purchase transaction information is not stored. Our payment gateway complies with the standards set by PCI-DSS managed by the PCI Security Standards Council, which is a joint effort of brands such as Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. For more information, you can also read Razorpay's terms and conditions."
+    },
+    "third_party": {
+      "section_title": "Third Party Services",
+      "content": "Generally, third-party providers used by us will only collect, use and disclose your information to the extent necessary to enable them to perform the services they provide to us. However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies regarding the information we must provide to them for your purchase transaction. For these providers, we recommend you read their privacy policies so you understand how your personal information will be handled by these providers. In particular, it should be noted that certain providers may be located in or have facilities located in a jurisdiction different from you or us. So, if you choose to proceed with a transaction involving the services of a third-party provider, then your information may be subject to the laws of the jurisdiction where the service provider or its facility is located. Once you leave our store website or are redirected to a third-party website or application, you are no longer subject to this Privacy Policy or our website's Terms of Service. When you click a link on our store, that link may take you outside our website. We are not responsible for the privacy practices of other websites and encourage you to read their privacy statements."
+    },
+    "security": {
+      "section_title": "Security",
+      "content": "To protect your personal information, we take reasonable precautionary steps and follow industry best practices to ensure that the information is not lost, misused, accessed, disclosed, altered or destroyed improperly."
+    },
+    "cookies": {
+      "section_title": "Cookies",
+      "content": "We use cookies to maintain your user session. It is not used to identify you personally on other websites."
+    },
+    "age_consent": {
+      "section_title": "Age of Consent",
+      "content": "By using this site, you affirm that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site."
+    },
+    "changes": {
+      "section_title": "Changes to This Privacy Policy",
+      "content": "We have the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting to the website. If we make material changes to this policy, we will notify you here that it has been updated, so you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owner so we can continue to sell products to you."
+    },
+    "contact": {
+      "section_title": "Questions & Contact Information",
+      "content": "If you would like to: access, correct, amend or delete any personal information we have about you, make a complaint, or simply want more information, please contact our Privacy Compliance Officer at support.my@wisedrive.com."
+    }
+  },
+  "InspectionTermsAndConditions": {
+    "page_title": "นโยบายความเป็นส่วนตัวของ Wisedrive Technologies (M) Sdn. Bhd.",
+    "definitions": {
+      "section_title": "Definitions",
+      "we_us": "We/Us",
+      "we_us_desc": "Wisedrive Technologies (M) Sdn. Bhd. Limited",
+      "agreement": "Agreement",
+      "agreement_desc": "An agreement between Wisedrive and the Customer whereby Wisedrive agrees to arrange for an Inspector to perform an Inspection in accordance with these terms and conditions",
+      "cancellation_fee": "Cancellation Fee",
+      "cancellation_fee_desc": "The amount payable by the Customer as stated in these terms and conditions",
+      "customer_you": "Customer/You",
+      "customer_you_desc": "A customer of Wisedrive who makes a booking for an Inspection",
+      "fee": "Fee",
+      "fee_desc": "The amount payable by the Customer to Wisedrive for an Inspection as stated at",
+      "inspection": "Inspection",
+      "inspection_desc": "A visual audio and external examination and road test conducted by an Inspector on behalf of Wisedrive for the Customer in accordance with these terms and conditions",
+      "inspection_note": "Inspection Note",
+      "inspection_note_desc": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle",
+      "inspector": "Inspector",
+      "inspector_desc": "A qualified inspector who conducts an Inspection on behalf of Wisedrive. The Inspector is subject to availability and may be replaced with a suitable third-party agent",
+      "report": "Report",
+      "report_desc": "The written report produced by the Inspector as part of the Inspection, which includes the Customer's name and address, the Vehicle registration details and location being inspected, whether the Vehicle passed or failed the Inspection, the checklist of items performed (depending on the type of Inspection requested by the Customer) and a summary of any aspects of concern that require the Customer's attention",
+      "report_checklist": "Report Checklist",
+      "report_checklist_desc": "The list of aspects that will or have been checked by the Inspector as part of the Physical Inspection, which can be found at",
+      "vehicle": "Vehicle",
+      "vehicle_desc": "The vehicle for which the Customer requires the Inspector to perform an Inspection"
+    },
+    "general_scope": {
+      "section_title": "General Scope",
+      "point_1": "Inspections are provided on the basis of visual and external examinations only and are limited to the parts and/or items identified in the Report. Inspections do not involve the dismantling or disturbance of any internal structures, components or mechanisms. The Inspector will perform a road test on the Vehicle and produce a Report. There are certain parts in the Vehicle that will not be inspected. You should read the Report Checklist carefully to see what will not be inspected.",
+      "point_2": "A copy of the Report will be sent to you via email to the email address you provided when booking the Inspection. Due to the nature of the internet and the virus protection software used by your internet service provider or loaded onto your computer, in some cases the Report may not be deliverable via email. If you do not receive your Report within 24 hours after the Wisedrive Vehicle Inspection is carried out, you must notify Us as soon as possible so that We can resend your Report. We will not be liable to you for any failure to deliver the Report if such failure is beyond Our reasonable control.",
+      "point_3": "Items listed in the Report Checklist as parts/items to be checked but which cannot be easily accessed on the Vehicle will not be inspected. In such circumstances, We have no obligation to inspect and/or report on such parts/items and the Inspector will mark the relevant parts in the Report accordingly.",
+      "point_4": "The Vehicle should be in a clean condition to ensure the Inspector can accurately see and report on the vehicle parts being inspected. If the vehicle is not clean, the Inspector reserves the right not to comment on those parts and will mark the Report Checklist accordingly. In this case, the Report Fee is still payable in full."
+    },
+    "road_test": {
+      "section_title": "Road Test Requirements",
+      "point_1": "To enable our Inspector to perform a Road Test on the Vehicle, you must ensure that the vehicle contains sufficient quantities of: (a) Water; (b) Oil; (c) Petrol",
+      "point_1_items": [
+        "Water",
+        "Oil",
+        "Petrol"
+      ],
+      "point_2": "Road tests are carried out within the area surrounding the Inspection. If: The Vehicle is in an unsafe condition to be driven or contains insufficient quantities of oil, water and/or petrol; The Customer cannot confirm that the Vehicle has a valid fitness certificate and therefore a road test cannot be carried out during the Inspection; Payment for the Inspection must still be paid in full and an additional charge will be levied for any subsequent road test you request Us to carry out",
+      "point_3": "The performance of a road test does not mean our Inspector has sighted a valid fitness certificate",
+      "point_4": "Obtaining necessary permissions and access to the Vehicle is the responsibility of the Customer",
+      "point_5": "The Customer must ensure that proper arrangements have been made (including obtaining any necessary permissions from the Vehicle owner) for the Inspection to be carried out at workshop premises or in an outdoor area with a flat, hard and dry surface",
+      "point_6": "Our Inspector requires sufficient space to walk around the Vehicle and open all doors fully. Our Inspector also needs sufficient space to park their vehicle close to the Inspection location",
+      "point_7": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions.",
+      "point_8": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions."
+    },
+    "payment_cancellation": {
+      "section_title": "Payment and Cancellation",
+      "point_1": "Payment must be made at the time of booking the Inspection",
+      "point_2": "We have the right to refuse to perform an Inspection or issue a Report for any vehicle: which cannot be reasonably accessed by the Inspector; or which appears to the Inspector as: (a) not a standard production (for example, but not limited to, kit cars); (b) has been modified or is not regularly used (for example, showing signs of excessive corrosion on moving parts due to being left for too long and may cause the Vehicle to be unsafe to drive without repairs); (c) is not safe to drive or is in an unroadworthy condition",
+      "point_2_items": [
+        "Any circumstances referred to in these Terms & Conditions",
+        "Where the Customer fails to ensure proper arrangements are made for the Inspection to be carried out, as required",
+        "Where the Customer has provided false or incomplete information which prevents Us from carrying out the Inspection and you acknowledge that in such circumstances We are entitled to treat the Agreement as terminated and retain the Payment in full"
+      ],
+      "point_3": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking",
+      "point_4": "You have the right to cancel the Inspection and receive a full refund of Payment if cancellation is made at least 24 hours before the Inspection is scheduled. After the Inspection is carried out, no refund will be given",
+      "point_5": "To cancel an Inspection, You must inform our Customer Support Team of your decision by emailing support.my@wisedrive.com or calling +60 122559610, Monday to Friday from 9am to 5pm",
+      "point_6": "To enable us to locate your booking, you need to provide your name, address, telephone number and booking reference number (as given in your booking confirmation) along with your cancellation request",
+      "point_7": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking"
+    },
+    "complaints": {
+      "section_title": "Complaints",
+      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to perform a re-inspection of the Vehicle to address such complaint, and you agree to permit Us to do so",
+      "point_2": "No repairs may be made or any vehicle parts replaced before a re-inspection is carried out by Us. If emergency repairs are required to ensure the Vehicle is safe to use and subsequently become the subject of a complaint to Us, you must ensure the complaint is made to Us (including notice of the requirement for emergency repairs) within a reasonable time after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not in any circumstances be liable for the cost of repairs or replacement of parts without Our prior written consent",
+      "point_3": "We have the right to require another of Our Inspectors to conduct a re-inspection of any Vehicle at Our own expense if deemed necessary to address any complaint. You are also required to allow Our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued"
+    },
+    "matters_beyond_control": {
+      "section_title": "Matters Beyond Our Reasonable Control",
+      "point_1": "We will not be liable for any delay in or inability to perform an Inspection as a result of events or circumstances beyond Our reasonable control. We will take steps to minimize its impact if possible",
+      "point_2": "Wisedrive will only be liable to the Customer (and not to any other party) if Wisedrive fails to perform an Inspection in accordance with these terms and conditions. Without limiting the foregoing, you acknowledge that Wisedrive or the Inspector will not be liable to you or any other party for any liability, loss, damage, claim, proceedings, costs or expenses (collectively referred to as 'Loss') suffered or incurred in any of the following circumstances",
+      "point_3": "Such Loss is not a reasonably foreseeable consequence of any breach (Loss is deemed foreseeable if it could have been anticipated by you and Us at the time the Vehicle Inspection is performed)",
+      "point_4": "Such Loss is not directly caused by a breach of these terms and conditions by Us or the Inspector",
+      "point_5": "Such Loss involves loss of business or other loss to customers who are not end-users",
+      "point_6": "Such Loss is increased as a result of a breach of any of these terms and conditions by You",
+      "point_7": "Nothing in this document will affect a consumer's statutory rights under any applicable laws"
+    },
+    "enforcement": {
+      "section_title": "Enforcement of Terms",
+      "point_1": "Each clause in these terms operates separately. If any court or relevant authority decides that any of them is invalid, the remaining clauses will remain in full force and effect",
+      "point_2": "This Agreement is between you and Wisedrive. No other party has any right to enforce any term in this Agreement. We also do not need to get the agreement of any party to make any changes to these terms"
+    },
+    "advice": {
+      "section_title": "Advice Regarding Report",
+      "content": "You are advised to discuss the findings in the Report with the seller before making a decision to purchase the Vehicle. If you have not seen the Vehicle personally, you must ensure that the cosmetic condition and specifications of the Vehicle are satisfactory and suitable for your requirements and expectations. We suggest that you view and drive the Vehicle yourself before making a purchase decision."
+    }
+  }
+}
