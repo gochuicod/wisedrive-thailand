@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
-const baseUrl = 'https://wisedrive.my';
-const locales = ['en', 'in'];
+const baseUrl = 'https://wisedrive-thailand.com';
+const locales = ['th', 'en', 'my'];
 
 const routes = [
   '',

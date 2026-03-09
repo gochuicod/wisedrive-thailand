@@ -13,7 +13,7 @@ export async function POST(req: Request) {
 
     // Admin Email
     await resend.emails.send({
-      from: 'Contact <no-reply@wisedrive.my>',
+      from: 'Contact <no-reply@wisedrive-thailand.com>',
       to: ['nurhafiz.zubir@wisedrive.com'],
       subject: 'New Enterprise Contact Request',
       html: `
@@ -29,7 +29,7 @@ export async function POST(req: Request) {
 
     // User Confirmation Email
     await resend.emails.send({
-      from: 'Contact <no-reply@wisedrive.my>',
+      from: 'Contact <no-reply@wisedrive-thailand.com>',
       to: [data.email],
       cc: ['nurhafiz.zubir@wisedrive.com'],
       subject: 'Regarding your Wisedrive Enterprise Inquiry',

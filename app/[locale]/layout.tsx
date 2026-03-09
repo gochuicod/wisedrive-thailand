@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'WiseDrive - AI-Powered Car Inspections',
     description: 'Avoid hidden repair costs. Get a professional AI engine health check and extended warranty to protect your investment. Buy with data, not just a gut feeling.',
-    url: 'https://wisedrive.my',
+    url: 'https://wisedrive-thailand.com',
     siteName: 'WiseDrive',
     images: [
       {
