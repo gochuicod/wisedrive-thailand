@@ -1,0 +1,111 @@
+# Next.js Copywriting Extractor Configuration
+# This file configures how the tool extracts and formats copywriting from your Next.js project
+
+# Input configuration
+input:
+  # Directory containing locale JSON files (relative to workspace root)
+  locale_dir: messages
+  
+  # Locales to extract (currently only first locale is used)
+  locales:
+    - en
+    # - my  # Malay
+    # - th  # Thai
+    # - id  # Indonesian
+  
+  # File naming pattern for locale files
+  # Use {locale} as placeholder for locale code
+  file_pattern: '{locale}.json'
+
+# Output configuration
+output:
+  # Output filename pattern (use {date} for date stamp)
+  filename: 'Copywriting_{date}'
+  
+  # Output formats: csv, xlsx, or both
+  formats:
+    - csv
+    - xlsx
+  
+  # Columns to include in output
+  columns:
+    - route
+    - page
+    - section
+    - content_type
+    - key
+
+# Extraction rules
+extraction:
+  # Map section keys to specific routes
+  # If not specified, routes are inferred from section names
+  route_mapping:
+    B2CHero: '/'
+    B2BHero: '/enterprise-solutions'
+    TechStack: '/enterprise-solutions'
+    Infrastructure: '/enterprise-solutions'
+    PartnershipModels: '/enterprise-solutions'
+    Contact: '/enterprise-solutions'
+    TermsAndConditions: '/terms-and-conditions'
+    PrivacyPolicy: '/privacy-policy'
+    CancellationAndRefund: '/cancellation-and-refund-policy'
+    InspectionTermsAndConditions: '/inspection-terms-and-conditions'
+  
+  # Define page types (b2c, b2b) for each section
+  page_types:
+    # Global sections (appear on all pages)
+    global:
+      - Navigation
+      - Footer
+      - StickyBanner
+      - PopUp
+    
+    # B2B sections
+    b2b:
+      - B2BHero
+      - TechStack
+      - Infrastructure
+      - PartnershipModels
+      - Contact
+    
+    # B2C sections (all others default to b2c)
+    b2c:
+      - B2CHero
+      - OurBrands
+      - Advantage
+      - Highlights
+      - WhyChooseUs
+      - EnterpriseSolutions
+      - HighlightPills
+      - Inspection
+      - Steps
+      - FAQSection
+      - Reviews
+      - NewsBlogs
+      - CTAs
+  
+  # Keys to skip during extraction (e.g., metadata, URLs, images)
+  skip_keys:
+    - image
+    - image_alt_text
+    - button_link
+    - url
+    - thumbnail-path
+    - ctaLink
+  
+  # Whether to flatten nested objects
+  flatten_nested: true
+  
+  # Maximum depth for nested objects
+  max_depth: 10
+
+# Styling for XLSX output
+styling:
+  # Header background color (hex without #)
+  header_color: '193CB8'
+  
+  # Header text color (hex without #)
+  header_text_color: 'FFFFFF'
+  
+  # Alternate row background color (hex without #)
+  alternate_row_color: 'F5F5F5'

@@ -1,0 +1,796 @@
+{
+  "Navigation": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "features": "Ciri-ciri",
+    "inspection_plan": "Pelan Pemeriksaan",
+    "faqs": "Soalan Lazim",
+    "our_tech_stack": "Teknologi Kami",
+    "our_audience": "Audiens Kami",
+    "partnership_models": "Model Perkongsian",
+    "contact_us": "Hubungi Kami",
+    "inspect_with_confidence_button": "Periksa dengan yakin",
+    "partner_with_us_button": "Jadi Rakan Kongsi Kami"
+  },
+  "StickyBanner": {
+    "text": "Adakah anda seorang Pengedar, Penanggung Insurans, atau Pembiaya? Lihat bagaimana Wisedrive melindungi portfolio anda.",
+    "ctaLabel": "Pergi ke Solusi Perusahaan",
+    "ctaLink": "/enterprise-solutions"
+  },
+  "PopUp": {
+    "title": "Skala portfolio anda dengan data yang boleh dipercayai",
+    "description": "Wisedrive melindungi portfolio anda dengan pemeriksaan teknikal yang diperkasa AI, analisis ECU masa nyata, dan algoritma pengesanan penipuan—diintegrasikan terus ke dalam aliran kerja perusahaan anda.",
+    "features": [
+      "Bank & Pembiaya",
+      "Syarikat Insurans",
+      "Rangkaian Pengedar & OEM",
+      "Pasaran & Platform"
+    ],
+    "ctaLabel": "Bekerjasama Dengan Kami"
+  },
+  "PartnershipModels": {
+    "heading": "Model Perkongsian",
+    "subheading": "Model kerjasama bertaraf perusahaan yang direka untuk berskala besar.",
+    "cards": {
+      "card_1": {
+        "heading": "Lesen Pukal / Langganan Perusahaan",
+        "subheading": "Terbaik untuk: Bank, Syarikat Insurans, OEM, dan Kumpulan Pengedar Besar",
+        "description": "Pengaturan bulanan berkontrak yang direka untuk kestabilan volum tinggi. Termasuk harga bertingkat mengikut volum untuk pemeriksaan, pengurusan akaun khusus, dan masa pusingan yang disokong SLA."
+      },
+      "card_2": {
+        "heading": "Integrasi API & Label Putih",
+        "subheading": "Terbaik untuk: Aplikasi Super, Fintech, dan Pasaran Utama",
+        "description": "Model integrasi fleksibel yang menawarkan akses API dan solusi label putih. Ideal untuk perniagaan yang ingin menyepadukan perkhidmatan kami dengan lancar ke dalam platform mereka dengan penjenamaan dan pengalaman pengguna yang boleh disesuaikan."
+      }
+    }
+  },
+  "CTAs": {
+    "confidence": {
+      "heading": "Beli Dengan Yakin, Elakkan Penyesalan",
+      "highlighted": "Yakin",
+      "subheading": "Wawasan jelas. Keputusan bijak. Tiada kejutan.",
+      "btn1": "Tempah Pemeriksaan Anda",
+      "btn2": "Bercakap dengan pakar"
+    },
+    "consultation": {
+      "heading": "Ragu-ragu tentang Kereta? Dapatkan Konsultasi Percuma.",
+      "highlighted": "Konsultasi Percuma",
+      "subheading": "Dapatkan konsultasi percuma tanpa komitmen untuk menjawab soalan anda serta-merta.",
+      "btn1": "Minta Panggilan Balik Percuma"
+    },
+    "secure": {
+      "heading": "Lihat bagaimana wisedrive boleh melindungi portfolio anda",
+      "highlighted": "melindungi",
+      "subheading": "Manfaatkan pemeriksaan dipacu AI untuk mengesahkan ketepatan cagaran dan mengurangkan risiko di seluruh rangkaian pinjaman anda.",
+      "btn1": "Terokai Penyelesaian Perusahaan"
+    }
+  },
+  "Highlights": {
+    "highlight_1": {
+      "title": "Dikuasakan AI",
+      "description": "AI kami melihat dan mendengar perkara yang sering terlepas pandang, membantu anda mengelakkan kos pembaikan yang mahal"
+    },
+    "highlight_2": {
+      "title": "Pemeriksaan Pantas",
+      "description": "Audit lengkap lebih 200 titik dalam masa kurang 90 minit, mempercepatkan keputusan pembelian anda."
+    },
+    "highlight_3": {
+      "title": "Laporan Serta-Merta",
+      "description": "Laporan terperinci dan mudah difahami tersedia sebaik sahaja pemeriksaan selesai."
+    },
+    "highlight_4": {
+      "title": "Audit 200+ Titik",
+      "description": "Protokol ketat dan bebas bias bagi memastikan keputusan yang konsisten dan boleh dipercayai."
+    },
+    "highlight_5": {
+      "title": "Perlindungan Penipuan",
+      "description": "Kami mengesahkan perbatuan dan data kenderaan untuk melindungi anda daripada manipulasi dan tuntutan palsu."
+    },
+    "highlight_6": {
+      "title": "Data Imej Objektif",
+      "description": "AI mengimbas foto untuk mengesan pembaikan tersembunyi, memberikan bukti visual yang tidak dapat disangkal."
+    }
+  },
+  "EnterpriseSolutions": {
+    "heading": "Kami memperkasa industri, bukan hanya pembeli.",
+    "description": "Sertai rangkaian syarikat insurans, bank, dan pengedar yang menggunakan Wisedrive untuk mencegah penipuan, melindungi portfolio kereta anda, dan mengautomasikan pemeriksaan.",
+    "cta_button_text": "Lihat Solusi Perusahaan",
+    "pills": {
+      "pill_1_text": "Rangkaian Pengedar & OEM",
+      "pill_2_text": "Syarikat Insurans",
+      "pill_3_text": "Bank & Pembiaya",
+      "pill_4_text": "Pasaran & Platform"
+    }
+  },
+  "WhyChooseUs": {
+    "badge_text": "Kenapa Pilih Kami?",
+    "heading": "apa yang ai kami lakukan untuk anda",
+    "heading_highlighted_word": "ai",
+    "slides": {
+      "slide_1": {
+        "image": "/why_choose_us/why-choose-us-1.webp",
+        "image_alt_text": "Sound AI",
+        "panel_heading": "Sound AI",
+        "panel_text": "Mengesan kerosakan dalaman enjin dan kehausan yang tidak dapat didengar oleh telinga manusia, mencegah kerosakan di masa hadapan",
+        "button_text": "Visual AI",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_2": {
+        "image": "/why_choose_us/why-choose-us-2.webp",
+        "image_alt_text": "Visual AI",
+        "panel_heading": "Visual AI",
+        "panel_text": "Mengesan ketidakpadanan cat, karat tersembunyi, dan pembaikan akibat kemalangan yang mungkin anda sendiri terlepas pandang",
+        "button_text": "Visual AI",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_3": {
+        "image": "/why_choose_us/why-choose-us-3.webp",
+        "image_alt_text": "Price Prediction AI",
+        "panel_heading": "Price Prediction AI",
+        "panel_text": "Mengira nilai pasaran sebenar kereta berdasarkan keadaan sebenarnya supaya anda tidak membayar lebih.",
+        "button_text": "Price Prediction AI",
+        "button_link": "/why_choose_us/slide_2"
+      },
+      "slide_4": {
+        "image": "/why_choose_us/why-choose-us-4.webp",
+        "image_alt_text": "Verified by an independent expert",
+        "panel_heading": "Disahkan oleh pakar bebas",
+        "panel_text": "Memberikan keputusan jelas sama ada untuk 'Berunding' atau 'Tarik Diri', satu kejelasan mutlak untuk keputusan terbesar anda.",
+        "button_text": "Sound AI",
+        "button_link": "/why_choose_us/slide_2"
+      }
+    }
+  },
+  "B2CHero": {
+    "heading": "Sedang membeli kereta terpakai?",
+    "description": "Anda berhak mengetahui dengan tepat apa yang anda beli. Wisedrive menggabungkan kuasa teknologi AI dan kepakaran manusia untuk memeriksa 200+ titik pemeriksaan pada kenderaan. Kami memberikan ketenangan fikiran yang disokong bukti supaya anda boleh membeli dengan keyakinan penuh dan tanpa risau.",
+    "book_your_inspection_button": "Tempah pemeriksaan anda",
+    "how_it_works_button": "Cara ia berfungsi",
+    "counter_text_1": "Pemeriksaan Wisedrive telah menjimatkan",
+    "counter_text_2": "daripada pembeli kereta setakat ini..."
+  },
+  "B2BHero": {
+    "heading": "Lindungi Portfolio Automotif Anda dengan Data Yang Disahkan",
+    "description": "Sama ada anda penanggung insurans yang menguruskan risiko, pembiaya yang menjamin cagaran, atau OEM yang menguruskan inventori terpakai yang disahkan, pembolehubah terbesar adalah aset itu sendiri. Wisedrive melindungi portfolio anda dengan pemeriksaan teknikal yang diperkasa AI, analisis ECU masa nyata, dan algoritma pengesanan penipuan—diintegrasikan terus ke dalam aliran kerja perusahaan anda.",
+    "partner_with_button": "Bekerjasama Dengan Kami",
+    "view_enterprise_solution_button": "Lihat Solusi Perusahaan"
+  },
+  "Inspection": {
+    "heading": "Satu-satunya pemeriksaan yang anda perlukan",
+    "heading_highlighted_word": "pemeriksaan",
+    "description": "AI kami menganalisis lebih daripada 200 titik pemeriksaan supaya anda tahu dengan tepat apa yang anda beli.",
+    "book_your_inspection_button": "Tempah pemeriksaan anda",
+    "speak_to_an_expert_button": "Bercakap dengan Pakar",
+    "sample_report_button": "Laporan Sampel",
+    "checkbox_items_text": "200+ titik pemeriksaan|Ujian pengimbas OBD2 lanjutan|Penilaian kelayakan jalan raya & keselamatan|Diagnostik janaan AI dan penunjuk pembaikan|Konsultasi percuma dengan pakar pemeriksaan"
+  },
+  "Advantage": {
+    "badge_text": "Kelebihan Wisedrive",
+    "heading": "Di mana Kepakaran Manusia Bertemu Teknologi AI",
+    "heading_highlighted_word": "Teknologi AI",
+    "description": "Pemeriksaan kami diperkasakan oleh kepakaran pemeriksa profesional kami yang disokong oleh teknologi AI yang dibina daripada lebih satu juta titik data. Bersama-sama, Wisedrive memberikan anda laporan yang boleh dipercayai sepenuhnya"
+  },
+  "TechStack": {
+    "title": "Teknologi Wisedrive: Cara Kami Mengesahkan Kualiti Aset",
+    "subheading": "Lebih daripada sekadar pemeriksaan visual. Kami menggunakan teknologi proprietari untuk mendedahkan realiti mekanikal dan kewangan setiap aset.",
+    "dropdowns": [
+      {
+        "id": "ecu-obd",
+        "title": "Diagnostik ECU & OBD-II Mendalam",
+        "description": "Kami bukan sekadar mendengar bunyi enjin — kami menganalisis komputer kenderaan. Pengimbas kami menilai data masa nyata untuk mengesan kod ralat tersembunyi, gelinciran transmisi, dan rekod ralat sejarah yang tidak dapat dikesan melalui pemeriksaan visual biasa."
+      },
+      {
+        "id": "bodywork-analysis",
+        "title": "Analisis Badan Kenderaan Secara Saintifik (Mikron Cat)",
+        "description": "Menggunakan alat pengukur ketebalan salutan digital, kami memetakan kedalaman cat pada lebih daripada 15 panel. Ketidakseimbangan menunjukkan kemalangan terdahulu, pembaikan dempul, dan pengecatan semula yang tidak dapat dilihat dengan mata kasar."
+      },
+      {
+        "id": "ai-protocol",
+        "title": "Protokol 150-Titik Dipacu AI",
+        "description": "Pemeriksa kami mengikuti aliran kerja berstruktur melalui aplikasi yang menghapuskan subjektiviti manusia. Setiap pemeriksaan memerlukan bukti fotografi dan input data, menghasilkan \"Skor Wisedrive\" yang membolehkan anda membandingkan kualiti aset antara cawangan atau wilayah dengan pantas."
+      },
+      {
+        "id": "fraud-detection",
+        "title": "Pengesanan Penipuan Berasaskan Algoritma",
+        "description": "Kami membandingkan keadaan kenderaan semasa dengan pangkalan data perbatuan dan rekod servis sejarah. Sistem kami mengesan pemalsuan odometer dan manipulasi VIN dengan serta-merta, mengelakkan anda daripada membiayai atau menginsuranskan nilai palsu."
+      }
+    ]
+  },
+  "Infrastructure": {
+    "heading": "Infrastruktur untuk Ekosistem Automotif",
+    "description": "Amankan aset anda dan sederhanakan operasi dengan infrastruktur data yang disesuaikan dengan sektor anda.",
+    "cards": {
+      "card_1": {
+        "title": "Bank & Pembiaya",
+        "tag": "KELEBIHAN WISEDRIVE",
+        "description": "Amankan nisbah Nilai Pinjaman-kepada-Nilai (LTV) anda dengan data teknikal yang keras. Kami mengesahkan perbatuan sebenar dan keadaan mekanikal cagaran sebelum kelulusan. Dengan mengesan potensi kegagalan mekanikal lebih awal, kami mengurangkan risiko aset menjadi Pinjaman Berprestasi Buruk (NPL) kerana susutan nilai mendadak atau pengabaian oleh peminjam.",
+        "image": "/infrastructure/banks-new.webp"
+      },
+      "card_2": {
+        "title": "Syarikat Insurans",
+        "tag": "KELEBIHAN WISEDRIVE",
+        "description": "Buat jejak waktu digital untuk keadaan aset. Audit pra-permulaan kami mendokumentasikan setiap calar, lekuk, dan serpihan kaca sebelum pengeluaran polisi. Ini menetapkan garis dasar yang tidak dapat disangkal yang secara automatik menyaring tuntutan kerosakan yang sudah ada sebelumnya dan secara signifikan menurunkan nisbah kerugian anda pada polisi kenderaan terpakai.",
+        "image": "/infrastructure/insurance-new.webp"
+      },
+      "card_3": {
+        "title": "Rangkaian Pengedar & OEM",
+        "tag": "KELEBIHAN WISEDRIVE",
+        "description": "Kami bertindak sebagai tembok api teknikal anda. Laporan mekanikal terperinci kami mendedahkan sejarah kemalangan tersembunyi dan gangguan enjin sebelum anda menukar. Untuk OEM, protokol \"Wisedrive Bersertifikat\" kami memberikan standardisasi yang diperlukan untuk melancarkan dan menskalakan program Kereta Terpakai Bersertifikat (CPO) di seluruh rangkaian pengedar yang bercecaran.",
+        "image": "/infrastructure/dealership-new.webp"
+      },
+      "card_4": {
+        "title": "Pasaran & Platform",
+        "tag": "KELEBIHAN WISEDRIVE",
+        "description": "Kami menjembatani jurang kepercayaan dalam transaksi jarak jauh. Dengan bertindak sebagai penggerak ketiga yang neutral dengan laporan digital yang diseragamkan, kami memungkinkan transaksi bernilai tinggi untuk berlangsung sepenuhnya dalam talian. Ini meningkatkan Nilai Barang Dagangan Kasar (GMV) dengan memberikan pembeli jarak jauh keyakinan teknikal untuk membeli tanpa melihat secara fizikal.",
+        "image": "/infrastructure/marketplace-new.webp"
+      }
+    },
+    "button_labels": {
+      "btn_1": "Bank dan Pembiaya",
+      "btn_2": "Syarikat Insurans",
+      "btn_3": "Rangkaian Pengedar & OEM",
+      "btn_4": "Pasaran & Platform"
+    }
+  },
+  "FAQSection": {
+    "badge_text": "Soalan Lazim",
+    "heading": "Ada soalan mengenai pemeriksaan kami?",
+    "heading_highlighted_word": "pemeriksaan kami?",
+    "subtitle": "Dapatkan jawapan kepada soalan anda mengenai pemeriksaan berkuasa AI kami dan bagaimana kami melindungi anda daripada pembaikan tersembunyi yang mahal.",
+    "q1": {
+      "question": "Apakah perkhidmatan yang ditawarkan Wisedrive untuk pemeriksaan kereta terpakai?",
+      "answer": "Wisedrive menawarkan pemeriksaan kereta terpakai yang komprehensif meliputi komponen kritikal seperti enjin, transmisi, brek, dan sistem elektrik."
+    },
+    "q2": {
+      "question": "Bagaimana cara saya menempah janji untuk pemeriksaan kereta?",
+      "answer": "Anda boleh menempah pemeriksaan melalui laman web atau aplikasi mudah alih kami dengan memilih pakej pilihan anda dan menjadualkan janji temu."
+    },
+    "q3": {
+      "question": "Apakah yang disertakan dalam pemeriksaan kereta terpakai Wisedrive?",
+      "answer": "Pemeriksaan kami meliputi lebih 200 titik pemeriksaan, termasuk sistem mekanikal, elektrik, dan keselamatan."
+    },
+    "q4": {
+      "question": "Bagaimana proses pemeriksaan berfungsi?",
+      "answer": "Seorang juruteknik bersertifikat akan memeriksa kereta anda di lokasi anda atau bengkel mitra, memberikan laporan terperinci selepas itu."
+    },
+    "q5": {
+      "question": "Berapa lama masa yang diambil untuk pemeriksaan kereta biasa?",
+      "answer": "Pemeriksaan biasanya mengambil masa kira-kira 1-2 jam, bergantung pada keadaan kenderaan dan pakej yang dipilih."
+    },
+    "q6": {
+      "question": "Bolehkah saya meminta pemeriksaan untuk sebarang jenis kenderaan?",
+      "answer": "Kami memeriksa kebanyakan jenis kenderaan, termasuk sedan, SUV, dan lori."
+    },
+    "q7": {
+      "question": "Berapakah kos pemeriksaan kereta terpakai?",
+      "answer": "Kos berbeza-beza bergantung pada pakej yang dipilih. Penetapan harga terperinci tersedia di laman web kami."
+    },
+    "q8": {
+      "question": "Apakah jenis waranti yang ditawarkan Wisedrive?",
+      "answer": "Kami menawarkan pelbagai pelan waranti yang meliputi aspek berbeza penyelenggaraan dan pembaikan kenderaan."
+    },
+    "q9": {
+      "question": "Bagaimana cara saya membeli waranti dengan pemeriksaan saya?",
+      "answer": "Anda boleh menambah waranti ke pakej pemeriksaan anda semasa proses tempahan di laman web atau aplikasi kami."
+    },
+    "q10": {
+      "question": "Apakah yang dilindungi oleh waranti Wisedrive?",
+      "answer": "Perlindungan berbeza-beza mengikut pelan tetapi secara amnya meliputi komponen utama seperti enjin, transmisi, dan sistem elektrik."
+    },
+    "q11": {
+      "question": "Adakah pengecualian dalam perlindungan waranti?",
+      "answer": "Ya, beberapa pengecualian terpakai. Sila rujuk syarat dan ketentuan waranti khusus untuk butiran."
+    },
+    "q12": {
+      "question": "Bagaimana cara saya menuntut pembaikan waranti dengan Wisedrive?",
+      "answer": "Hubungi pasukan sokongan kami untuk memfailkan tuntutan, dan kami akan membimbing anda melalui proses dan mengarahkan anda ke pusat perkhidmatan yang diberi kuasa."
+    },
+    "q13": {
+      "question": "Bolehkah saya memindahkan waranti saya kepada pemilik baharu jika saya menjual kereta saya?",
+      "answer": "Ya, waranti boleh dipindahkan kepada pemilik baharu, memastikan perlindungan yang berterusan."
+    },
+    "q14": {
+      "question": "Apakah tempoh kesahihan waranti anda?",
+      "answer": "Tempoh waranti berbeza-beza mengikut pakej dan boleh berkisar antara 6 bulan hingga beberapa tahun."
+    }
+  },
+  "HighlightPills": {
+    "heading": "Wisedrive adalah standard baharu kepercayaan & ketepatan",
+    "heading_highlighted_word": "kepercayaan & ketepatan",
+    "pills": {
+      "pill_1": {
+        "value": "20x",
+        "label": "analisis enjin lebih tepat"
+      },
+      "pill_2": {
+        "value": "95%",
+        "label": "pengurangan kesilapan manusia"
+      },
+      "pill_3": {
+        "value": "75%",
+        "label": "laporan lebih pantas"
+      },
+      "pill_4": {
+        "value": "99%",
+        "label": "ketepatan diagnostik"
+      }
+    }
+  },
+"Reviews": {
+    "badge_text": "Ulasan Kami",
+    "heading": "Pandu Pulang dengan Gembira",
+    "heading_highlighted_word": "Gembira",
+    "description": "Sertai ribuan pelanggan berpuas hati yang telah membeli kenderaan mereka dengan ketenangan minda sepenuhnya.",
+    "reviews": {
+      "review_1": {
+        "customer_name": "Eng Chan",
+        "content": "Pemeriksa dari Wisedrive mesra, profesional, dan sangat terperinci. Laporan merangkumi segala yang saya perlu tahu, dan perkhidmatan pelanggan sangat baik. Saya berasa yakin kerana mempunyai semua maklumat sebelum membeli."
+      },
+      "review_2": {
+        "customer_name": "Saravanan",
+        "content": "Wisedrive adalah perkhidmatan yang mesti ada jika anda membeli kereta terpakai. Laporan pemeriksaan mereka terperinci dan mudah difahami. Pemeriksa melangkaui jangkaan untuk memeriksa setiap butiran. Saya sangat gembira menggunakan mereka sebelum membuat pembelian."
+      },
+      "review_3": {
+        "customer_name": "Muzry J.",
+        "content": "Saya telah menggunakan Wisedrive dua kali sekarang, dan kedua-dua kali mereka memberikan perkhidmatan yang luar biasa. Pemeriksa mereka berpengetahuan dan tidak tergesa-gesa dalam proses. Laporan terperinci membantu saya membuat keputusan yang tepat. Pasti perkhidmatan yang mesti digunakan untuk pembeli kereta terpakai."
+      },
+      "review_4": {
+        "customer_name": "Rosmah Alif",
+        "content": "Perkhidmatan pemeriksaan Wisedrive sangat hebat! Mereka menyediakan laporan terperinci yang membantu saya berunding harga yang lebih baik. Pemeriksa berpengetahuan dan menjawab semua soalan saya. Saya pasti akan menggunakan mereka lagi untuk pembelian kereta akan datang."
+      },
+      "review_5": {
+        "customer_name": "Bryan Lim",
+        "content": "Wisedrive menyelamatkan saya daripada membeli kereta yang rosak! Kereta kelihatan hebat dari luar, tetapi pemeriksa menemui beberapa masalah mekanikal. Perkhidmatan mereka berbaloi setiap sen jika anda ingin menyelamatkan diri daripada penipuan semasa membeli kereta terpakai."
+      },
+      "review_6": {
+        "customer_name": "Suzannah Ibrahim",
+        "content": "Sejujurnya, saya agak ragu-ragu pada mulanya tetapi memutuskan untuk mencuba Wisedrive, kerana serius, siapa yang mampu membeli kereta baru dalam ekonomi ini, betul? Saya WhatsApp mereka dan responnya sangat pantas. Mendapatkan janji temu dalam minggu yang sama dan pemeriksaan hanya mengambil masa yang singkat. Bahagian terbaik, mereka datang kepada anda! Saya melakukan pemeriksaan sambil minum kopi berdekatan. Laporan keluar dengan cepat dan menjimatkan saya hampir RM5k kos pembaikan yang berpotensi. Jika tidak kerana pemeriksaan ini, saya tidak akan tahu! Sangat disyorkan kepada sesiapa yang merancang untuk membeli kereta terpakai atau hanya mahukan ketenangan fikiran sebelum membuat komitmen. Sistem AI benar-benar berfungsi. 👍🏻 pelanggan yang gembira"
+      },
+      "review_7": {
+        "customer_name": "Aisyah Yacob",
+        "content": "Wisedrive Tech ⭐️⭐️⭐️⭐️⭐️ Disyorkan! Pengalaman pra-pembelian kereta yang sangat baik dan positif dengan Wisedrive Tech."
+      },
+      "review_8": {
+        "customer_name": "Arun Mambully",
+        "content": "Perkhidmatan yang sangat diperlukan dan boleh dipercayai. Pasukan yang menyokong."
+      },
+      "review_9": {
+        "customer_name": "Mohd Adli Mohd Noor",
+        "content": "Perkhidmatan yang sangat baik…setiap item diperiksa dengan terperinci oleh pasukan WiseDrive..semua laporan lengkap dengan nota dan gambar…terima kasih banyak"
+      }
+    }
+  },
+  "NewsBlogs": {
+    "badge_text": "Pandangan Terkini",
+    "heading": "Berita & Artikel Blog",
+    "heading_highlighted_word": "Artikel Blog",
+    "description": "Dapatkan maklumat terkini dengan tips pakar tentang pembelian kereta terpakai, pandangan pemeriksaan berasaskan AI, dan kemas kini industri automotif terbaru.",
+    "blogs": {
+      "blog_1": {
+        "title": "Ekosistem Pemeriksaan Kereta Terpakai Berkuasa AI Wisedrive Dilancarkan",
+        "description": "",
+        "date": "14 Jan, 2026",
+        "read-time": 5,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog1/01.png",
+        "url": "https://www.carz.com.my/2026/01/wisedrive-ai-powered-used-car-inspection-ecosystem-launched"
+      },
+      "blog_2": {
+        "title": "Pemeriksaan Kereta Terpakai Berasaskan AI Kini Di Malaysia",
+        "description": "",
+        "date": "14 Jan, 2026",
+        "read-time": 3,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog2/01.png",
+        "url": "https://themalaysiapost.com/pemeriksaan-kereta-terpakai/"
+      },
+      "blog_3": {
+        "title": "WISEDRIVE Muncul sebagai Penyelesaian Hujung ke Hujung Berkuasa AI Pertama Malaysia untuk Pasaran Kereta Terpakai",
+        "description": "",
+        "date": "15 Jan, 2026",
+        "read-time": 3,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog3/01.png",
+        "url": "https://keyauto.my/news/wisedrive-officially-in-malaysia"
+      },
+      "blog_4": {
+        "title": "Teknologi Pemeriksaan Kenderaan AI WiseDrive untuk Kereta Terpakai",
+        "description": "",
+        "date": "15 Jan, 2026",
+        "read-time": 3,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog4/01.png",
+        "url": "https://www.carsifu.my/news/wisedrive-ai-vehicle-inspection-tech-for-used-cars"
+      },
+      "blog_5": {
+        "title": "WISEDRIVE Muncul sebagai Penyelesaian Hujung ke Hujung Berkuasa AI Pertama Malaysia untuk Pasaran Kereta Terpakai",
+        "description": "",
+        "date": "14 Jan, 2026",
+        "read-time": 3,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog5/01.png",
+        "url": "https://carsick.my/2026/01/wisedrive-debuts-as-malaysias-first-ai-powered-end-to-end-solution-for-the-used-car-market/"
+      },
+      "blog_6": {
+        "title": "Ekosistem Pemeriksaan Kereta Terpakai Berkuasa AI Wisedrive Dilancarkan",
+        "description": "",
+        "date": "14 Jan, 2026",
+        "read-time": 3,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog6/01.png",
+        "url": "https://newswav.com/article/wisedrive-ai-powered-used-car-inspection-ecosystem-launched-A2601_gPXlAG"
+      },
+      "blog_7": {
+        "title": "Wisedrive masuki Malaysia, perkenal pemeriksaan kereta terpakai berasaskan AI",
+        "description": "",
+        "date": "15 Jan, 2026",
+        "read-time": 4,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog7/01.png",
+        "url": "https://luminews.my/ms/news/3920368"
+      },
+      "blog_8": {
+        "title": "Wisedrive masuki Malaysia, perkenal pemeriksaan kereta terpakai berasaskan AI",
+        "description": "",
+        "date": "15 Jan, 2026",
+        "read-time": 4,
+        "category": "Artikel",
+        "thumbnail-path": "/blogs/blog8/01.png",
+        "url": "https://bm.soyacincau.com/2026/01/15/wisedrive-masuki-malaysia-perkenal-pemeriksaan-kereta-terpakai-berasaskan-ai/"
+      }
+    }
+  },
+  "Steps": {
+    "heading": "Beli kereta anda dengan keyakinan penuh",
+    "heading_highlighted_word": "keyakinan",
+    "disclaimer_text": "Langkah-langkah mungkin berubah untuk pelan perusahaan",
+    "subtitle_question": "Ada soalan atau sedia untuk menempah?",
+    "subtitle_heading": "Hantar “Hi” ke +60 12 615 2559 di WhatsApp. Pakar kami sedia untuk menjadualkan pemeriksaan anda atau membantu pembelian anda.",
+    "subtitle_heading_highlighted_word": "+60 12 615 2559",
+    "steps": {
+      "step_1": {
+        "heading": "01. Beli pelan",
+        "description": "Bayar dalam talian dalam beberapa minit."
+      },
+      "step_2": {
+        "heading": "02. Jadualkan",
+        "description": "Pilih masa/tempat (rumah, pengedar, lokasi penjual) melalui web atau WhatsApp."
+      },
+      "step_3": {
+        "heading": "03. Pemeriksaan",
+        "description": "Pemeriksaan fizikal + imbasan OBD-II/ECM/BCM + semakan luaran foto-AI. Kami mengenal pasti kerosakan kritikal, anggaran pembaikan, dan panduan harga yang adil."
+      },
+      "step_4": {
+        "heading": "04. Laporan",
+        "description": "Dapatkan pautan mesra mudah alih dengan foto, diagnostik, dan langkah seterusnya. Kereta yang lulus akan mendapat Pensijilan Wisedrive."
+      }
+    }
+  },
+  "Contact": {
+    "heading": "Mari Reka Penyelesaian Risiko Aset Anda.",
+    "subheading": "Setiap aliran kerja perusahaan melibatkan parameter risiko yang berbeza. Beritahu kami keperluan anda, dan kami akan menunjukkan bagaimana lapisan data kami berintegrasi untuk melindungi keuntungan anda.",
+    "image": {
+      "src": "/contact/contact-us-img-new.webp",
+      "alt": "Gambar Hubungi"
+    },
+    "form": {
+      "fields": {
+        "name": {
+          "label": "Nama",
+          "placeholder": "Masukkan nama penuh anda"
+        },
+        "company": {
+          "label": "Syarikat",
+          "placeholder": "Nama Syarikat"
+        },
+        "email": {
+          "label": "E-mel",
+          "placeholder": "Masukkan alamat e-mel anda"
+        },
+        "phone": {
+          "label": "Nombor Telefon",
+          "placeholder": "Masukkan nombor telefon anda"
+        },
+        "businessType": {
+          "label": "Jenis Perniagaan",
+          "options": [
+            {
+              "label": "Bank",
+              "value": "Bank"
+            },
+            {
+              "label": "Penanggung Insurans",
+              "value": "Insurer"
+            },
+            {
+              "label": "OEM",
+              "value": "OEM"
+            },
+            {
+              "label": "Lain-lain",
+              "value": "Other"
+            }
+          ]
+        },
+        "message": {
+          "label": "Mesej",
+          "placeholder": "Tulis mesej anda di sini"
+        }
+      },
+      "submitButton": {
+        "label": "Hubungi Jualan Enterprise"
+      },
+      "messages": {
+        "success": "Mesej berjaya dihantar!",
+        "error": "Terdapat masalah."
+      }
+    }
+  },
+  "OurBrands": {
+    "badge_text": "Jenama Kami",
+    "heading": "Kepakaran Merentas Setiap Jenama",
+    "heading_highlighted_word": "",
+    "description": "Dari Proton dan Perodua hingga kereta import, kami terlatih untuk kereta yang anda pandu."
+  },
+  "Footer": {
+    "address": "Suite 5.03 Level 5 Block B, Bangunan Pan Global, 1A, Jln Tandang, Seksyen 51, 46050 Petaling Jaya, Selangor",
+    "products": "Produk",
+    "car_inspections": "Pemeriksaan Kereta",
+    "luxury_inspection": "Pemeriksaan Kereta Mewah",
+    "car_service": "Servis & Penyelenggaraan Kereta (akan datang)",
+    "car_repairs": "Pembaikan & Penyelenggaraan Kereta (akan datang)",
+    "company": "Syarikat",
+    "about_us": "Tentang Kami",
+    "how_it_works": "Cara Ia Berfungsi",
+    "contact_us": "Hubungi Kami",
+    "resources": "Sumber",
+    "sample_report": "Contoh Laporan",
+    "faqs": "Pusat Bantuan / Soalan Lazim",
+    "coverage_areas": "Kawasan Liputan",
+    "customer_reviews": "Ulasan Pelanggan",
+    "policies": "Polisi & Terma",
+    "inspection_terms": "Terma & Syarat Pemeriksaan",
+    "refund_policy": "Polisi Pembatalan & Bayaran Balik",
+    "terms_conditions": "Terma & Syarat",
+    "privacy_policy": "Polisi Privasi",
+    "copyright": "© Wisedrive Technologies (M) Sdn. Bhd. Hak cipta terpelihara {year}"
+  },
+  "TermsAndConditions": {
+    "page_title": "Terma Syarat",
+    "definitions": {
+      "section_title": "1. Takrifan",
+      "we_us": "Kami/Kami dan Kami",
+      "we_us_desc": "bermaksud Wisedrive Technologies (M) Sdn. Bhd.",
+      "agreement": "Perjanjian",
+      "agreement_desc": "bermaksud perjanjian antara Wisedrive dan Pelanggan di mana Wisedrive bersetuju untuk mengatur seorang Pemeriksa untuk menjalankan Pemeriksaan selaras dengan terma dan syarat ini.",
+      "cancellation_fee": "Yuran Pembatalan",
+      "cancellation_fee_desc": "bermaksud jumlah yang perlu dibayar oleh Pelanggan seperti yang dinyatakan dalam terma dan syarat ini.",
+      "customer_you": "Pelanggan/Anda",
+      "customer_you_desc": "bermaksud pelanggan Wisedrive yang membuat tempahan untuk Pemeriksaan.",
+      "fee": "Yuran",
+      "fee_desc": "bermaksud jumlah yang perlu dibayar oleh Pelanggan kepada Wisedrive untuk Pemeriksaan seperti yang dinyatakan di https://www.wisedrive.com.",
+      "inspection": "Pemeriksaan",
+      "inspection_desc": "bermaksud pemeriksaan visual, audio dan luaran serta ujian jalan yang dilakukan oleh seorang Pemeriksa bagi pihak Wisedrive untuk Pelanggan selaras dengan terma dan syarat ini.",
+      "inspector": "Pemeriksa",
+      "inspector_desc": "merujuk kepada pemeriksa bersertifikat yang menjalankan Pemeriksaan bagi pihak Wisedrive. Pemeriksa tertakluk kepada ketersediaan dan boleh digantikan dengan ejen pihak ketiga yang sesuai.",
+      "report": "Laporan",
+      "report_desc": "bermaksud laporan bertulis yang dihasilkan oleh Pemeriksa sebagai sebahagian daripada Pemeriksaan, yang merangkumi nama dan alamat Pelanggan, butiran pendaftaran Kenderaan yang diperiksa dan lokasinya, sama ada Kenderaan tersebut lulus atau gagal dalam Pemeriksaan, senarai semakan yang dilakukan (bergantung kepada jenis Pemeriksaan yang diminta oleh Pelanggan) dan ringkasan mana-mana aspek kebimbangan yang perlu diberi perhatian oleh Pelanggan.",
+      "report_checklist": "Senarai Semakan Laporan",
+      "report_checklist_desc": "bermaksud senarai aspek yang akan atau telah diperiksa oleh Pemeriksa sebagai sebahagian daripada Pemeriksaan Fizikal, yang boleh didapati di https://www.wisedrive.com.",
+      "vehicle": "Kenderaan",
+      "vehicle_desc": "bermaksud kenderaan yang mana Pelanggan memerlukan Pemeriksa untuk menjalankan Pemeriksaan.",
+      "inspection_categories": "Wisedrive menyediakan beberapa kategori Pemeriksaan yang berbeza, setiap satu melibatkan semakan yang berbeza. Butiran mengenai kategori pemeriksaan yang berlainan dan semakan yang terlibat boleh didapati di https://www.wisedrive.com atau dengan menghubungi +60 122559610. Pengesahan kategori pemeriksaan yang dipilih oleh Pelanggan akan dilakukan pada Kenderaan."
+    },
+    "general_scope": {
+      "section_title": "2. Skop Umum",
+      "point_1": "Pemeriksaan disediakan berdasarkan pemeriksaan visual dan luaran sahaja dan terhad kepada bahagian dan/atau item yang dikenali dalam Laporan. Pemeriksaan tidak melibatkan pembongkaran atau gangguan terhadap mana-mana struktur, komponen atau mekanisme dalaman. Pemeriksa akan menjalankan ujian jalan pada Kenderaan dan menghasilkan Laporan. Terdapat bahagian tertentu dalam Kenderaan yang tidak akan diperiksa. Anda harus membaca Senarai Semakan Laporan dengan teliti untuk melihat apa yang tidak akan diperiksa.",
+      "point_2": "Salinan Laporan akan dihantar kepada Anda melalui e-mel ke alamat e-mel yang Anda berikan semasa membuat tempahan Pemeriksaan. Disebabkan sifat internet dan perisian perlindungan virus yang digunakan oleh penyedia perkhidmatan internet Anda atau dipasang pada komputer Anda, mungkin tidak dapat dijamin bahawa Laporan akan dihantar melalui e-mel dalam semua kes. Jika Anda tidak menerima Laporan Anda dalam tempoh 24 jam selepas Pemeriksaan Kenderaan Wisedrive, Anda mesti memaklumkan kepada Kami secepatnya supaya Kami dapat menghantarkan semula Laporan kepada Anda.",
+      "point_3": "Item yang disenaraikan dalam Senarai Semakan Laporan sebagai bahagian/item yang perlu diperiksa, tetapi yang tidak dapat diakses dengan mudah pada Kenderaan, tidak akan diperiksa. Dalam keadaan sedemikian, Kami tidak mempunyai kewajipan untuk memeriksa dan/atau melaporkan bahagian/item tersebut, dan Pemeriksa akan menandakan bahagian yang berkaitan dalam Laporan dengan sewajarnya.",
+      "point_4": "Kenderaan harus berada dalam keadaan bersih untuk memastikan Pemeriksa dapat melihat dan melaporkan dengan tepat mengenai bahagian kenderaan yang diperiksa. Jika kenderaan tidak bersih, Pemeriksa berhak untuk tidak memberikan komentar mengenai bahagian tersebut dan akan menandakan Senarai Semakan Laporan dengan sewajarnya. Dalam kes ini, Yuran Laporan tetap perlu dibayar sepenuhnya."
+    },
+    "road_test": {
+      "section_title": "3. Keperluan Ujian Jalan",
+      "point_1": "Untuk membolehkan Pemeriksa Kami menjalankan Ujian Jalan pada Kenderaan Anda, Anda mesti memastikan bahawa kenderaan mengandungi jumlah yang mencukupi bagi:",
+      "point_1_items": ["Air", "Minyak", "Petrol"],
+      "point_2": "Ujian jalan dijalankan dalam kawasan sekitar Pemeriksaan. Jika Kenderaan berada dalam keadaan tidak selamat untuk dipandu atau mengandungi jumlah minyak, air dan/atau petrol yang tidak mencukupi, atau jika Pelanggan tidak dapat mengesahkan bahawa Kenderaan mempunyai sijil kecergasan jalan yang sah, ujian jalan tidak dapat dijalankan semasa Pemeriksaan.",
+      "point_3": "Bayaran bagi Pemeriksaan tetap perlu dibayar sepenuhnya dan bayaran tambahan akan dikenakan untuk mana-mana ujian jalan susulan yang Anda minta Kami jalankan.",
+      "point_4": "Pelaksanaan ujian jalan tidak bermaksud bahawa Pemeriksa Kami telah melihat sijil kecergasan jalan yang sah.",
+      "point_5": "Mendapatkan kebenaran yang diperlukan dan akses ke Kenderaan adalah tanggungjawab Pelanggan.",
+      "point_6": "Pelanggan mesti memastikan bahawa penyediaan yang betul telah dibuat (termasuk mendapatkan sebarang kebenaran yang diperlukan daripada pemilik Kenderaan) untuk Pemeriksaan dijalankan di premis bengkel atau di kawasan luaran jalan dengan permukaan rata, keras dan kering.",
+      "point_7": "Pemeriksa Kami memerlukan ruang yang mencukupi untuk berjalan mengelilingi Kenderaan dan membuka semua pintu sepenuhnya. Pemeriksa Kami juga perlu mempunyai ruang yang mencukupi untuk meletakkan kendaraannya berhampiran lokasi Pemeriksaan.",
+      "point_8": "Pencahayaan dalaman berkualiti tinggi atau cahaya matahari yang mencukupi (jika Pemeriksaan dilakukan di luar) mesti disediakan di lokasi Pemeriksaan. Kami tidak dapat memeriksa Kenderaan dalam pencahayaan yang lemah atau dalam keadaan gelap."
+    },
+    "payment_cancellation": {
+      "section_title": "4. Bayaran dan Pembatalan",
+      "point_1": "Bayaran mesti dibuat pada masa membuat tempahan Pemeriksaan.",
+      "point_2": "Kami berhak untuk menolak menjalankan Pemeriksaan atau mengeluarkan Laporan untuk sebarang kenderaan yang tidak boleh diakses oleh Pemeriksa dengan wajar atau yang kelihatan kepada Pemeriksa sebagai:",
+      "point_2_items": ["bukan keluaran standard (contohnya tetapi tidak terhad kepada kereta kit)", "telah diubah suai atau tidak digunakan secara kerap (contohnya menunjukkan tanda-tanda kakisan berlebihan pada bahagian bergerak akibat dibiarkan terlalu lama dan boleh menyebabkan kenderaan tidak selamat untuk dipandu tanpa pembaikan)", "tidak selamat untuk dipandu atau berada dalam keadaan tidak layak dijalan raya"],
+      "point_3": "Di mana Pelanggan gagal memastikan penyediaan yang betul untuk Pemeriksaan dijalankan, seperti yang diperlukan, atau telah memberikan maklumat yang salah atau tidak lengkap yang menghalang Kami daripada menjalankan Pemeriksaan, Anda mengakui bahawa dalam keadaan sedemikian Kami berhak untuk menganggap Perjanjian sebagai ditamatkan dan menyimpan Bayaran sepenuhnya.",
+      "point_4": "Jika Anda ingin Kami menjalankan Pemeriksaan lain, Anda perlu membuat bayaran tambahan pada masa membuat tempahan baru.",
+      "point_5": "Anda berhak untuk membatalkan Pemeriksaan dan menerima bayaran balik penuh Bayaran jika pembatalan dibuat sekurang-kurangnya 24 jam sebelum Pemeriksaan dijadualkan. Setelah Pemeriksaan dijalankan, tiada bayaran balik akan diberikan.",
+      "point_6": "Untuk membatalkan Pemeriksaan, Anda mesti memaklumkan Pasukan Sokongan Pelanggan Kami tentang keputusan Anda dengan menghantarkan e-mel ke support.my@wisedrive.com atau dengan menghubungi +60 122559610, Isnin hingga Jumaat dari jam 9 pagi hingga 5 petang.",
+      "point_7": "Untuk membolehkan Kami mencari tempahan Anda, Anda perlu memberikan nama, alamat, nombor telefon dan nombor rujukan tempahan (seperti yang diberikan dalam pengesahan tempahan Anda) bersama-sama dengan permintaan pembatalan Anda."
+    },
+    "complaints": {
+      "section_title": "5. Aduan",
+      "point_1": "Jika Anda mempunyai aduan atau tidak berpuas hati dengan sebarang Pemeriksaan yang telah dijalankan, sila hubungi Kami di +60 122559610 secepatnya. Kami mungkin perlu menjalankan Pemeriksaan semula pada Kenderaan untuk menangani aduan tersebut, dan Anda bersetuju untuk membenarkan Kami berbuat demikian.",
+      "point_2": "Tiada pembaikan boleh dilakukan atau mana-mana bahagian kenderaan diganti sebelum Pemeriksaan semula dijalankan oleh Kami. Jika pembaikan kecemasan diperlukan untuk memastikan Kenderaan selamat digunakan dan kemudian menjadi subjek aduan kepada Kami, Anda mesti memastikan aduan dibuat kepada Kami (termasuk pemberitahuan mengenai keperluan pembaikan kecemasan) dalam tempoh yang munasabah selepas masalah ditemui. Mana-mana bahagian yang rosak atau haus yang telah diperbaiki atau diganti mesti disimpan untuk Pemeriksaan lanjut oleh Kami. Kami tidak akan bertanggungjawab dalam apa jua keadaan terhadap kos pembaikan atau penggantian bahagian tanpa persetujuan bertulis terdahulu daripada Kami.",
+      "point_3": "Kami berhak untuk memerlukan seorang lagi Pemeriksa Kami untuk menjalankan Pemeriksaan semula pada mana-mana Kenderaan atas perbelanjaan Kami sendiri jika dianggap perlu untuk menangani sebarang aduan. Anda juga dikehendaki membenarkan Pemeriksa Kami menjalankan Pemeriksaan semula tersebut mengikut Terma dan Syarat ini. Kami akan memberikan pendapat kedua yang tidak berat sebelah terhadap Laporan awal yang dikeluarkan."
+    },
+    "matters_beyond_control": {
+      "section_title": "6. Perkara Di Luar Kawalan Munasabah Kami",
+      "point_1": "Kami tidak akan bertanggungjawab terhadap sebarang kelewatan atau ketidakupayaan untuk menjalankan Pemeriksaan akibat kejadian atau keadaan di luar kawalan munasabah Kami. Kami akan mengambil langkah untuk mengurangkan kesan sekiranya boleh.",
+      "point_2": "Wisedrive hanya akan bertanggungjawab kepada Pelanggan (dan bukan kepada mana-mana pihak lain) sekiranya Wisedrive gagal menjalankan Pemeriksaan mengikut Terma dan Syarat ini. Tanpa mengehadkan perkara di atas, Anda mengakui bahawa Wisedrive atau Pemeriksa tidak akan bertanggungjawab kepada Anda atau mana-mana pihak lain atas sebarang liabiliti, kerugian, kerosakan, tuntutan, prosiding, kos atau perbelanjaan secara kolektif dirujuk sebagai \"Kerugian\" yang dialami atau ditanggung dalam mana-mana keadaan berikut:",
+      "point_3": "Kerugian tersebut bukan akibat yang boleh diramalkan secara munasabah daripada sebarang pelanggaran (Kerugian dianggap boleh diramalkan jika ia boleh dijangkakan oleh Anda dan Kami pada masa Pemeriksaan Kenderaan dilakukan).",
+      "point_4": "Kerugian tersebut tidak disebabkan secara langsung oleh pelanggaran Terma dan Syarat ini oleh Kami atau Pemeriksa.",
+      "point_5": "Kerugian tersebut melibatkan kerugian perniagaan atau kerugian lain kepada Pelanggan yang bukan pengguna.",
+      "point_6": "Kerugian tersebut meningkat akibat daripada pelanggaran mana-mana Terma dan Syarat ini oleh Anda.",
+      "point_7": "Tiada apa-apa dalam dokumen ini yang akan menjejaskan hak statutori pengguna di bawah mana-mana undang-undang yang berkenaan."
+    },
+    "enforcement": {
+      "section_title": "7. Penguatkuasaan Terma",
+      "point_1": "Setiap klausa dalam Terma ini beroperasi secara berasingan. Jika mana-mana mahkamah atau pihak berkuasa yang berkaitan memutuskan bahawa mana-mana daripadanya adalah tidak sah, klausa yang selebihnya akan tetap berkuatkuasa sepenuhnya.",
+      "point_2": "Perjanjian ini adalah antara Anda dan Wisedrive. Tiada pihak lain yang mempunyai hak untuk menguatkuasakan mana-mana Terma dalam Perjanjian ini. Kami juga tidak perlu mendapatkan persetujuan mana-mana pihak untuk membuat sebarang perubahan kepada Terma ini."
+    },
+    "advice": {
+      "section_title": "8. Nasihat Berkaitan Laporan",
+      "content": "Anda dinasihati untuk membincangkan penemuan dalam Laporan dengan penjual sebelum membuat keputusan untuk membeli Kenderaan. Jika Anda belum melihat Kenderaan secara peribadi, Anda mesti memastikan bahawa keadaan kosmetik dan spesifikasi Kenderaan adalah memuaskan dan sesuai dengan keperluan serta jangkaan Anda. Kami mencadangkan agar Anda melihat dan memandu sendiri Kenderaan sebelum membuat keputusan pembelian."
+    }
+  },
+  "CancellationAndRefund": {
+    "page_title": "POLISI PEMBATALAN DAN PEMULANGAN WANG",
+    "within_ten_days": {
+      "section_title": "Dalam Tempoh 10 Hari Pertama",
+      "eligibility": "Jika Anda meminta pembatalan dalam tempoh 10 hari dari tarikh pembelian, Anda berhak mendapatkan bayaran balik penuh premium Anda.",
+      "how_to_cancel": "Untuk meminta pembatalan, sila hantar e-mel ke support.my@wisedrive.com dengan butiran polisi dan permintaan pembatalan Anda.",
+      "coverage_termination": "Perlindungan Anda akan ditamatkan dengan serta-merta apabila menerima permintaan pembatalan Anda.",
+      "refund_entitlement": "Anda akan menerima bayaran balik penuh untuk amaun yang telah dibayar."
+    },
+    "after_ten_days": {
+      "section_title": "Permohonan Pembatalan Diterima Selepas 10 Hari Pertama",
+      "no_refund": "Jika Anda meminta pembatalan selepas 10 hari pertama, Anda tidak berhak mendapatkan bayaran balik premium Anda.",
+      "cancellation_allowed": "Namun, Anda masih boleh menyerahkan permintaan pembatalan untuk menamatkan perlindungan Anda pada bila-bila masa.",
+      "coverage_end": "Perlindungan Anda akan berakhir pada tarikh yang dinyatakan dalam permintaan pembatalan Anda."
+    },
+    "refund_methods": {
+      "section_title": "Kaedah Pembayaran dan Pemulangan Wang",
+      "processing_time": "Bayaran balik yang diluluskan akan diproses dalam tempoh 14 hari.",
+      "original_method": "Bayaran balik akan dikreditkan semula ke kaedah pembayaran asal Anda.",
+      "alternative_arrangement": "Jika Anda ingin mengatur kaedah bayaran balik alternatif, sila hubungi pasukan sokongan kami di support.my@wisedrive.com."
+    }
+  },
+  "PrivacyPolicy": {
+    "page_title": "Dasar Privasi",
+    "what_we_do": {
+      "section_title": "Apa yang kami lakukan dengan maklumat anda",
+      "content": "Apabila anda membeli sesuatu dari kedai kami, sebagai sebahagian daripada proses pembelian dan penjualan, kami mengumpul maklumat peribadi yang anda berikan kepada kami seperti nama, alamat dan alamat e-mel anda. Apabila anda melayari kedai kami, kami juga secara automatik menerima alamat protokol internet (IP) komputer anda untuk memberikan kami maklumat yang membantu kami memahami pelayar dan sistem operasi anda. Pemasaran e-mel (jika berkenaan): Dengan kebenaran anda, kami boleh menghantar e-mel mengenai kedai kami, produk baru dan kemas kini lain."
+    },
+    "consent": {
+      "section_title": "Persetujuan",
+      "how_consent": "Bagaimana anda memberikan persetujuan anda? Apabila anda memberikan maklumat peribadi kepada kami untuk menyelesaikan transaksi, mengesahkan kad kredit anda, membuat pesanan, mengatur penghantaran atau memulangkan pembelian, kami menganggap bahawa anda bersetuju untuk kami mengumpul dan menggunakannya hanya untuk tujuan tertentu tersebut. Jika kami meminta maklumat peribadi anda untuk tujuan sekunder, seperti pemasaran, kami akan meminta kebenaran anda secara langsung atau memberikan anda peluang untuk menolaknya. Bagaimana saya boleh menarik balik persetujuan saya? Jika selepas anda bersetuju, anda menukar fikiran, anda boleh menarik balik persetujuan anda untuk kami menghubungi anda, untuk terus mengumpul, menggunakan atau mendedahkan maklumat anda pada bila-bila masa dengan menghubungi kami di support.my@wisedrive.com."
+    },
+    "disclosure": {
+      "section_title": "Pendedahan",
+      "content": "Kami mungkin mendedahkan maklumat peribadi anda jika kami dikehendaki berbuat demikian oleh undang-undang atau jika anda melanggar Terma Perkhidmatan kami."
+    },
+    "payment": {
+      "section_title": "Pembayaran",
+      "content": "Kami menggunakan Razorpay untuk memproses pembayaran. Kami/Razorpay tidak menyimpan data kad anda di pelayan mereka. Data tersebut disulitkan melalui Standard Keselamatan Data Kad Pembayaran (PCI-DSS) semasa pemprosesan pembayaran. Data transaksi pembelian anda hanya digunakan selagi diperlukan untuk menyelesaikan transaksi pembelian anda. Selepas itu, maklumat transaksi pembelian anda tidak disimpan. Gerbang pembayaran kami mematuhi piawaian yang ditetapkan oleh PCI-DSS yang dikendalikan oleh Majlis Piawaian Keselamatan PCI, yang merupakan usaha bersama jenama seperti Visa, MasterCard, American Express dan Discover. Keperluan PCI-DSS membantu memastikan pengendalian maklumat kad kredit yang selamat oleh kedai kami dan penyedia perkhidmatannya. Untuk maklumat lanjut, anda juga boleh membaca terma dan syarat Razorpay."
+    },
+    "third_party": {
+      "section_title": "Perkhidmatan Pihak Ketiga",
+      "content": "Secara amnya, penyedia pihak ketiga yang digunakan oleh kami hanya akan mengumpul, menggunakan dan mendedahkan maklumat anda sejauh mana yang diperlukan untuk membolehkan mereka menjalankan perkhidmatan yang mereka sediakan kepada kami. Walau bagaimanapun, penyedia perkhidmatan pihak ketiga tertentu, seperti gerbang pembayaran dan pemproses transaksi pembayaran lain, mempunyai dasar privasi mereka sendiri berhubung dengan maklumat yang kami perlu berikan kepada mereka untuk transaksi pembelian anda. Untuk penyedia ini, kami mengesyorkan anda membaca dasar privasi mereka supaya anda memahami bagaimana maklumat peribadi anda akan dikendalikan oleh penyedia ini. Secara khususnya, perlu diingat bahawa penyedia tertentu mungkin berada atau mempunyai kemudahan yang terletak di bidang kuasa yang berbeza daripada anda atau kami. Jadi, jika anda memilih untuk meneruskan transaksi yang melibatkan perkhidmatan penyedia pihak ketiga, maka maklumat anda mungkin tertakluk kepada undang-undang bidang kuasa di mana penyedia perkhidmatan itu atau kemudahannya terletak. Sebaik sahaja anda meninggalkan laman web kedai kami atau dialihkan ke laman web atau aplikasi pihak ketiga, anda tidak lagi tertakluk kepada Dasar Privasi ini atau Terma Perkhidmatan laman web kami. Pautan Apabila anda mengklik pautan di kedai kami, pautan tersebut boleh mengarahkan anda ke luar dari laman web kami. Kami tidak bertanggungjawab terhadap amalan privasi laman web lain dan menggalakkan anda membaca kenyataan privasi mereka."
+    },
+    "security": {
+      "section_title": "Keselamatan",
+      "content": "Untuk melindungi maklumat peribadi anda, kami mengambil langkah berjaga-jaga yang munasabah dan mengikuti amalan terbaik industri untuk memastikan maklumat tersebut tidak hilang, disalahgunakan, diakses, didedahkan, diubah atau dimusnahkan dengan tidak sepatutnya."
+    },
+    "cookies": {
+      "section_title": "Cookies",
+      "content": "Kami menggunakan cookies untuk mengekalkan sesi pengguna anda. Ia tidak digunakan untuk mengenal pasti anda secara peribadi di laman web lain."
+    },
+    "age_consent": {
+      "section_title": "Umur Persetujuan",
+      "content": "Dengan menggunakan laman ini, anda mengesahkan bahawa anda sekurang-kurangnya telah mencapai umur dewasa di negeri atau wilayah tempat tinggal anda, atau bahawa anda telah mencapai umur dewasa di negeri atau wilayah tempat tinggal anda dan anda telah memberikan kebenaran kepada kami untuk membenarkan tanggungan bawah umur anda menggunakan laman ini."
+    },
+    "changes": {
+      "section_title": "Perubahan kepada Dasar Privasi Ini",
+      "content": "Kami berhak untuk mengubah dasar privasi ini pada bila-bila masa, jadi sila semak ia dengan kerap. Perubahan dan penjelasan akan berkuat kuasa serta-merta selepas dipaparkan di laman web. Jika kami membuat perubahan ketara kepada dasar ini, kami akan memberitahu anda di sini bahawa ia telah dikemas kini, supaya anda menyedari maklumat apa yang kami kumpul, bagaimana kami menggunakannya, dan dalam keadaan apa, jika ada, kami menggunakannya dan/atau mendedahkannya. Jika kedai kami diperoleh atau bergabung dengan syarikat lain, maklumat anda mungkin akan dipindahkan kepada pemilik baru supaya kami boleh terus menjual produk kepada anda."
+    },
+    "contact": {
+      "section_title": "Soalan & Maklumat Hubungan",
+      "content": "Jika anda ingin: mengakses, membetulkan, mengubah atau memadam sebarang maklumat peribadi yang kami ada tentang anda, membuat aduan, atau sekadar mahukan maklumat lanjut, sila hubungi Pegawai Pematuhan Privasi kami di support.my@wisedrive.com."
+    }
+  },
+  "InspectionTermsAndConditions": {
+    "page_title": "Dasar Privasi Wisedrive Technologies (M) Sdn. Bhd.",
+    "definitions": {
+      "section_title": "Takrifan",
+      "we_us": "Kami/Kita",
+      "we_us_desc": "Wisedrive Technologies (M) Sdn. Bhd. Limited",
+      "agreement": "Perjanjian",
+      "agreement_desc": "Perjanjian antara Wisedrive dan Pelanggan di mana Wisedrive bersetuju untuk mengatur agar Pemeriksa menjalankan Pemeriksaan mengikut terma dan syarat ini",
+      "cancellation_fee": "Yuran Pembatalan",
+      "cancellation_fee_desc": "Jumlah yang perlu dibayar oleh Pelanggan seperti yang dinyatakan dalam terma dan syarat ini",
+      "customer_you": "Pelanggan/Anda",
+      "customer_you_desc": "Pelanggan Wisedrive yang membuat tempahan untuk Pemeriksaan",
+      "fee": "Yuran",
+      "fee_desc": "Jumlah yang perlu dibayar oleh Pelanggan kepada Wisedrive untuk Pemeriksaan seperti yang dinyatakan di",
+      "inspection": "Pemeriksaan",
+      "inspection_desc": "Pemeriksaan visual audio dan luaran serta pandu ujian yang dilakukan oleh Pemeriksa bagi pihak Wisedrive untuk Pelanggan mengikut terma dan syarat ini",
+      "inspection_note": "Nota Pemeriksaan",
+      "inspection_note_desc": "Wisedrive menyediakan beberapa kategori Pemeriksaan yang berbeza, setiap satu melibatkan semakan yang berbeza. Butiran mengenai kategori pemeriksaan yang berlainan dan semakan yang terlibat boleh didapati di https://www.wisedrive.com atau dengan menghubungi +60 122559610. Pengesahan kategori Pemeriksaan yang dipilih oleh Pelanggan akan dilakukan pada Kenderaan",
+      "inspector": "Pemeriksa",
+      "inspector_desc": "Pemeriksa bertauliah yang menjalankan Pemeriksaan bagi pihak Wisedrive. Pemeriksa adalah tertakluk kepada ketersediaan dan boleh digantikan dengan ejen pihak ketiga yang bersesuaian",
+      "report": "Laporan",
+      "report_desc": "Laporan bertulis yang dihasilkan oleh Pemeriksa sebagai sebahagian daripada Pemeriksaan, yang merangkumi nama dan alamat Pelanggan, butiran pendaftaran Kenderaan yang diperiksa serta lokasinya, sama ada Kenderaan tersebut lulus atau gagal dalam Pemeriksaan, senarai semakan yang dilakukan (bergantung kepada jenis Pemeriksaan yang diminta oleh Pelanggan) dan ringkasan mana-mana aspek kebimbangan yang perlu diberi perhatian oleh Pelanggan",
+      "report_checklist": "Senarai Semakan Laporan",
+      "report_checklist_desc": "Senarai aspek yang akan atau telah diperiksa oleh Pemeriksa sebagai sebahagian daripada Pemeriksaan Fizikal, yang boleh didapati di",
+      "vehicle": "Kenderaan",
+      "vehicle_desc": "Kenderaan yang mana Pelanggan memerlukan Pemeriksa untuk menjalankan Pemeriksaan"
+    },
+    "general_scope": {
+      "section_title": "Skop Umum",
+      "point_1": "Pemeriksaan disediakan atas dasar pemeriksaan visual dan luaran sahaja dan terhad kepada bahagian dan/atau item yang dikenal pasti dalam Laporan. Pemeriksaan tidak melibatkan pembongkaran atau gangguan terhadap mana-mana struktur, komponen atau mekanisme dalaman. Pemeriksa akan menjalankan ujian jalan ke atas Kenderaan dan menghasilkan Laporan. Terdapat bahagian tertentu dalam Kenderaan yang tidak akan diperiksa. Anda harus membaca Senarai Semakan Laporan dengan teliti untuk melihat apa yang tidak akan diperiksa.",
+      "point_2": "Salinan Laporan akan dihantar kepada Anda melalui e-mel ke alamat e-mel yang Anda berikan semasa membuat tempahan Pemeriksaan. Disebabkan oleh sifat internet dan perisian perlindungan virus yang digunakan oleh penyedia perkhidmatan internet Anda atau yang dimuatkan ke komputer Anda, mungkin dalam sesetengah kes Laporan tidak dapat dihantar melalui e-mel. Sekiranya Anda tidak menerima Laporan Anda dalam tempoh 24 jam selepas Pemeriksaan Kenderaan Wisedrive dijalankan, Anda mesti memaklumkan kepada Kami secepat mungkin supaya Kami boleh menghantar semula Laporan Anda. Kami tidak akan bertanggungjawab kepada Anda atas sebarang kegagalan untuk menghantar Laporan sekiranya kegagalan tersebut berada di luar kawalan munasabah Kami.",
+      "point_3": "Item yang disenaraikan dalam Senarai Semakan Laporan sebagai bahagian/item yang perlu diperiksa, tetapi tidak dapat diakses dengan mudah pada Kenderaan, tidak akan diperiksa. Dalam keadaan sedemikian, Kami tidak mempunyai kewajipan untuk memeriksa dan/atau melaporkan bahagian/item tersebut dan Pemeriksa akan menandakan bahagian yang berkaitan dalam Laporan dengan sewajarnya.",
+      "point_4": "Kenderaan harus dalam keadaan bersih bagi memastikan Pemeriksa dapat melihat dan melaporkan secara tepat mengenai bahagian kenderaan yang diperiksa. Jika kenderaan tidak bersih, Pemeriksa berhak untuk tidak memberi komen mengenai bahagian tersebut dan akan menandakan Senarai Semakan Laporan dengan sewajarnya. Dalam kes ini, Yuran Laporan tetap perlu dibayar sepenuhnya."
+    },
+    "road_test": {
+      "section_title": "Keperluan Ujian Jalan Raya",
+      "point_1": "Untuk membolehkan Pemeriksa kami menjalankan Ujian Jalan Raya ke atas Kenderaan, anda mesti memastikan bahawa kenderaan mengandungi jumlah yang mencukupi daripada: (a) Air; (b) Minyak; (c) Petrol",
+      "point_1_items": [
+        "Air",
+        "Minyak",
+        "Petrol"
+      ],
+      "point_2": "Ujian jalan raya dijalankan dalam kawasan sekitar Pemeriksaan. Jika: Kenderaan berada dalam keadaan tidak selamat untuk dipandu atau mengandungi jumlah minyak, air dan/atau petrol yang tidak mencukupi; Pelanggan tidak dapat mengesahkan bahawa Kenderaan mempunyai sijil kecergasan yang sah dan oleh itu ujian jalan raya tidak dapat dijalankan semasa Pemeriksaan; Bayaran bagi Pemeriksaan masih perlu dibayar sepenuhnya dan bayaran tambahan akan dikenakan untuk sebarang ujian jalan raya susulan yang Anda minta Kami jalankan",
+      "point_3": "Pelaksanaan ujian jalan raya tidak bermaksud Pemeriksa kami telah melihat sijil kecergasan yang sah",
+      "point_4": "Mendapatkan kebenaran yang diperlukan serta akses ke Kenderaan adalah tanggungjawab Pelanggan",
+      "point_5": "Pelanggan mesti memastikan bahawa penyediaan yang betul telah dibuat (termasuk mendapatkan sebarang kebenaran yang diperlukan daripada pemilik Kenderaan) untuk Pemeriksaan dijalankan di premis bengkel atau di kawasan luar jalan dengan permukaan rata, keras dan kering",
+      "point_6": "Pemeriksa kami memerlukan ruang yang mencukupi untuk berjalan mengelilingi Kenderaan dan membuka semua pintu sepenuhnya. Pemeriksa kami juga perlu mempunyai ruang yang mencukupi untuk meletakkan kenderaannya berhampiran lokasi Pemeriksaan",
+      "point_7": "Pencahayaan dalaman berkualiti tinggi atau cahaya matahari yang mencukupi (jika Pemeriksaan dilakukan di luar) mesti disediakan di lokasi Pemeriksaan. Kami tidak dapat memeriksa Kenderaan dalam pencahayaan yang lemah atau dalam keadaan gelap.",
+      "point_8": "Pencahayaan dalaman berkualiti tinggi atau cahaya matahari yang mencukupi (jika Pemeriksaan dilakukan di luar) mesti disediakan di lokasi Pemeriksaan. Kami tidak dapat memeriksa Kenderaan dalam pencahayaan yang lemah atau dalam keadaan gelap."
+    },
+    "payment_cancellation": {
+      "section_title": "Bayaran dan Pembatalan",
+      "point_1": "Bayaran mesti dibuat semasa tempahan Pemeriksaan",
+      "point_2": "Kami berhak untuk menolak menjalankan Pemeriksaan atau mengeluarkan Laporan untuk sebarang kenderaan: yang tidak boleh diakses oleh Pemeriksa dengan wajar; atau yang kelihatan kepada Pemeriksa sebagai: (a) bukan keluaran standard (contohnya, tetapi tidak terhad kepada, kereta kit); (b) telah diubah suai atau tidak digunakan secara kerap (contohnya, menunjukkan tanda-tanda kakisan berlebihan pada bahagian bergerak akibat dibiarkan terlalu lama dan boleh menyebabkan Kenderaan tidak selamat untuk dipandu tanpa pembaikan); (c) tidak selamat untuk dipandu atau berada dalam keadaan tidak layak di jalan raya",
+      "point_2_items": [
+        "Mana-mana keadaan yang dirujuk dalam Terma & Syarat ini",
+        "Di mana Pelanggan gagal memastikan penyediaan yang betul untuk Pemeriksaan dijalankan, seperti yang diperlukan",
+        "Di mana Pelanggan telah memberikan maklumat yang salah atau tidak lengkap yang menghalang Kami daripada menjalankan Pemeriksaan dan Anda mengakui bahawa dalam keadaan sedemikian Kami berhak untuk menganggap Perjanjian sebagai ditamatkan dan menyimpan Bayaran sepenuhnya"
+      ],
+      "point_3": "Jika Anda ingin Kami menjalankan Pemeriksaan lain, Anda perlu membuat bayaran tambahan semasa tempahan baru",
+      "point_4": "Anda berhak untuk membatalkan Pemeriksaan dan menerima pemulangan penuh Bayaran jika pembatalan dibuat sekurang-kurangnya 24 jam sebelum Pemeriksaan dijadualkan. Setelah Pemeriksaan dijalankan, tiada pemulangan bayaran akan diberikan",
+      "point_5": "Untuk membatalkan Pemeriksaan, Anda mesti memaklumkan Pasukan Sokongan Pelanggan kami tentang keputusan Anda dengan menghantar e-mel ke support.my@wisedrive.com atau menghubungi +60 122559610, Isnin hingga Jumaat dari jam 9 pagi hingga 5 petang",
+      "point_6": "Bagi membolehkan kami mencari tempahan anda, anda perlu memberikan nama, alamat, nombor telefon dan nombor rujukan tempahan (seperti yang diberikan dalam pengesahan tempahan anda) bersama permohonan pembatalan anda",
+      "point_7": "Jika Anda ingin Kami menjalankan Pemeriksaan lain, Anda perlu membuat bayaran tambahan semasa tempahan baru"
+    },
+    "complaints": {
+      "section_title": "Aduan",
+      "point_1": "Jika Anda mempunyai aduan atau tidak berpuas hati dengan sebarang Pemeriksaan yang telah dijalankan, sila hubungi Kami di +60 122559610 secepat mungkin. Kami mungkin perlu menjalankan pemeriksaan semula ke atas Kenderaan untuk menangani aduan tersebut, dan Anda bersetuju untuk membenarkan Kami berbuat demikian",
+      "point_2": "Tiada pembaikan boleh dilakukan atau mana-mana bahagian kenderaan diganti sebelum Pemeriksaan semula dijalankan oleh Kami. Jika pembaikan kecemasan diperlukan bagi memastikan Kenderaan selamat digunakan dan kemudian menjadi subjek aduan kepada Kami, Anda mesti memastikan aduan dibuat kepada Kami (termasuk pemberitahuan mengenai keperluan pembaikan kecemasan) dalam tempoh yang munasabah selepas masalah ditemui. Mana-mana bahagian yang rosak atau haus yang telah dibaiki atau diganti mesti disimpan untuk pemeriksaan lanjut oleh Kami. Kami tidak akan bertanggungjawab dalam apa jua keadaan terhadap kos pembaikan atau penggantian bahagian tanpa persetujuan bertulis terdahulu daripada Kami.",
+      "point_3": "Kami berhak untuk memerlukan seorang lagi Pemeriksa Kami untuk menjalankan Pemeriksaan semula ke atas mana-mana Kenderaan atas perbelanjaan Kami sendiri jika dianggap perlu untuk menangani sebarang aduan. Anda juga dikehendaki membenarkan Pemeriksa Kami menjalankan Pemeriksaan semula tersebut mengikut terma dan syarat ini. Kami akan memberikan pendapat kedua yang tidak berat sebelah terhadap Laporan awal yang dikeluarkan."
+    },
+    "matters_beyond_control": {
+      "section_title": "Perkara di Luar Kawalan Munasabah Kami",
+      "point_1": "Kami tidak akan bertanggungjawab terhadap sebarang kelewatan atau ketidakupayaan untuk menjalankan Pemeriksaan akibat kejadian atau keadaan di luar kawalan munasabah Kami. Kami akan mengambil langkah untuk mengurangkan kesannya sekiranya boleh",
+      "point_2": "Wisedrive hanya akan bertanggungjawab kepada Pelanggan (dan bukan kepada mana-mana pihak lain) sekiranya Wisedrive gagal menjalankan Pemeriksaan mengikut terma dan syarat ini. Tanpa mengehadkan perkara di atas, Anda mengakui bahawa Wisedrive atau Pemeriksa tidak akan bertanggungjawab kepada Anda atau mana-mana pihak lain atas sebarang liabiliti, kerugian, kerosakan, tuntutan, prosiding, kos atau perbelanjaan (secara kolektif dirujuk sebagai 'Kerugian') yang dialami atau ditanggung dalam mana-mana keadaan berikut",
+      "point_3": "Kerugian tersebut bukan akibat yang boleh diramalkan secara munasabah daripada sebarang pelanggaran (Kerugian dianggap boleh diramalkan jika ia boleh dijangkakan oleh Anda dan Kami pada masa Pemeriksaan Kenderaan dilakukan)",
+      "point_4": "Kerugian tersebut tidak disebabkan secara langsung oleh pelanggaran terma dan syarat ini oleh Kami atau Pemeriksa",
+      "point_5": "Kerugian tersebut melibatkan kerugian perniagaan atau lain-lain kerugian kepada pelanggan yang bukan pengguna",
+      "point_6": "Kerugian tersebut meningkat akibat daripada pelanggaran mana-mana terma dan syarat ini oleh Anda",
+      "point_7": "Tiada apa-apa dalam dokumen ini yang akan menjejaskan hak statutori pengguna di bawah mana-mana undang-undang yang berkenaan"
+    },
+    "enforcement": {
+      "section_title": "Penguatkuasaan Terma",
+      "point_1": "Setiap klausa dalam terma ini beroperasi secara berasingan. Jika mana-mana mahkamah atau pihak berkuasa yang berkaitan memutuskan bahawa mana-mana daripadanya adalah tidak sah, klausa yang selebihnya akan tetap berkuat kuasa sepenuhnya",
+      "point_2": "Perjanjian ini adalah antara Anda dan Wisedrive. Tiada pihak lain yang mempunyai hak untuk menguatkuasakan mana-mana terma dalam Perjanjian ini. Kami juga tidak perlu mendapatkan persetujuan mana-mana pihak untuk membuat sebarang perubahan kepada terma ini"
+    },
+    "advice": {
+      "section_title": "Nasihat Berkaitan Laporan",
+      "content": "Anda dinasihatkan agar membincangkan penemuan dalam Laporan dengan penjual sebelum membuat keputusan untuk membeli Kenderaan. Jika Anda belum melihat Kenderaan secara peribadi, Anda mesti memastikan bahawa keadaan kosmetik dan spesifikasi Kenderaan adalah memuaskan dan sesuai dengan keperluan serta jangkaan Anda. Kami mencadangkan agar Anda melihat dan memandu sendiri Kenderaan sebelum membuat keputusan pembelian."
+    }
+  }
+}

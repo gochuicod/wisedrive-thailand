@@ -1,0 +1,69 @@
+{
+    "name": "InfiGroup | Developer Documentation",
+    "description": "",
+    "theme": "crystal",
+    "colors": {
+        "dark": "#8b5cf6",
+        "light": "#3b82f6"
+    },
+    "defaultThemeMode": "dark",
+    "logo": {
+        "light": "/assets/light.svg",
+        "dark": "/assets/dark.svg",
+        "reference": ""
+    },
+    "favicon": "/assets/favicon.svg",
+    "background": {
+        "colors": {
+            "dark": "#0a0f1c",
+            "light": "#fafbfc"
+        }
+    },
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "Documentation",
+                "items": [
+                    {
+                        "type": "group",
+                        "title": "Project Overview",
+                        "children": [
+                            {
+                                "type": "page",
+                                "title": "Tech Stack Overview",
+                                "page": "/documentation/project_overview/tech_stack_overview.mdx"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "title": "Development Guidelines",
+                        "children": [
+                            {
+                                "type": "page",
+                                "title": "Routing Rules",
+                                "page": "/documentation/development_guidelines/routing_rules.mdx"
+                            },
+                            {
+                                "type": "page",
+                                "title": "Async Parameters Handling",
+                                "page": "/documentation/development_guidelines/async_parameters_handling.mdx"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "title": "Project Standards",
+                        "children": [
+                            {
+                                "type": "page",
+                                "title": "Commit Convention Types",
+                                "page": "/documentation/project_standards/commit_convention_types.mdx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
