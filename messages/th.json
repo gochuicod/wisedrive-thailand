@@ -558,247 +558,247 @@
   "TermsAndConditions": {
     "page_title": "ข้อกำหนดและเงื่อนไข",
     "definitions": {
-      "section_title": "1. Definitions",
-      "we_us": "We/Us and We",
-      "we_us_desc": "means Wisedrive Technologies (M) Sdn. Bhd.",
-      "agreement": "Agreement",
-      "agreement_desc": "means the agreement between Wisedrive and Customer where Wisedrive agrees to arrange for an Inspector to conduct an Inspection in accordance with these terms and conditions.",
-      "cancellation_fee": "Cancellation Fee",
-      "cancellation_fee_desc": "means the amount payable by the Customer as stated in these terms and conditions.",
-      "customer_you": "Customer/You",
-      "customer_you_desc": "means a Wisedrive customer who makes a booking for an Inspection.",
-      "fee": "Fee",
-      "fee_desc": "means the amount payable by the Customer to Wisedrive for the Inspection as stated at https://www.wisedrive.com.",
-      "inspection": "Inspection",
-      "inspection_desc": "means the visual audio and external inspection as well as test drive conducted by an Inspector on behalf of Wisedrive for the Customer in accordance with these terms and conditions.",
-      "inspector": "Inspector",
-      "inspector_desc": "refers to the certified inspector who conducts the Inspection on behalf of Wisedrive. Inspectors are subject to availability and may be replaced with suitable third-party agents.",
-      "report": "Report",
-      "report_desc": "means the written report produced by the Inspector as part of the Inspection, which includes the Customer's name and address, the inspected Vehicle's registration details and its location, whether the Vehicle passed or failed the Inspection, a list of checks performed (depending on the type of Inspection requested by the Customer) and a summary of any areas of concern that need attention from the Customer.",
-      "report_checklist": "Report Checklist",
-      "report_checklist_desc": "means the list of aspects that will be or have been inspected by the Inspector as part of the Physical Inspection, which can be found at https://www.wisedrive.com.",
-      "vehicle": "Vehicle",
-      "vehicle_desc": "means the vehicle for which the Customer requires the Inspector to conduct an Inspection.",
-      "inspection_categories": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle."
+      "section_title": "1. คำจำกัดความ",
+      "we_us": "เรา (We/Us)",
+      "we_us_desc": "หมายถึง Wisedrive Thailand",
+      "agreement": "ข้อตกลง",
+      "agreement_desc": "หมายถึงข้อตกลงระหว่าง Wisedrive และลูกค้า ซึ่ง Wisedrive ตกลงที่จะจัดเตรียมผู้ตรวจสอบเพื่อดำเนินการตรวจสอบตามข้อกำหนดและเงื่อนไขเหล่านี้",
+      "cancellation_fee": "ค่าธรรมเนียมการยกเลิก",
+      "cancellation_fee_desc": "หมายถึงจำนวนเงินที่ลูกค้าต้องชำระตามที่ระบุไว้ในข้อกำหนดและเงื่อนไขเหล่านี้",
+      "customer_you": "ลูกค้า/คุณ",
+      "customer_you_desc": "หมายถึงลูกค้าของ Wisedrive ที่ทำการจองเพื่อรับการตรวจสอบ",
+      "fee": "ค่าธรรมเนียม",
+      "fee_desc": "หมายถึงจำนวนเงินที่ลูกค้าต้องชำระให้กับ Wisedrive สำหรับการตรวจสอบตามที่ระบุไว้ที่ https://www.wisedrive.com",
+      "inspection": "การตรวจสอบ",
+      "inspection_desc": "หมายถึงการตรวจสอบด้วยภาพและเสียง การตรวจสอบภายนอก ตลอดจนการทดลองขับที่ดำเนินการโดยผู้ตรวจสอบในนามของ Wisedrive สำหรับลูกค้าตามข้อกำหนดและเงื่อนไขเหล่านี้",
+      "inspector": "ผู้ตรวจสอบ",
+      "inspector_desc": "หมายถึงผู้ตรวจสอบที่ผ่านการรับรองซึ่งดำเนินการตรวจสอบในนามของ Wisedrive ผู้ตรวจสอบขึ้นอยู่กับความพร้อมให้บริการและอาจถูกแทนที่ด้วยตัวแทนบุคคลที่สามที่เหมาะสม",
+      "report": "รายงาน",
+      "report_desc": "หมายถึงรายงานเป็นลายลักษณ์อักษรที่จัดทำโดยผู้ตรวจสอบโดยเป็นส่วนหนึ่งของการตรวจสอบ ซึ่งรวมถึงชื่อและที่อยู่ของลูกค้า รายละเอียดการจดทะเบียนรถยนต์ที่ได้รับการตรวจสอบและสถานที่ตั้ง รถยนต์ผ่านหรือไม่ผ่านการตรวจสอบ รายการการตรวจสอบที่ดำเนินการ (ขึ้นอยู่กับประเภทของการตรวจสอบที่ลูกค้าร้องขอ) และบทสรุปของข้อกังวลใดๆ ที่ลูกค้าควรให้ความสนใจ",
+      "report_checklist": "รายการตรวจสอบ",
+      "report_checklist_desc": "หมายถึงรายการของส่วนต่างๆ ที่จะได้รับการตรวจสอบหรือได้รับการตรวจสอบแล้วโดยผู้ตรวจสอบโดยเป็นส่วนหนึ่งของการตรวจสอบทางกายภาพ ซึ่งสามารถดูได้ที่ https://www.wisedrive.com",
+      "vehicle": "รถยนต์",
+      "vehicle_desc": "หมายถึงรถยนต์ที่ลูกค้าต้องการให้ผู้ตรวจสอบดำเนินการตรวจสอบ",
+      "inspection_categories": "Wisedrive ให้บริการการตรวจสอบหลายประเภท ซึ่งแต่ละประเภทเกี่ยวข้องกับการตรวจสอบที่แตกต่างกัน รายละเอียดเกี่ยวกับประเภทการตรวจสอบต่างๆ และการตรวจสอบที่เกี่ยวข้องสามารถดูได้ที่ https://www.wisedrive.com หรือติดต่อ +60 122559610 การยืนยันประเภทการตรวจสอบที่ลูกค้าเลือกจะดำเนินการที่รถยนต์"
     },
     "general_scope": {
-      "section_title": "2. General Scope",
-      "point_1": "Inspections are provided based on visual and external inspection only and are limited to the parts and/or items identified in the Report. The Inspection does not involve disassembly or interference with any structure, component, or internal mechanism. The Inspector will conduct a test drive on the Vehicle and produce a Report. There are certain parts of the Vehicle that will not be inspected. You should read the Report Checklist carefully to see what will not be inspected.",
-      "point_2": "A copy of the Report will be sent to you via email to the email address you provided when making the Inspection booking. Due to the nature of the internet and virus protection software used by your internet service provider or installed on your computer, it may not be guaranteed that the Report will be delivered via email in all cases. If you do not receive your Report within 24 hours after your Wisedrive Vehicle Inspection, you must notify Us as soon as possible so that We can resend the Report to you.",
-      "point_3": "Items listed in the Report Checklist as parts/items to be inspected, but which cannot be easily accessed on the Vehicle, will not be inspected. In such circumstances, We have no obligation to inspect and/or report on those parts/items, and the Inspector will mark the relevant sections in the Report accordingly.",
-      "point_4": "The Vehicle should be in a clean condition to ensure the Inspector can accurately see and report on the vehicle parts being inspected. If the vehicle is not clean, the Inspector reserves the right not to comment on those parts and will mark the Report Checklist accordingly. In this case, the Report Fee is still payable in full."
+      "section_title": "2. ขอบเขตทั่วไป",
+      "point_1": "การตรวจสอบมีให้ตามการตรวจสอบด้วยภาพและภายนอกเท่านั้น และจำกัดเฉพาะชิ้นส่วนและ/หรือรายการที่ระบุในรายงาน การตรวจสอบนี้ไม่เกี่ยวข้องกับการถอดชิ้นส่วนหรือการแทรกแซงโครงสร้าง ส่วนประกอบ หรือกลไกภายในใดๆ ผู้ตรวจสอบจะทำการทดลองขับรถยนต์และจัดทำรายงาน จะมีบางส่วนของรถยนต์ที่ไม่ได้รับการตรวจสอบ คุณควรอ่านรายการตรวจสอบอย่างละเอียดเพื่อดูว่าจะไม่มีการตรวจสอบส่วนใดบ้าง",
+      "point_2": "สำเนารายงานจะถูกส่งถึงคุณทางอีเมลตามที่อยู่อีเมลที่คุณให้ไว้เมื่อทำการจองการตรวจสอบ เนื่องจากลักษณะของอินเทอร์เน็ตและซอฟต์แวร์ป้องกันไวรัสที่ผู้ให้บริการอินเทอร์เน็ตของคุณใช้หรือที่ติดตั้งในคอมพิวเตอร์ของคุณ อาจไม่สามารถรับประกันได้ว่ารายงานจะถูกจัดส่งทางอีเมลได้ในทุกกรณี หากคุณไม่ได้รับรายงานภายใน 24 ชั่วโมงหลังจากการตรวจสอบรถยนต์ของ Wisedrive คุณต้องแจ้งให้เราทราบโดยเร็วที่สุดเพื่อให้เราสามารถส่งรายงานให้คุณอีกครั้ง",
+      "point_3": "รายการที่ระบุในรายการตรวจสอบว่าเป็นชิ้นส่วน/รายการที่จะต้องตรวจสอบ แต่ไม่สามารถเข้าถึงได้ง่ายในรถยนต์ จะไม่ได้รับการตรวจสอบ ในกรณีดังกล่าว เราไม่มีข้อผูกมัดที่จะต้องตรวจสอบและ/หรือรายงานเกี่ยวกับชิ้นส่วน/รายการเหล่านั้น และผู้ตรวจสอบจะทำเครื่องหมายในส่วนที่เกี่ยวข้องในรายงานตามความเหมาะสม",
+      "point_4": "รถยนต์ควรอยู่ในสภาพสะอาดเพื่อให้แน่ใจว่าผู้ตรวจสอบสามารถมองเห็นและรายงานชิ้นส่วนของรถยนต์ที่กำลังตรวจสอบได้อย่างแม่นยำ หากรถยนต์ไม่สะอาด ผู้ตรวจสอบขอสงวนสิทธิ์ที่จะไม่แสดงความคิดเห็นเกี่ยวกับชิ้นส่วนเหล่านั้นและจะทำเครื่องหมายในรายการตรวจสอบตามความเหมาะสม ในกรณีนี้ คุณยังคงต้องชำระค่าธรรมเนียมรายงานเต็มจำนวน"
     },
     "road_test": {
-      "section_title": "3. Road Test Requirements",
-      "point_1": "To enable our Inspector to conduct a Road Test on your Vehicle, you must ensure that the vehicle contains sufficient quantities of:",
+      "section_title": "3. ข้อกำหนดในการทดลองขับบนถนน",
+      "point_1": "เพื่อให้ผู้ตรวจสอบของเราสามารถทำการทดลองขับบนถนนสำหรับรถยนต์ของคุณได้ คุณต้องตรวจสอบให้แน่ใจว่ารถยนต์มีปริมาณของสิ่งต่อไปนี้เพียงพอ:",
       "point_1_items": [
-        "Water",
-        "Oil",
-        "Petrol"
+        "น้ำ",
+        "น้ำมันเครื่อง",
+        "น้ำมันเชื้อเพลิง"
       ],
-      "point_2": "Road tests are conducted in the area surrounding the Inspection. If the Vehicle is in an unsafe condition to be driven or contains insufficient quantities of oil, water and/or petrol, or if the Customer cannot confirm that the Vehicle has a valid roadworthiness certificate, the road test cannot be carried out during the Inspection.",
-      "point_3": "The payment for the Inspection is still payable in full and additional charges will be applied for any subsequent road test that you ask Us to conduct.",
-      "point_4": "The performance of a road test does not mean that our Inspector has seen a valid roadworthiness certificate.",
-      "point_5": "Obtaining the necessary permissions and access to the Vehicle is the responsibility of the Customer.",
-      "point_6": "The Customer must ensure that proper arrangements have been made (including obtaining any necessary permissions from the Vehicle owner) for the Inspection to be carried out at workshop premises or in an off-road area with a flat, hard, and dry surface.",
-      "point_7": "Our Inspector requires sufficient space to walk around the Vehicle and fully open all doors. Our Inspector also needs to have sufficient space to park his/her vehicle near the Inspection location.",
-      "point_8": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions."
+      "point_2": "การทดลองขับบนถนนจะดำเนินการในบริเวณโดยรอบสถานที่ตรวจสอบ หากรถยนต์อยู่ในสภาพที่ไม่ปลอดภัยที่จะขับขี่ หรือมีปริมาณน้ำมันเครื่อง น้ำ และ/หรือ น้ำมันเชื้อเพลิงไม่เพียงพอ หรือหากลูกค้าไม่สามารถยืนยันได้ว่ารถยนต์มีใบรับรองความพร้อมใช้งานบนท้องถนนที่ถูกต้อง จะไม่สามารถดำเนินการทดลองขับได้ในระหว่างการตรวจสอบ",
+      "point_3": "คุณยังคงต้องชำระค่าธรรมเนียมการตรวจสอบเต็มจำนวน และจะมีการเรียกเก็บค่าใช้จ่ายเพิ่มเติมสำหรับการทดลองขับบนถนนในครั้งต่อไปที่คุณขอให้เราดำเนินการ",
+      "point_4": "การทดลองขับบนถนนไม่ได้หมายความว่าผู้ตรวจสอบของเราได้เห็นใบรับรองความพร้อมใช้งานบนท้องถนนที่ถูกต้องแล้ว",
+      "point_5": "การขออนุญาตที่จำเป็นและการเข้าถึงรถยนต์ถือเป็นความรับผิดชอบของลูกค้า",
+      "point_6": "ลูกค้าต้องตรวจสอบให้แน่ใจว่าได้เตรียมการอย่างเหมาะสม (รวมถึงการขออนุญาตที่จำเป็นจากเจ้าของรถยนต์) เพื่อให้การตรวจสอบสามารถดำเนินการได้ในสถานที่ของอู่ซ่อมรถหรือในพื้นที่ออฟโรดที่มีพื้นผิวเรียบ แข็ง และแห้ง",
+      "point_7": "ผู้ตรวจสอบของเราต้องการพื้นที่เพียงพอในการเดินรอบรถยนต์และเปิดประตูทุกบานได้จนสุด นอกจากนี้ผู้ตรวจสอบยังต้องการพื้นที่เพียงพอสำหรับจอดรถของเขา/เธอใกล้กับสถานที่ตรวจสอบ",
+      "point_8": "ต้องมีแสงสว่างภายในอาคารที่มีคุณภาพสูงหรือแสงแดดเพียงพอ (หากการตรวจสอบดำเนินการกลางแจ้ง) ณ สถานที่ตรวจสอบ เราไม่สามารถตรวจสอบรถยนต์ในสภาพแสงน้อยหรือในที่มืดได้"
     },
     "payment_cancellation": {
-      "section_title": "4. Payment and Cancellation",
-      "point_1": "Payment must be made at the time of booking the Inspection.",
-      "point_2": "We reserve the right to refuse to conduct an Inspection or issue a Report for any vehicle: that cannot be reasonably accessed by the Inspector; or that appears to the Inspector as:",
+      "section_title": "4. การชำระเงินและการยกเลิก",
+      "point_1": "ต้องชำระเงินในเวลาที่ทำการจองการตรวจสอบ",
+      "point_2": "เราขอสงวนสิทธิ์ในการปฏิเสธการดำเนินการตรวจสอบหรือออกรายงานสำหรับรถยนต์ใดๆ: ที่ผู้ตรวจสอบไม่สามารถเข้าถึงได้อย่างสมเหตุสมผล; หรือที่ผู้ตรวจสอบเห็นว่า:",
       "point_2_items": [
-        "not standard production (for example, but not limited to, a kit car)",
-        "has been modified or not used frequently (for example, showing signs of excessive corrosion on moving parts due to being left too long and could cause the Vehicle to be unsafe to drive without repairs)",
-        "unsafe to drive or is in an unroadworthy condition"
+        "ไม่ใช่การผลิตมาตรฐาน (เช่น แต่ไม่จำกัดเพียง รถประกอบเอง)",
+        "ได้รับการดัดแปลงหรือไม่ค่อยได้ใช้งาน (เช่น มีร่องรอยการกัดกร่อนอย่างรุนแรงบนชิ้นส่วนที่เคลื่อนที่เนื่องจากถูกทิ้งไว้นานเกินไป และอาจทำให้รถยนต์ไม่ปลอดภัยที่จะขับขี่หากไม่ได้รับการซ่อมแซม)",
+        "ไม่ปลอดภัยที่จะขับขี่หรืออยู่ในสภาพที่ไม่พร้อมใช้งานบนท้องถนน"
       ],
-      "point_3": "Where the Customer fails to ensure proper arrangements for the Inspection to be carried out, as required, or has provided incorrect or incomplete information that prevents Us from carrying out the Inspection, you acknowledge that in such circumstances We are entitled to treat the Agreement as terminated and retain the Payment in full.",
-      "point_4": "If you wish Us to carry out another Inspection, you need to make an additional payment at the time of the new booking.",
-      "point_5": "You are entitled to cancel the Inspection and receive a full refund of the Payment if the cancellation is made at least 24 hours before the scheduled Inspection. After the Inspection has been carried out, no refund of the payment will be given.",
-      "point_6": "To cancel the Inspection, you must notify our Customer Support Team of your decision by sending an email to support.my@wisedrive.com or by calling +60 122559610, Monday to Friday from 9 am to 5 pm.",
-      "point_7": "To enable us to locate your booking, you need to provide your name, address, telephone number, and booking reference number (as given in your booking confirmation) along with your cancellation request."
+      "point_3": "ในกรณีที่ลูกค้าไม่สามารถเตรียมการอย่างเหมาะสมเพื่อให้การตรวจสอบดำเนินการได้ตามที่กำหนด หรือให้ข้อมูลที่ไม่ถูกต้องหรือไม่ครบถ้วนซึ่งเป็นอุปสรรคต่อเราในการดำเนินการตรวจสอบ คุณรับทราบว่าในสถานการณ์เช่นนี้ เรามีสิทธิ์ถือว่าข้อตกลงสิ้นสุดลงและเก็บเงินที่ชำระไว้เต็มจำนวน",
+      "point_4": "หากคุณต้องการให้เราดำเนินการตรวจสอบอีกครั้ง คุณจะต้องชำระเงินเพิ่มเติมในเวลาที่ทำการจองใหม่",
+      "point_5": "คุณมีสิทธิ์ยกเลิกการตรวจสอบและรับเงินคืนเต็มจำนวน หากแจ้งยกเลิกล่วงหน้าอย่างน้อย 24 ชั่วโมงก่อนกำหนดการตรวจสอบ หลังจากดำเนินการตรวจสอบแล้ว จะไม่มีการคืนเงินให้",
+      "point_6": "ในการยกเลิกการตรวจสอบ คุณต้องแจ้งการตัดสินใจของคุณให้ทีมสนับสนุนลูกค้าของเราทราบโดยส่งอีเมลไปที่ support.my@wisedrive.com หรือโทร +60 122559610 วันจันทร์ถึงวันศุกร์ เวลา 09.00 น. ถึง 17.00 น.",
+      "point_7": "เพื่อให้เราค้นหาการจองของคุณได้ คุณต้องระบุชื่อ ที่อยู่ หมายเลขโทรศัพท์ และหมายเลขอ้างอิงการจอง (ตามที่ระบุในการยืนยันการจอง) พร้อมกับคำร้องขอยกเลิกของคุณ"
     },
     "complaints": {
-      "section_title": "5. Complaints",
-      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to conduct a re-inspection of the Vehicle to address that complaint, and you agree to allow Us to do so.",
-      "point_2": "No repairs should be undertaken or any parts of the vehicle replaced before a re-inspection is carried out by Us. If emergency repairs are needed to ensure the Vehicle is safe to use and subsequently becomes the subject of a complaint to Us, you must ensure that the complaint is made to Us (including notification of the emergency repair requirement) within a reasonable period after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not be responsible under any circumstances for the cost of repairs or parts replacement without prior written agreement from Us.",
-      "point_3": "We reserve the right to require another of our Inspectors to conduct a re-inspection of any Vehicle at our own expense if deemed necessary to address any complaint. You are also required to allow our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued."
+      "section_title": "5. ข้อร้องเรียน",
+      "point_1": "หากคุณมีข้อร้องเรียนหรือไม่พอใจกับการตรวจสอบใดๆ ที่ดำเนินการไปแล้ว โปรดติดต่อเราที่ +60 122559610 โดยเร็วที่สุด เราอาจต้องดำเนินการตรวจสอบรถยนต์อีกครั้งเพื่อแก้ไขข้อร้องเรียนดังกล่าว และคุณตกลงที่จะอนุญาตให้เราดำเนินการดังกล่าว",
+      "point_2": "ไม่ควรทำการซ่อมแซมหรือเปลี่ยนชิ้นส่วนใดๆ ของรถยนต์ก่อนที่เราจะดำเนินการตรวจสอบซ้ำ หากจำเป็นต้องมีการซ่อมแซมฉุกเฉินเพื่อให้แน่ใจว่ารถยนต์ปลอดภัยต่อการใช้งาน และต่อมากลายเป็นประเด็นร้องเรียนถึงเรา คุณต้องตรวจสอบให้แน่ใจว่าได้ร้องเรียนถึงเรา (รวมถึงแจ้งความจำเป็นในการซ่อมแซมฉุกเฉิน) ภายในระยะเวลาที่สมเหตุสมผลหลังจากพบปัญหา ต้องเก็บชิ้นส่วนที่เสียหายหรือสึกหรอที่ได้รับการซ่อมแซมหรือเปลี่ยนใหม่ไว้เพื่อให้เราตรวจสอบเพิ่มเติม เราจะไม่รับผิดชอบค่าใช้จ่ายในการซ่อมแซมหรือเปลี่ยนชิ้นส่วนในทุกกรณีหากไม่ได้รับความยินยอมเป็นลายลักษณ์อักษรจากเราล่วงหน้า",
+      "point_3": "เราขอสงวนสิทธิ์ที่จะกำหนดให้ผู้ตรวจสอบคนอื่นของเราทำการตรวจสอบรถยนต์ใดๆ ซ้ำด้วยค่าใช้จ่ายของเราเอง หากเห็นว่าจำเป็นเพื่อแก้ไขข้อร้องเรียนใดๆ คุณยังต้องอนุญาตให้ผู้ตรวจสอบของเราดำเนินการตรวจสอบซ้ำตามข้อกำหนดและเงื่อนไขเหล่านี้ เราจะให้ความคิดเห็นที่สองที่เป็นกลางเกี่ยวกับรายงานฉบับแรกที่ออก"
     },
     "matters_beyond_control": {
-      "section_title": "6. Matters Beyond Our Reasonable Control",
-      "point_1": "We will not be responsible for any delay or inability to conduct an Inspection due to events or circumstances beyond our reasonable control. We will take steps to minimize the impact where possible.",
-      "point_2": "Wisedrive will only be responsible to the Customer (and not to any other party) if Wisedrive fails to perform the Inspection in accordance with these terms and conditions. Without limiting the above, you acknowledge that Wisedrive or the Inspector will not be liable to you or any other party for any liability, loss, damage, claim, proceeding, cost or expense (collectively referred to as \"Losses\") suffered or incurred in any of the following circumstances:",
-      "point_3": "Such Losses are not a reasonably foreseeable consequence of any breach (Losses are considered foreseeable if they could be anticipated by you and Us at the time the Vehicle Inspection was performed).",
-      "point_4": "Such Losses are not directly caused by a breach of these terms and conditions by Us or the Inspector.",
-      "point_5": "Such Losses relate to business losses or other losses to a customer who is not a consumer.",
-      "point_6": "Such Losses are increased as a result of a breach of any of these terms and conditions by you.",
-      "point_7": "Nothing in this document will affect a consumer's statutory rights under any applicable laws."
+      "section_title": "6. เหตุสุดวิสัยที่อยู่นอกเหนือการควบคุมของเรา",
+      "point_1": "เราจะไม่รับผิดชอบต่อความล่าช้าหรือการไม่สามารถดำเนินการตรวจสอบได้เนื่องจากเหตุการณ์หรือสถานการณ์ที่อยู่นอกเหนือการควบคุมตามสมควรของเรา เราจะดำเนินการเพื่อลดผลกระทบให้เหลือน้อยที่สุดเท่าที่จะเป็นไปได้",
+      "point_2": "Wisedrive จะรับผิดชอบต่อลูกค้า (และไม่รับผิดชอบต่อบุคคลอื่นใด) ก็ต่อเมื่อ Wisedrive ไม่สามารถดำเนินการตรวจสอบตามข้อกำหนดและเงื่อนไขเหล่านี้ โดยไม่จำกัดข้อความข้างต้น คุณรับทราบว่า Wisedrive หรือผู้ตรวจสอบจะไม่รับผิดชอบต่อคุณหรือบุคคลอื่นใดสำหรับความรับผิด ความสูญเสีย ความเสียหาย การเรียกร้อง การดำเนินคดี ต้นทุน หรือค่าใช้จ่าย (เรียกรวมกันว่า \"ความสูญเสีย\") ที่ได้รับหรือเกิดขึ้นในกรณีต่อไปนี้:",
+      "point_3": "ความสูญเสียดังกล่าวไม่ใช่ผลที่คาดการณ์ได้อย่างสมเหตุสมผลจากการละเมิดใดๆ (ความสูญเสียจะถือว่าคาดการณ์ได้หากคุณและเราสามารถคาดการณ์ได้ในเวลาที่ดำเนินการตรวจสอบรถยนต์)",
+      "point_4": "ความสูญเสียดังกล่าวไม่ได้เกิดจากการที่เราหรือผู้ตรวจสอบละเมิดข้อกำหนดและเงื่อนไขเหล่านี้โดยตรง",
+      "point_5": "ความสูญเสียดังกล่าวเกี่ยวข้องกับการสูญเสียทางธุรกิจหรือการสูญเสียอื่นๆ ต่อลูกค้าที่ไม่ใช่ผู้บริโภค",
+      "point_6": "ความสูญเสียดังกล่าวเพิ่มขึ้นอันเป็นผลมาจากการที่คุณละเมิดข้อกำหนดและเงื่อนไขใดๆ เหล่านี้",
+      "point_7": "ไม่มีข้อความใดในเอกสารนี้ที่จะส่งผลกระทบต่อสิทธิตามกฎหมายของผู้บริโภคภายใต้กฎหมายที่บังคับใช้"
     },
     "enforcement": {
-      "section_title": "7. Enforcement of Terms",
-      "point_1": "Each clause in these terms operates separately. If any court or relevant authority decides that any of them are invalid, the remaining clauses will remain in full force and effect.",
-      "point_2": "This Agreement is between you and Wisedrive. No other party has any right to enforce any term in this Agreement. We also do not need to get the agreement of any party to make any changes to these terms."
+      "section_title": "7. การบังคับใช้ข้อกำหนด",
+      "point_1": "แต่ละข้อในข้อกำหนดเหล่านี้มีผลแยกจากกัน หากศาลหรือหน่วยงานที่เกี่ยวข้องตัดสินว่าข้อใดข้อหนึ่งไม่ถูกต้อง ข้อที่เหลือจะยังคงมีผลบังคับใช้อย่างสมบูรณ์",
+      "point_2": "ข้อตกลงนี้ทำขึ้นระหว่างคุณกับ Wisedrive ไม่มีบุคคลอื่นใดมีสิทธิ์บังคับใช้ข้อกำหนดใดๆ ในข้อตกลงนี้ และเราไม่จำเป็นต้องได้รับความยินยอมจากฝ่ายใดๆ ในการเปลี่ยนแปลงข้อกำหนดเหล่านี้"
     },
     "advice": {
-      "section_title": "8. Advice Regarding Report",
-      "content": "You are advised to discuss the findings in the Report with the seller before making a decision to purchase the Vehicle. If you have not seen the Vehicle personally, you must ensure that the cosmetic condition and specifications of the Vehicle are satisfactory and suitable for your requirements and expectations. We suggest that you view and drive the Vehicle yourself before making a purchase decision."
+      "section_title": "8. คำแนะนำเกี่ยวกับรายงาน",
+      "content": "ขอแนะนำให้คุณหารือเกี่ยวกับข้อค้นพบในรายงานกับผู้ขายก่อนตัดสินใจซื้อรถยนต์ หากคุณยังไม่เคยเห็นรถยนต์ด้วยตนเอง คุณต้องตรวจสอบให้แน่ใจว่าสภาพความสวยงามภายนอกและข้อกำหนดของรถยนต์เป็นที่น่าพอใจและเหมาะสมกับความต้องการและความคาดหวังของคุณ เราขอแนะนำให้คุณดูและขับรถยนต์ด้วยตนเองก่อนตัดสินใจซื้อ"
     }
   },
   "CancellationAndRefund": {
     "page_title": "นโยบายการยกเลิกและคืนเงิน",
     "within_ten_days": {
-      "section_title": "Within the First 10 Days",
-      "eligibility": "If you request cancellation within 10 days of purchase, you are entitled to a full refund of your premium.",
-      "how_to_cancel": "To request cancellation, please send an email to support.my@wisedrive.com with your policy details and cancellation request.",
-      "coverage_termination": "Your coverage will be terminated immediately upon receipt of your cancellation request.",
-      "refund_entitlement": "You will receive a full refund of the amount paid."
+      "section_title": "ภายใน 10 วันแรก",
+      "eligibility": "หากคุณขอยกเลิกภายใน 10 วันหลังจากซื้อ คุณมีสิทธิ์ได้รับเงินคืนเต็มจำนวนสำหรับเบี้ยประกันภัยของคุณ",
+      "how_to_cancel": "ในการขอยกเลิก โปรดส่งอีเมลไปที่ support.my@wisedrive.com พร้อมแจ้งรายละเอียดกรมธรรม์และคำร้องขอยกเลิกของคุณ",
+      "coverage_termination": "ความคุ้มครองของคุณจะสิ้นสุดลงทันทีเมื่อเราได้รับคำร้องขอยกเลิกของคุณ",
+      "refund_entitlement": "คุณจะได้รับเงินคืนเต็มจำนวนตามที่ได้ชำระไป"
     },
     "after_ten_days": {
-      "section_title": "Cancellation Request Received After 10 Days",
-      "no_refund": "If you request cancellation after the first 10 days, you are not entitled to a refund of your premium.",
-      "cancellation_allowed": "However, you may still submit a cancellation request to terminate your coverage at any time.",
-      "coverage_end": "Your coverage will end on the date specified in your cancellation request."
+      "section_title": "คำร้องขอยกเลิกที่ได้รับหลังจาก 10 วัน",
+      "no_refund": "หากคุณขอยกเลิกหลังจาก 10 วันแรก คุณจะไม่มีสิทธิ์ได้รับเงินคืนสำหรับเบี้ยประกันภัยของคุณ",
+      "cancellation_allowed": "อย่างไรก็ตาม คุณยังสามารถส่งคำร้องขอยกเลิกเพื่อยุติความคุ้มครองได้ตลอดเวลา",
+      "coverage_end": "ความคุ้มครองของคุณจะสิ้นสุดลงในวันที่ระบุไว้ในคำร้องขอยกเลิกของคุณ"
     },
     "refund_methods": {
-      "section_title": "Payment and Refund Methods",
-      "processing_time": "Approved refunds will be processed within 14 days.",
-      "original_method": "Refunds will be credited back to your original payment method.",
-      "alternative_arrangement": "If you would like to arrange an alternative refund method, please contact our support team at support.my@wisedrive.com."
+      "section_title": "วิธีการชำระเงินและการคืนเงิน",
+      "processing_time": "การคืนเงินที่ได้รับการอนุมัติจะได้รับการดำเนินการภายใน 14 วัน",
+      "original_method": "เงินคืนจะถูกโอนกลับไปยังวิธีการชำระเงินเดิมของคุณ",
+      "alternative_arrangement": "หากคุณต้องการจัดเตรียมวิธีการคืนเงินทางเลือกอื่น โปรดติดต่อทีมสนับสนุนของเราที่ support.my@wisedrive.com"
     }
   },
   "PrivacyPolicy": {
     "page_title": "นโยบายความเป็นส่วนตัว",
     "what_we_do": {
-      "section_title": "What We Do With Your Information",
-      "content": "When you purchase from our store, as part of the buying and selling process, we collect personal information you provide to us such as your name, address and email address. When you browse our store, we also automatically receive your computer's Internet Protocol (IP) address to provide us information that helps us understand your browser and operating system. Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates."
+      "section_title": "เราทำอะไรกับข้อมูลของคุณ",
+      "content": "เมื่อคุณซื้อสินค้าจากร้านค้าของเรา ในฐานะส่วนหนึ่งของกระบวนการซื้อขาย เราจะรวบรวมข้อมูลส่วนบุคคลที่คุณมอบให้เรา เช่น ชื่อ ที่อยู่ และที่อยู่อีเมลของคุณ เมื่อคุณเรียกดูร้านค้าของเรา เรายังได้รับที่อยู่อินเทอร์เน็ตโปรโตคอล (IP) ของคอมพิวเตอร์ของคุณโดยอัตโนมัติ เพื่อให้ข้อมูลที่ช่วยให้เราเข้าใจเบราว์เซอร์และระบบปฏิบัติการของคุณ การตลาดผ่านอีเมล (ถ้ามี): ด้วยการอนุญาตจากคุณ เราอาจส่งอีเมลแจ้งเกี่ยวกับร้านค้าของเรา ผลิตภัณฑ์ใหม่ และการอัปเดตอื่นๆ แก่คุณ"
     },
     "consent": {
-      "section_title": "Consent",
-      "how_consent": "How do you give us your consent? When you provide personal information to us to complete a transaction, verify your credit card, place an order, arrange delivery or return a purchase, we consider that you consent for us to collect and use it only for that specific purpose. If we ask for your personal information for a secondary purpose, such as marketing, we will ask for your permission directly or give you an opportunity to refuse. How can I withdraw my consent? If after you consent, you change your mind, you can withdraw your consent for us to contact you, to continue collecting, using or disclosing your information at any time by contacting us at support.my@wisedrive.com."
+      "section_title": "ความยินยอม",
+      "how_consent": "คุณให้ความยินยอมแก่เราได้อย่างไร? เมื่อคุณให้ข้อมูลส่วนบุคคลแก่เราเพื่อทำธุรกรรมให้เสร็จสมบูรณ์ ยืนยันบัตรเครดิตของคุณ ทำการสั่งซื้อ จัดเตรียมการจัดส่ง หรือส่งคืนสินค้าที่ซื้อ เราถือว่าคุณยินยอมให้เรารวบรวมและนำไปใช้เพื่อวัตถุประสงค์เฉพาะนั้นเท่านั้น หากเราขอข้อมูลส่วนบุคคลของคุณด้วยเหตุผลรอง เช่น การตลาด เราจะขออนุญาตจากคุณโดยตรง หรือให้โอกาสคุณในการปฏิเสธ ฉันจะถอนความยินยอมได้อย่างไร? หากหลังจากที่คุณยินยอมแล้ว คุณเปลี่ยนใจ คุณสามารถถอนความยินยอมในการให้เราติดต่อคุณ รวบรวม ใช้ หรือเปิดเผยข้อมูลของคุณต่อไปได้ตลอดเวลา โดยติดต่อเราที่ support.my@wisedrive.com"
     },
     "disclosure": {
-      "section_title": "Disclosure",
-      "content": "We may disclose your personal information if we are required to do so by law or if you breach our Terms of Service."
+      "section_title": "การเปิดเผยข้อมูล",
+      "content": "เราอาจเปิดเผยข้อมูลส่วนบุคคลของคุณหากเราถูกกำหนดให้ทำเช่นนั้นตามกฎหมาย หรือหากคุณละเมิดข้อกำหนดการให้บริการของเรา"
     },
     "payment": {
-      "section_title": "Payment",
-      "content": "We use Razorpay to process payments. We/Razorpay do not store your card data on their servers. This data is encrypted through Payment Card Data Security Standard (PCI-DSS) during payment processing. Your purchase transaction data is only used as long as needed to complete your purchase transaction. After that, your purchase transaction information is not stored. Our payment gateway complies with the standards set by PCI-DSS managed by the PCI Security Standards Council, which is a joint effort of brands such as Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. For more information, you can also read Razorpay's terms and conditions."
+      "section_title": "การชำระเงิน",
+      "content": "เราใช้ Razorpay เพื่อประมวลผลการชำระเงิน เรา/Razorpay ไม่ได้เก็บข้อมูลบัตรของคุณไว้ในเซิร์ฟเวอร์ ข้อมูลนี้จะถูกเข้ารหัสผ่านมาตรฐานความปลอดภัยของข้อมูลบัตรชำระเงิน (PCI-DSS) ในระหว่างการประมวลผลการชำระเงิน ข้อมูลธุรกรรมการซื้อของคุณจะถูกใช้ตราบเท่าที่จำเป็นเพื่อให้ธุรกรรมการซื้อของคุณเสร็จสมบูรณ์ หลังจากนั้น ข้อมูลธุรกรรมการซื้อของคุณจะไม่ถูกเก็บไว้ เกตเวย์การชำระเงินของเราสอดคล้องกับมาตรฐานที่กำหนดโดย PCI-DSS ซึ่งจัดการโดย PCI Security Standards Council ซึ่งเป็นความพยายามร่วมกันของแบรนด์ต่างๆ เช่น Visa, MasterCard, American Express และ Discover ข้อกำหนด PCI-DSS ช่วยให้มั่นใจได้ถึงการจัดการข้อมูลบัตรเครดิตอย่างปลอดภัยโดยร้านค้าของเราและผู้ให้บริการที่เกี่ยวข้อง สำหรับข้อมูลเพิ่มเติม คุณยังสามารถอ่านข้อกำหนดและเงื่อนไขของ Razorpay ได้อีกด้วย"
     },
     "third_party": {
-      "section_title": "Third Party Services",
-      "content": "Generally, third-party providers used by us will only collect, use and disclose your information to the extent necessary to enable them to perform the services they provide to us. However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies regarding the information we must provide to them for your purchase transaction. For these providers, we recommend you read their privacy policies so you understand how your personal information will be handled by these providers. In particular, it should be noted that certain providers may be located in or have facilities located in a jurisdiction different from you or us. So, if you choose to proceed with a transaction involving the services of a third-party provider, then your information may be subject to the laws of the jurisdiction where the service provider or its facility is located. Once you leave our store website or are redirected to a third-party website or application, you are no longer subject to this Privacy Policy or our website's Terms of Service. When you click a link on our store, that link may take you outside our website. We are not responsible for the privacy practices of other websites and encourage you to read their privacy statements."
+      "section_title": "บริการของบุคคลที่สาม",
+      "content": "โดยทั่วไปแล้ว ผู้ให้บริการบุคคลที่สามที่เราใช้จะรวบรวม ใช้ และเปิดเผยข้อมูลของคุณเท่าที่จำเป็นเพื่อให้พวกเขาสามารถดำเนินการบริการที่มอบให้แก่เราได้ อย่างไรก็ตาม ผู้ให้บริการบุคคลที่สามบางราย เช่น เกตเวย์การชำระเงินและผู้ประมวลผลธุรกรรมการชำระเงินอื่นๆ มีนโยบายความเป็นส่วนตัวของตนเองเกี่ยวกับข้อมูลที่เราต้องให้แก่พวกเขาสำหรับการทำธุรกรรมการซื้อของคุณ สำหรับผู้ให้บริการเหล่านี้ เราแนะนำให้คุณอ่านนโยบายความเป็นส่วนตัวของพวกเขาเพื่อให้คุณเข้าใจว่าข้อมูลส่วนบุคคลของคุณจะได้รับการจัดการอย่างไรโดยผู้ให้บริการเหล่านี้ โดยเฉพาะอย่างยิ่ง ควรสังเกตว่าผู้ให้บริการบางรายอาจตั้งอยู่หรือมีสิ่งอำนวยความสะดวกตั้งอยู่ในเขตอำนาจศาลที่แตกต่างจากคุณหรือเรา ดังนั้น หากคุณเลือกที่จะดำเนินการทำธุรกรรมที่เกี่ยวข้องกับบริการของผู้ให้บริการบุคคลที่สาม ข้อมูลของคุณอาจอยู่ภายใต้กฎหมายของเขตอำนาจศาลที่ผู้ให้บริการหรือสิ่งอำนวยความสะดวกนั้นตั้งอยู่ เมื่อคุณออกจากเว็บไซต์ร้านค้าของเราหรือถูกเปลี่ยนเส้นทางไปยังเว็บไซต์หรือแอปพลิเคชันของบุคคลที่สาม คุณจะไม่อยู่ภายใต้นโยบายความเป็นส่วนตัวนี้หรือข้อกำหนดการให้บริการของเว็บไซต์ของเราอีกต่อไป เมื่อคุณคลิกลิงก์บนร้านค้าของเรา ลิงก์นั้นอาจนำคุณออกไปนอกเว็บไซต์ของเรา เราไม่รับผิดชอบต่อแนวปฏิบัติด้านความเป็นส่วนตัวของเว็บไซต์อื่นๆ และขอแนะนำให้คุณอ่านคำชี้แจงสิทธิ์ส่วนบุคคลของเว็บไซต์เหล่านั้น"
     },
     "security": {
-      "section_title": "Security",
-      "content": "To protect your personal information, we take reasonable precautionary steps and follow industry best practices to ensure that the information is not lost, misused, accessed, disclosed, altered or destroyed improperly."
+      "section_title": "ความปลอดภัย",
+      "content": "เพื่อปกป้องข้อมูลส่วนบุคคลของคุณ เราใช้มาตรการป้องกันที่สมเหตุสมผลและปฏิบัติตามแนวทางปฏิบัติที่ดีที่สุดของอุตสาหกรรมเพื่อให้แน่ใจว่าข้อมูลจะไม่สูญหาย ถูกนำไปใช้ในทางที่ผิด ถูกเข้าถึง เปิดเผย เปลี่ยนแปลง หรือถูกทำลายอย่างไม่เหมาะสม"
     },
     "cookies": {
-      "section_title": "Cookies",
-      "content": "We use cookies to maintain your user session. It is not used to identify you personally on other websites."
+      "section_title": "คุกกี้",
+      "content": "เราใช้คุกกี้เพื่อรักษาสถานะเซสชันของผู้ใช้ของคุณ โดยจะไม่ถูกนำไปใช้เพื่อระบุตัวตนของคุณในเว็บไซต์อื่นๆ"
     },
     "age_consent": {
-      "section_title": "Age of Consent",
-      "content": "By using this site, you affirm that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site."
+      "section_title": "อายุที่ให้ความยินยอมได้",
+      "content": "การใช้ไซต์นี้หมายความว่าคุณยืนยันว่าคุณบรรลุนิติภาวะแล้วในรัฐหรือจังหวัดที่คุณอาศัยอยู่ หรือว่าคุณบรรลุนิติภาวะแล้วในรัฐหรือจังหวัดที่คุณอาศัยอยู่และคุณได้ให้ความยินยอมแก่เราในการอนุญาตให้ผู้อยู่ในความอุปการะที่เป็นผู้เยาว์ของคุณใช้ไซต์นี้"
     },
     "changes": {
-      "section_title": "Changes to This Privacy Policy",
-      "content": "We have the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting to the website. If we make material changes to this policy, we will notify you here that it has been updated, so you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owner so we can continue to sell products to you."
+      "section_title": "การเปลี่ยนแปลงนโยบายความเป็นส่วนตัวนี้",
+      "content": "เรามีสิทธิ์ในการแก้ไขนโยบายความเป็นส่วนตัวนี้ได้ตลอดเวลา ดังนั้นโปรดตรวจสอบบ่อยๆ การเปลี่ยนแปลงและคำชี้แจงจะมีผลบังคับใช้ทันทีเมื่อมีการโพสต์บนเว็บไซต์ หากเราทำการเปลี่ยนแปลงที่สำคัญในนโยบายนี้ เราจะแจ้งให้คุณทราบที่นี่ว่ามีการอัปเดต เพื่อให้คุณทราบว่าเรารวบรวมข้อมูลใดบ้าง เราใช้อย่างไร และภายใต้สถานการณ์ใดบ้าง (หากมี) ที่เราใช้และ/หรือเปิดเผยข้อมูลนั้น หากร้านค้าของเราถูกซื้อกิจการหรือควบรวมกับบริษัทอื่น ข้อมูลของคุณอาจถูกถ่ายโอนไปยังเจ้าของใหม่เพื่อให้เราสามารถขายผลิตภัณฑ์ให้กับคุณต่อไปได้"
     },
     "contact": {
-      "section_title": "Questions & Contact Information",
-      "content": "If you would like to: access, correct, amend or delete any personal information we have about you, make a complaint, or simply want more information, please contact our Privacy Compliance Officer at support.my@wisedrive.com."
+      "section_title": "คำถามและข้อมูลการติดต่อ",
+      "content": "หากคุณต้องการ: เข้าถึง แก้ไข ปรับปรุง หรือลบข้อมูลส่วนบุคคลใดๆ ที่เรามีเกี่ยวกับคุณ แจ้งข้อร้องเรียน หรือเพียงแค่ต้องการข้อมูลเพิ่มเติม โปรดติดต่อเจ้าหน้าที่ดูแลการปฏิบัติตามกฎระเบียบความเป็นส่วนตัวของเราที่ support.my@wisedrive.com"
     }
   },
   "InspectionTermsAndConditions": {
-    "page_title": "นโยบายความเป็นส่วนตัวของ Wisedrive Technologies (M) Sdn. Bhd.",
+    "page_title": "ข้อกำหนดและเงื่อนไขการตรวจสอบของ Wisedrive Thailand",
     "definitions": {
-      "section_title": "Definitions",
-      "we_us": "We/Us",
-      "we_us_desc": "Wisedrive Technologies (M) Sdn. Bhd. Limited",
-      "agreement": "Agreement",
-      "agreement_desc": "An agreement between Wisedrive and the Customer whereby Wisedrive agrees to arrange for an Inspector to perform an Inspection in accordance with these terms and conditions",
-      "cancellation_fee": "Cancellation Fee",
-      "cancellation_fee_desc": "The amount payable by the Customer as stated in these terms and conditions",
-      "customer_you": "Customer/You",
-      "customer_you_desc": "A customer of Wisedrive who makes a booking for an Inspection",
-      "fee": "Fee",
-      "fee_desc": "The amount payable by the Customer to Wisedrive for an Inspection as stated at",
-      "inspection": "Inspection",
-      "inspection_desc": "A visual audio and external examination and road test conducted by an Inspector on behalf of Wisedrive for the Customer in accordance with these terms and conditions",
-      "inspection_note": "Inspection Note",
-      "inspection_note_desc": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle",
-      "inspector": "Inspector",
-      "inspector_desc": "A qualified inspector who conducts an Inspection on behalf of Wisedrive. The Inspector is subject to availability and may be replaced with a suitable third-party agent",
-      "report": "Report",
-      "report_desc": "The written report produced by the Inspector as part of the Inspection, which includes the Customer's name and address, the Vehicle registration details and location being inspected, whether the Vehicle passed or failed the Inspection, the checklist of items performed (depending on the type of Inspection requested by the Customer) and a summary of any aspects of concern that require the Customer's attention",
-      "report_checklist": "Report Checklist",
-      "report_checklist_desc": "The list of aspects that will or have been checked by the Inspector as part of the Physical Inspection, which can be found at",
-      "vehicle": "Vehicle",
-      "vehicle_desc": "The vehicle for which the Customer requires the Inspector to perform an Inspection"
+      "section_title": "คำจำกัดความ",
+      "we_us": "เรา (We/Us)",
+      "we_us_desc": "บริษัท Wisedrive Thailand Limited",
+      "agreement": "ข้อตกลง",
+      "agreement_desc": "ข้อตกลงระหว่าง Wisedrive และลูกค้า ซึ่ง Wisedrive ตกลงที่จะจัดเตรียมผู้ตรวจสอบเพื่อดำเนินการตรวจสอบตามข้อกำหนดและเงื่อนไขเหล่านี้",
+      "cancellation_fee": "ค่าธรรมเนียมการยกเลิก",
+      "cancellation_fee_desc": "จำนวนเงินที่ลูกค้าต้องชำระตามที่ระบุไว้ในข้อกำหนดและเงื่อนไขเหล่านี้",
+      "customer_you": "ลูกค้า/คุณ",
+      "customer_you_desc": "ลูกค้าของ Wisedrive ที่ทำการจองเพื่อรับการตรวจสอบ",
+      "fee": "ค่าธรรมเนียม",
+      "fee_desc": "จำนวนเงินที่ลูกค้าต้องชำระให้กับ Wisedrive สำหรับการตรวจสอบตามที่ระบุไว้ที่",
+      "inspection": "การตรวจสอบ",
+      "inspection_desc": "การตรวจสอบด้วยภาพและเสียง การตรวจสอบภายนอก และการทดลองขับที่ดำเนินการโดยผู้ตรวจสอบในนามของ Wisedrive สำหรับลูกค้าตามข้อกำหนดและเงื่อนไขเหล่านี้",
+      "inspection_note": "หมายเหตุการตรวจสอบ",
+      "inspection_note_desc": "Wisedrive ให้บริการการตรวจสอบหลายประเภท ซึ่งแต่ละประเภทเกี่ยวข้องกับการตรวจสอบที่แตกต่างกัน รายละเอียดเกี่ยวกับประเภทการตรวจสอบต่างๆ และการตรวจสอบที่เกี่ยวข้องสามารถดูได้ที่ https://www.wisedrive.com หรือติดต่อ +60 122559610 การยืนยันประเภทการตรวจสอบที่ลูกค้าเลือกจะดำเนินการที่รถยนต์",
+      "inspector": "ผู้ตรวจสอบ",
+      "inspector_desc": "ผู้ตรวจสอบที่มีคุณสมบัติซึ่งดำเนินการตรวจสอบในนามของ Wisedrive ผู้ตรวจสอบขึ้นอยู่กับความพร้อมในการให้บริการและอาจถูกแทนที่ด้วยตัวแทนบุคคลที่สามที่เหมาะสม",
+      "report": "รายงาน",
+      "report_desc": "รายงานเป็นลายลักษณ์อักษรที่จัดทำโดยผู้ตรวจสอบโดยเป็นส่วนหนึ่งของการตรวจสอบ ซึ่งรวมถึงชื่อและที่อยู่ของลูกค้า รายละเอียดการจดทะเบียนรถยนต์และสถานที่ตั้งที่ได้รับการตรวจสอบ รถยนต์ผ่านหรือไม่ผ่านการตรวจสอบ รายการการตรวจสอบที่ดำเนินการ (ขึ้นอยู่กับประเภทของการตรวจสอบที่ลูกค้าร้องขอ) และบทสรุปของข้อกังวลใดๆ ที่ต้องได้รับความสนใจจากลูกค้า",
+      "report_checklist": "รายการตรวจสอบ",
+      "report_checklist_desc": "รายการของส่วนต่างๆ ที่จะได้รับการตรวจสอบหรือได้รับการตรวจสอบแล้วโดยผู้ตรวจสอบโดยเป็นส่วนหนึ่งของการตรวจสอบทางกายภาพ ซึ่งสามารถดูได้ที่",
+      "vehicle": "รถยนต์",
+      "vehicle_desc": "รถยนต์ที่ลูกค้าต้องการให้ผู้ตรวจสอบดำเนินการตรวจสอบ"
     },
     "general_scope": {
-      "section_title": "General Scope",
-      "point_1": "Inspections are provided on the basis of visual and external examinations only and are limited to the parts and/or items identified in the Report. Inspections do not involve the dismantling or disturbance of any internal structures, components or mechanisms. The Inspector will perform a road test on the Vehicle and produce a Report. There are certain parts in the Vehicle that will not be inspected. You should read the Report Checklist carefully to see what will not be inspected.",
-      "point_2": "A copy of the Report will be sent to you via email to the email address you provided when booking the Inspection. Due to the nature of the internet and the virus protection software used by your internet service provider or loaded onto your computer, in some cases the Report may not be deliverable via email. If you do not receive your Report within 24 hours after the Wisedrive Vehicle Inspection is carried out, you must notify Us as soon as possible so that We can resend your Report. We will not be liable to you for any failure to deliver the Report if such failure is beyond Our reasonable control.",
-      "point_3": "Items listed in the Report Checklist as parts/items to be checked but which cannot be easily accessed on the Vehicle will not be inspected. In such circumstances, We have no obligation to inspect and/or report on such parts/items and the Inspector will mark the relevant parts in the Report accordingly.",
-      "point_4": "The Vehicle should be in a clean condition to ensure the Inspector can accurately see and report on the vehicle parts being inspected. If the vehicle is not clean, the Inspector reserves the right not to comment on those parts and will mark the Report Checklist accordingly. In this case, the Report Fee is still payable in full."
+      "section_title": "ขอบเขตทั่วไป",
+      "point_1": "การตรวจสอบมีให้ตามการตรวจสอบด้วยภาพและภายนอกเท่านั้น และจำกัดเฉพาะชิ้นส่วนและ/หรือรายการที่ระบุในรายงาน การตรวจสอบจะไม่เกี่ยวข้องกับการถอดชิ้นส่วนหรือการแทรกแซงโครงสร้าง ส่วนประกอบ หรือกลไกภายในใดๆ ผู้ตรวจสอบจะทำการทดลองขับรถยนต์และจัดทำรายงาน จะมีบางส่วนในรถยนต์ที่ไม่ได้รับการตรวจสอบ คุณควรอ่านรายการตรวจสอบอย่างละเอียดเพื่อดูว่าจะไม่มีการตรวจสอบส่วนใดบ้าง",
+      "point_2": "สำเนารายงานจะถูกส่งถึงคุณทางอีเมลตามที่อยู่อีเมลที่คุณให้ไว้เมื่อทำการจองการตรวจสอบ เนื่องจากลักษณะของอินเทอร์เน็ตและซอฟต์แวร์ป้องกันไวรัสที่ผู้ให้บริการอินเทอร์เน็ตของคุณใช้หรือที่โหลดในคอมพิวเตอร์ของคุณ ในบางกรณีอาจไม่สามารถจัดส่งรายงานทางอีเมลได้ หากคุณไม่ได้รับรายงานภายใน 24 ชั่วโมงหลังจากการตรวจสอบรถยนต์ของ Wisedrive เสร็จสิ้น คุณต้องแจ้งให้เราทราบโดยเร็วที่สุดเพื่อให้เราสามารถส่งรายงานของคุณอีกครั้ง เราจะไม่รับผิดชอบต่อคุณสำหรับความล้มเหลวในการส่งมอบรายงานหากความล้มเหลวดังกล่าวอยู่นอกเหนือการควบคุมตามสมควรของเรา",
+      "point_3": "รายการที่ระบุในรายการตรวจสอบว่าเป็นชิ้นส่วน/รายการที่จะต้องตรวจสอบ แต่ไม่สามารถเข้าถึงได้ง่ายในรถยนต์ จะไม่ได้รับการตรวจสอบ ในกรณีดังกล่าว เราไม่มีข้อผูกมัดที่จะต้องตรวจสอบและ/หรือรายงานเกี่ยวกับชิ้นส่วน/รายการดังกล่าว และผู้ตรวจสอบจะทำเครื่องหมายในส่วนที่เกี่ยวข้องในรายงานตามความเหมาะสม",
+      "point_4": "รถยนต์ควรอยู่ในสภาพสะอาดเพื่อให้แน่ใจว่าผู้ตรวจสอบสามารถมองเห็นและรายงานชิ้นส่วนของรถยนต์ที่กำลังตรวจสอบได้อย่างแม่นยำ หากรถยนต์ไม่สะอาด ผู้ตรวจสอบขอสงวนสิทธิ์ที่จะไม่แสดงความคิดเห็นเกี่ยวกับชิ้นส่วนเหล่านั้นและจะทำเครื่องหมายในรายการตรวจสอบตามความเหมาะสม ในกรณีนี้ คุณยังคงต้องชำระค่าธรรมเนียมรายงานเต็มจำนวน"
     },
     "road_test": {
-      "section_title": "Road Test Requirements",
-      "point_1": "To enable our Inspector to perform a Road Test on the Vehicle, you must ensure that the vehicle contains sufficient quantities of: (a) Water; (b) Oil; (c) Petrol",
+      "section_title": "ข้อกำหนดในการทดลองขับบนถนน",
+      "point_1": "เพื่อให้ผู้ตรวจสอบของเราสามารถทำการทดลองขับบนถนนสำหรับรถยนต์ได้ คุณต้องตรวจสอบให้แน่ใจว่ารถยนต์มีปริมาณของสิ่งต่อไปนี้เพียงพอ: (a) น้ำ; (b) น้ำมันเครื่อง; (c) น้ำมันเชื้อเพลิง",
       "point_1_items": [
-        "Water",
-        "Oil",
-        "Petrol"
+        "น้ำ",
+        "น้ำมันเครื่อง",
+        "น้ำมันเชื้อเพลิง"
       ],
-      "point_2": "Road tests are carried out within the area surrounding the Inspection. If: The Vehicle is in an unsafe condition to be driven or contains insufficient quantities of oil, water and/or petrol; The Customer cannot confirm that the Vehicle has a valid fitness certificate and therefore a road test cannot be carried out during the Inspection; Payment for the Inspection must still be paid in full and an additional charge will be levied for any subsequent road test you request Us to carry out",
-      "point_3": "The performance of a road test does not mean our Inspector has sighted a valid fitness certificate",
-      "point_4": "Obtaining necessary permissions and access to the Vehicle is the responsibility of the Customer",
-      "point_5": "The Customer must ensure that proper arrangements have been made (including obtaining any necessary permissions from the Vehicle owner) for the Inspection to be carried out at workshop premises or in an outdoor area with a flat, hard and dry surface",
-      "point_6": "Our Inspector requires sufficient space to walk around the Vehicle and open all doors fully. Our Inspector also needs sufficient space to park their vehicle close to the Inspection location",
-      "point_7": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions.",
-      "point_8": "High-quality indoor lighting or sufficient sunlight (if the Inspection is performed outdoors) must be provided at the Inspection location. We cannot inspect the Vehicle in poor lighting or in dark conditions."
+      "point_2": "การทดลองขับบนถนนจะดำเนินการในบริเวณโดยรอบสถานที่ตรวจสอบ หาก: รถยนต์อยู่ในสภาพที่ไม่ปลอดภัยที่จะขับขี่ หรือมีปริมาณน้ำมันเครื่อง น้ำ และ/หรือ น้ำมันเชื้อเพลิงไม่เพียงพอ; ลูกค้าไม่สามารถยืนยันได้ว่ารถยนต์มีใบรับรองความพร้อมใช้งานบนท้องถนนที่ถูกต้อง ดังนั้นจึงไม่สามารถทำการทดลองขับในระหว่างการตรวจสอบได้; คุณยังคงต้องชำระค่าตรวจสอบเต็มจำนวน และจะมีการเรียกเก็บค่าใช้จ่ายเพิ่มเติมสำหรับการทดลองขับบนถนนในครั้งต่อไปที่คุณขอให้เราดำเนินการ",
+      "point_3": "การดำเนินการทดลองขับบนถนนไม่ได้หมายความว่าผู้ตรวจสอบของเราได้เห็นใบรับรองความพร้อมใช้งานบนท้องถนนที่ถูกต้องแล้ว",
+      "point_4": "การขออนุญาตที่จำเป็นและการเข้าถึงรถยนต์ถือเป็นความรับผิดชอบของลูกค้า",
+      "point_5": "ลูกค้าต้องตรวจสอบให้แน่ใจว่าได้เตรียมการอย่างเหมาะสม (รวมถึงการขออนุญาตที่จำเป็นจากเจ้าของรถยนต์) เพื่อให้การตรวจสอบสามารถดำเนินการได้ในสถานที่ของอู่ซ่อมรถหรือในพื้นที่กลางแจ้งที่มีพื้นผิวเรียบ แข็ง และแห้ง",
+      "point_6": "ผู้ตรวจสอบของเราต้องการพื้นที่เพียงพอในการเดินรอบรถยนต์และเปิดประตูทุกบานได้จนสุด นอกจากนี้ผู้ตรวจสอบยังต้องการพื้นที่เพียงพอสำหรับจอดรถของตนใกล้กับสถานที่ตรวจสอบ",
+      "point_7": "ต้องมีแสงสว่างภายในอาคารที่มีคุณภาพสูงหรือแสงแดดเพียงพอ (หากการตรวจสอบดำเนินการกลางแจ้ง) ณ สถานที่ตรวจสอบ เราไม่สามารถตรวจสอบรถยนต์ในสภาพแสงน้อยหรือในที่มืดได้",
+      "point_8": "ต้องมีแสงสว่างภายในอาคารที่มีคุณภาพสูงหรือแสงแดดเพียงพอ (หากการตรวจสอบดำเนินการกลางแจ้ง) ณ สถานที่ตรวจสอบ เราไม่สามารถตรวจสอบรถยนต์ในสภาพแสงน้อยหรือในที่มืดได้"
     },
     "payment_cancellation": {
-      "section_title": "Payment and Cancellation",
-      "point_1": "Payment must be made at the time of booking the Inspection",
-      "point_2": "We have the right to refuse to perform an Inspection or issue a Report for any vehicle: which cannot be reasonably accessed by the Inspector; or which appears to the Inspector as: (a) not a standard production (for example, but not limited to, kit cars); (b) has been modified or is not regularly used (for example, showing signs of excessive corrosion on moving parts due to being left for too long and may cause the Vehicle to be unsafe to drive without repairs); (c) is not safe to drive or is in an unroadworthy condition",
+      "section_title": "การชำระเงินและการยกเลิก",
+      "point_1": "ต้องชำระเงินในเวลาที่ทำการจองการตรวจสอบ",
+      "point_2": "เรามีสิทธิ์ปฏิเสธการดำเนินการตรวจสอบหรือออกรายงานสำหรับรถยนต์ใดๆ: ที่ผู้ตรวจสอบไม่สามารถเข้าถึงได้อย่างสมเหตุสมผล; หรือที่ผู้ตรวจสอบเห็นว่า: (a) ไม่ใช่การผลิตมาตรฐาน (เช่น แต่ไม่จำกัดเพียง รถประกอบเอง); (b) ได้รับการดัดแปลงหรือไม่ค่อยได้ใช้งาน (เช่น มีร่องรอยการกัดกร่อนอย่างรุนแรงบนชิ้นส่วนที่เคลื่อนที่เนื่องจากถูกทิ้งไว้นานเกินไป และอาจทำให้รถยนต์ไม่ปลอดภัยที่จะขับขี่หากไม่ได้รับการซ่อมแซม); (c) ไม่ปลอดภัยที่จะขับขี่หรืออยู่ในสภาพที่ไม่พร้อมใช้งานบนท้องถนน",
       "point_2_items": [
-        "Any circumstances referred to in these Terms & Conditions",
-        "Where the Customer fails to ensure proper arrangements are made for the Inspection to be carried out, as required",
-        "Where the Customer has provided false or incomplete information which prevents Us from carrying out the Inspection and you acknowledge that in such circumstances We are entitled to treat the Agreement as terminated and retain the Payment in full"
+        "สถานการณ์ใดๆ ที่อ้างถึงในข้อกำหนดและเงื่อนไขเหล่านี้",
+        "ในกรณีที่ลูกค้าไม่สามารถเตรียมการอย่างเหมาะสมเพื่อให้การตรวจสอบดำเนินการได้ตามที่กำหนด",
+        "ในกรณีที่ลูกค้าให้ข้อมูลที่เป็นเท็จหรือไม่ครบถ้วนซึ่งเป็นอุปสรรคต่อเราในการดำเนินการตรวจสอบ และคุณรับทราบว่าในสถานการณ์ดังกล่าว เรามีสิทธิ์ถือว่าข้อตกลงสิ้นสุดลงและเก็บเงินที่ชำระไว้เต็มจำนวน"
       ],
-      "point_3": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking",
-      "point_4": "You have the right to cancel the Inspection and receive a full refund of Payment if cancellation is made at least 24 hours before the Inspection is scheduled. After the Inspection is carried out, no refund will be given",
-      "point_5": "To cancel an Inspection, You must inform our Customer Support Team of your decision by emailing support.my@wisedrive.com or calling +60 122559610, Monday to Friday from 9am to 5pm",
-      "point_6": "To enable us to locate your booking, you need to provide your name, address, telephone number and booking reference number (as given in your booking confirmation) along with your cancellation request",
-      "point_7": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking"
+      "point_3": "หากคุณต้องการให้เราดำเนินการตรวจสอบอีกครั้ง คุณจะต้องชำระเงินเพิ่มเติมในเวลาที่ทำการจองใหม่",
+      "point_4": "คุณมีสิทธิ์ยกเลิกการตรวจสอบและรับเงินคืนเต็มจำนวน หากแจ้งยกเลิกล่วงหน้าอย่างน้อย 24 ชั่วโมงก่อนกำหนดการตรวจสอบ หลังจากดำเนินการตรวจสอบแล้ว จะไม่มีการคืนเงินให้",
+      "point_5": "ในการยกเลิกการตรวจสอบ คุณต้องแจ้งการตัดสินใจของคุณให้ทีมสนับสนุนลูกค้าของเราทราบโดยส่งอีเมลไปที่ support.my@wisedrive.com หรือโทร +60 122559610 วันจันทร์ถึงวันศุกร์ เวลา 09.00 น. ถึง 17.00 น.",
+      "point_6": "เพื่อให้เราค้นหาการจองของคุณได้ คุณต้องระบุชื่อ ที่อยู่ หมายเลขโทรศัพท์ และหมายเลขอ้างอิงการจอง (ตามที่ระบุในการยืนยันการจอง) พร้อมกับคำร้องขอยกเลิกของคุณ",
+      "point_7": "หากคุณต้องการให้เราดำเนินการตรวจสอบอีกครั้ง คุณจะต้องชำระเงินเพิ่มเติมในเวลาที่ทำการจองใหม่"
     },
     "complaints": {
-      "section_title": "Complaints",
-      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to perform a re-inspection of the Vehicle to address such complaint, and you agree to permit Us to do so",
-      "point_2": "No repairs may be made or any vehicle parts replaced before a re-inspection is carried out by Us. If emergency repairs are required to ensure the Vehicle is safe to use and subsequently become the subject of a complaint to Us, you must ensure the complaint is made to Us (including notice of the requirement for emergency repairs) within a reasonable time after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not in any circumstances be liable for the cost of repairs or replacement of parts without Our prior written consent",
-      "point_3": "We have the right to require another of Our Inspectors to conduct a re-inspection of any Vehicle at Our own expense if deemed necessary to address any complaint. You are also required to allow Our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued"
+      "section_title": "ข้อร้องเรียน",
+      "point_1": "หากคุณมีข้อร้องเรียนหรือไม่พอใจกับการตรวจสอบใดๆ ที่ดำเนินการไปแล้ว โปรดติดต่อเราที่ +60 122559610 โดยเร็วที่สุด เราอาจต้องดำเนินการตรวจสอบรถยนต์อีกครั้งเพื่อแก้ไขข้อร้องเรียนดังกล่าว และคุณตกลงที่จะอนุญาตให้เราดำเนินการดังกล่าว",
+      "point_2": "ไม่อนุญาตให้ทำการซ่อมแซมหรือเปลี่ยนชิ้นส่วนใดๆ ของรถยนต์ก่อนที่เราจะดำเนินการตรวจสอบซ้ำ หากจำเป็นต้องมีการซ่อมแซมฉุกเฉินเพื่อให้แน่ใจว่ารถยนต์ปลอดภัยต่อการใช้งาน และต่อมากลายเป็นประเด็นร้องเรียนถึงเรา คุณต้องตรวจสอบให้แน่ใจว่าได้ร้องเรียนถึงเรา (รวมถึงแจ้งความจำเป็นในการซ่อมแซมฉุกเฉิน) ภายในเวลาที่สมเหตุสมผลหลังจากพบปัญหา ต้องเก็บชิ้นส่วนที่เสียหายหรือสึกหรอที่ได้รับการซ่อมแซมหรือเปลี่ยนใหม่ไว้เพื่อให้เราตรวจสอบเพิ่มเติม เราจะไม่รับผิดชอบค่าใช้จ่ายในการซ่อมแซมหรือเปลี่ยนชิ้นส่วนในทุกกรณีหากไม่ได้รับความยินยอมเป็นลายลักษณ์อักษรจากเราล่วงหน้า",
+      "point_3": "เรามีสิทธิ์ที่จะกำหนดให้ผู้ตรวจสอบคนอื่นของเราทำการตรวจสอบรถยนต์ใดๆ ซ้ำด้วยค่าใช้จ่ายของเราเอง หากเห็นว่าจำเป็นเพื่อแก้ไขข้อร้องเรียนใดๆ คุณยังต้องอนุญาตให้ผู้ตรวจสอบของเราดำเนินการตรวจสอบซ้ำตามข้อกำหนดและเงื่อนไขเหล่านี้ เราจะให้ความคิดเห็นที่สองที่เป็นกลางเกี่ยวกับรายงานฉบับแรกที่ออก"
     },
     "matters_beyond_control": {
-      "section_title": "Matters Beyond Our Reasonable Control",
-      "point_1": "We will not be liable for any delay in or inability to perform an Inspection as a result of events or circumstances beyond Our reasonable control. We will take steps to minimize its impact if possible",
-      "point_2": "Wisedrive will only be liable to the Customer (and not to any other party) if Wisedrive fails to perform an Inspection in accordance with these terms and conditions. Without limiting the foregoing, you acknowledge that Wisedrive or the Inspector will not be liable to you or any other party for any liability, loss, damage, claim, proceedings, costs or expenses (collectively referred to as 'Loss') suffered or incurred in any of the following circumstances",
-      "point_3": "Such Loss is not a reasonably foreseeable consequence of any breach (Loss is deemed foreseeable if it could have been anticipated by you and Us at the time the Vehicle Inspection is performed)",
-      "point_4": "Such Loss is not directly caused by a breach of these terms and conditions by Us or the Inspector",
-      "point_5": "Such Loss involves loss of business or other loss to customers who are not end-users",
-      "point_6": "Such Loss is increased as a result of a breach of any of these terms and conditions by You",
-      "point_7": "Nothing in this document will affect a consumer's statutory rights under any applicable laws"
+      "section_title": "เหตุสุดวิสัยที่อยู่นอกเหนือการควบคุมของเรา",
+      "point_1": "เราจะไม่รับผิดชอบต่อความล่าช้าใน หรือการไม่สามารถดำเนินการตรวจสอบอันเป็นผลมาจากเหตุการณ์หรือสถานการณ์ที่อยู่นอกเหนือการควบคุมตามสมควรของเรา เราจะดำเนินการเพื่อลดผลกระทบหากเป็นไปได้",
+      "point_2": "Wisedrive จะรับผิดชอบต่อลูกค้า (และไม่รับผิดชอบต่อบุคคลอื่นใด) ก็ต่อเมื่อ Wisedrive ไม่สามารถดำเนินการตรวจสอบตามข้อกำหนดและเงื่อนไขเหล่านี้ โดยไม่จำกัดข้อความข้างต้น คุณรับทราบว่า Wisedrive หรือผู้ตรวจสอบจะไม่รับผิดชอบต่อคุณหรือบุคคลอื่นใดสำหรับความรับผิด ความสูญเสีย ความเสียหาย การเรียกร้อง การดำเนินคดี ต้นทุน หรือค่าใช้จ่าย (เรียกรวมกันว่า 'ความสูญเสีย') ที่ได้รับหรือเกิดขึ้นในกรณีต่อไปนี้",
+      "point_3": "ความสูญเสียดังกล่าวไม่ใช่ผลที่คาดการณ์ได้อย่างสมเหตุสมผลจากการละเมิดใดๆ (ความสูญเสียจะถือว่าคาดการณ์ได้หากคุณและเราสามารถคาดการณ์ได้ในเวลาที่ดำเนินการตรวจสอบรถยนต์)",
+      "point_4": "ความสูญเสียดังกล่าวไม่ได้เกิดจากการที่เราหรือผู้ตรวจสอบละเมิดข้อกำหนดและเงื่อนไขเหล่านี้โดยตรง",
+      "point_5": "ความสูญเสียดังกล่าวเกี่ยวข้องกับการสูญเสียทางธุรกิจหรือการสูญเสียอื่นๆ ต่อลูกค้าที่ไม่ใช่ผู้ใช้ปลายทาง (end-users)",
+      "point_6": "ความสูญเสียดังกล่าวเพิ่มขึ้นอันเป็นผลมาจากการที่คุณละเมิดข้อกำหนดและเงื่อนไขใดๆ เหล่านี้",
+      "point_7": "ไม่มีข้อความใดในเอกสารนี้ที่จะส่งผลกระทบต่อสิทธิตามกฎหมายของผู้บริโภคภายใต้กฎหมายที่บังคับใช้"
     },
     "enforcement": {
-      "section_title": "Enforcement of Terms",
-      "point_1": "Each clause in these terms operates separately. If any court or relevant authority decides that any of them is invalid, the remaining clauses will remain in full force and effect",
-      "point_2": "This Agreement is between you and Wisedrive. No other party has any right to enforce any term in this Agreement. We also do not need to get the agreement of any party to make any changes to these terms"
+      "section_title": "การบังคับใช้ข้อกำหนด",
+      "point_1": "แต่ละข้อในข้อกำหนดเหล่านี้มีผลแยกจากกัน หากศาลหรือหน่วยงานที่เกี่ยวข้องตัดสินว่าข้อใดข้อหนึ่งไม่ถูกต้อง ข้อที่เหลือจะยังคงมีผลบังคับใช้อย่างสมบูรณ์",
+      "point_2": "ข้อตกลงนี้ทำขึ้นระหว่างคุณกับ Wisedrive ไม่มีบุคคลอื่นใดมีสิทธิ์บังคับใช้ข้อกำหนดใดๆ ในข้อตกลงนี้ และเราไม่จำเป็นต้องได้รับความยินยอมจากฝ่ายใดๆ ในการเปลี่ยนแปลงข้อกำหนดเหล่านี้"
     },
     "advice": {
-      "section_title": "Advice Regarding Report",
-      "content": "You are advised to discuss the findings in the Report with the seller before making a decision to purchase the Vehicle. If you have not seen the Vehicle personally, you must ensure that the cosmetic condition and specifications of the Vehicle are satisfactory and suitable for your requirements and expectations. We suggest that you view and drive the Vehicle yourself before making a purchase decision."
+      "section_title": "คำแนะนำเกี่ยวกับรายงาน",
+      "content": "ขอแนะนำให้คุณหารือเกี่ยวกับข้อค้นพบในรายงานกับผู้ขายก่อนตัดสินใจซื้อรถยนต์ หากคุณยังไม่เคยเห็นรถยนต์ด้วยตนเอง คุณต้องตรวจสอบให้แน่ใจว่าสภาพความสวยงามภายนอกและข้อกำหนดของรถยนต์เป็นที่น่าพอใจและเหมาะสมกับความต้องการและความคาดหวังของคุณ เราขอแนะนำให้คุณดูและขับรถยนต์ด้วยตนเองก่อนตัดสินใจซื้อ"
     }
   }
 }
