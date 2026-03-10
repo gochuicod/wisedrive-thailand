@@ -60,41 +60,50 @@ export default function Footer() {
             {/* Socials */}
             <div className={cn('flex flex-row', 'gap-4')}>
               {/* Instagram */}
-              <a href="https://www.instagram.com/wisedrivemalaysia/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+              <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/instagram.svg"
                   alt="Instagram"
                   width={24}
                   height={24}
                 />
-              </a>
+              </span>
               {/* Facebook */}
-              <a href="https://www.facebook.com/p/Wisedrive-Technologies-M-Sdn-Bhd-61571089227235/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+              <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/fb.svg"
                   alt="Facebook"
                   width={24}
                   height={24}
                 />
-              </a>
+              </span>
               {/* Tiktok */}
-              <a href="https://www.tiktok.com/@wisedrive.malaysia" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+              <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/tiktok.svg"
                   alt="Tiktok"
                   width={24}
                   height={24}
                 />
-              </a>              
+              </span>
+              {/* LinkedIn */}
+              <a href="https://linkedin.com/company/wisedrive" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+                <Image
+                  src="/icons/componentIcons/linkedin.svg"
+                  alt="LinkedIn"
+                  width={24}
+                  height={24}
+                />
+              </a>
               {/* WhatsApp */}
-              <a href="https://wa.me/60126152559" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+              <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/whatsapp.svg"
                   alt="WhatsApp"
                   width={24}
                   height={24}
                 />
-              </a>
+              </span>
             </div>
             {/* Address */}
             <span
