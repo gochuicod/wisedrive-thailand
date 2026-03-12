@@ -83,7 +83,7 @@ export default function Inspection() {
               )}
             >
               <AppButton
-                href="https://wisedrive.com/#services"
+                href="https://wa.me/66645893636"
                 variant="default"
                 size="sm"
                 leftIcon={<Calendar className="size-4" />}
@@ -102,7 +102,7 @@ export default function Inspection() {
                   {t('sample_report_button')}
                 </AppButton>
                 <AppButton
-                  href="https://wa.me/60126152559"
+                  href="https://wa.me/66645893636"
                   variant="tertiary"
                   className='w-full'
                   size="sm"

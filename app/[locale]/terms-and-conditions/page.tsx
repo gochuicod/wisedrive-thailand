@@ -43,7 +43,7 @@ export default function TermsAndConditions() {
                     {idx < arr.length - 1 && <a href="https://www.wisedrive.com" className="text-blue-600 hover:underline">https://www.wisedrive.com</a>}
                   </span>
                 ))}
-                {' '} {t('definitions.inspection_categories').includes('+60 122559610') && <a href="tel:+60122559610" className="text-blue-600 hover:underline">+60 122559610</a>}
+                {' '} {t('definitions.inspection_categories').includes('+66 645893636') && <a href="tel:+66645893636" className="text-blue-600 hover:underline">+66 645893636</a>}
               </p>
             </div>
           </div>
@@ -95,10 +95,10 @@ export default function TermsAndConditions() {
               <li>{t('payment_cancellation.point_3')}</li>
               <li>{t('payment_cancellation.point_4')}</li>
               <li>{t('payment_cancellation.point_5')}</li>
-              <li>{t('payment_cancellation.point_6').split('support.my@wisedrive.com').map((part, idx, arr) => (
+              <li>{t('payment_cancellation.point_6').split('nyomi.wai@wisedrive.com').map((part, idx, arr) => (
                 <span key={idx}>
                   {part}
-                  {idx < arr.length - 1 && <a href="mailto:support.my@wisedrive.com" className="text-blue-600 hover:underline">support.my@wisedrive.com</a>}
+                  {idx < arr.length - 1 && <a href="mailto:nyomi.wai@wisedrive.com" className="text-blue-600 hover:underline">nyomi.wai@wisedrive.com</a>}
                 </span>
               ))}</li>
               <li>{t('payment_cancellation.point_7')}</li>
@@ -109,10 +109,10 @@ export default function TermsAndConditions() {
           <div id="complaints">
             <h3 className="text-2xl font-semibold text-gray-900 mb-4 font-heading">{t('complaints.section_title')}</h3>
             <ol className="list-decimal ml-6 space-y-4 text-body">
-              <li>{t('complaints.point_1').split('+60 122559610').map((part, idx, arr) => (
+              <li>{t('complaints.point_1').split('+66 645893636').map((part, idx, arr) => (
                 <span key={idx}>
                   {part}
-                  {idx < arr.length - 1 && <a href="tel:+60122559610" className="text-blue-600 hover:underline">+60 122559610</a>}
+                  {idx < arr.length - 1 && <a href="tel:+66645893636" className="text-blue-600 hover:underline">+66 645893636</a>}
                 </span>
               ))}</li>
               <li>{t('complaints.point_2')}</li>

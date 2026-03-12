@@ -63,7 +63,7 @@ export const SOCIALS = {
   instagram: 'https://instagram.com/wisedrive',
   linkedin: 'https://linkedin.com/company/wisedrive',
   twitter: 'https://twitter.com/wisedrive',
-  whatsapp: 'https://wa.me/1234567890',
+  whatsapp: 'https://wa.me/66645893636',
 };
 
 export const OUR_BRANDS_CARS = [

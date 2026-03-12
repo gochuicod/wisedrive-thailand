@@ -96,14 +96,14 @@ export default function Footer() {
                 />
               </a>
               {/* WhatsApp */}
-              <span className="opacity-80">
+              <a href="https://wa.me/66645893636" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
                 <Image
                   src="/icons/componentIcons/whatsapp.svg"
                   alt="WhatsApp"
                   width={24}
                   height={24}
                 />
-              </span>
+              </a>
             </div>
             {/* Address */}
             <span

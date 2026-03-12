@@ -445,8 +445,8 @@
     "heading_highlighted_word": "confidence",
     "disclaimer_text": "Steps may change for enterprise plans",
     "subtitle_question": "Have questions or ready to book?",
-    "subtitle_heading": "Send “Hi” to +60 12 615 2559 on WhatsApp. Our experts are ready to schedule your inspection or assist you with your purchase.",
-    "subtitle_heading_highlighted_word": "+60 12 615 2559",
+    "subtitle_heading": "Send “Hi” to +66 645893636 on WhatsApp. Our experts are ready to schedule your inspection or assist you with your purchase.",
+    "subtitle_heading_highlighted_word": "+66 645893636",
     "steps": {
       "step_1": {
         "heading": "01. Buy the plan",
@@ -533,7 +533,7 @@
     "description": "From Proton and Perodua to imports, we are trained for the cars you drive."
   },
   "Footer": {
-    "address": "Suite 5.03 Level 5 Block B, Bangunan Pan Global, 1A, Jln Tandang, Seksyen 51, 46050 Petaling Jaya, Selangor",
+    "address": "450/2 Boonyasathit Building, 2nd Floor, Rama 3 Road, Bang Khlo Sub-district, Bang Kho Laem District, Bangkok Metropolis",
     "products": "Products",
     "car_inspections": "Car Inspections",
     "luxury_inspection": "Luxury Car Inspection",
@@ -560,7 +560,7 @@
     "definitions": {
       "section_title": "1. Definitions",
       "we_us": "We/Us and We",
-      "we_us_desc": "means Wisedrive Technologies (M) Sdn. Bhd.",
+      "we_us_desc": "means Wisedrive Thailand",
       "agreement": "Agreement",
       "agreement_desc": "means the agreement between Wisedrive and Customer where Wisedrive agrees to arrange for an Inspector to conduct an Inspection in accordance with these terms and conditions.",
       "cancellation_fee": "Cancellation Fee",
@@ -579,7 +579,7 @@
       "report_checklist_desc": "means the list of aspects that will be or have been inspected by the Inspector as part of the Physical Inspection, which can be found at https://www.wisedrive.com.",
       "vehicle": "Vehicle",
       "vehicle_desc": "means the vehicle for which the Customer requires the Inspector to conduct an Inspection.",
-      "inspection_categories": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle."
+      "inspection_categories": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +66 645893636. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle."
     },
     "general_scope": {
       "section_title": "2. General Scope",
@@ -612,12 +612,12 @@
       "point_3": "Where the Customer fails to ensure proper arrangements for the Inspection to be carried out, as required, or has provided incorrect or incomplete information that prevents Us from carrying out the Inspection, you acknowledge that in such circumstances We are entitled to treat the Agreement as terminated and retain the Payment in full.",
       "point_4": "If you wish Us to carry out another Inspection, you need to make an additional payment at the time of the new booking.",
       "point_5": "You are entitled to cancel the Inspection and receive a full refund of the Payment if the cancellation is made at least 24 hours before the scheduled Inspection. After the Inspection has been carried out, no refund of the payment will be given.",
-      "point_6": "To cancel the Inspection, you must notify our Customer Support Team of your decision by sending an email to support.my@wisedrive.com or by calling +60 122559610, Monday to Friday from 9 am to 5 pm.",
+      "point_6": "To cancel the Inspection, you must notify our Customer Support Team of your decision by sending an email to nyomi.wai@wisedrive.com or by calling +66 645893636, Monday to Friday from 9 am to 5 pm.",
       "point_7": "To enable us to locate your booking, you need to provide your name, address, telephone number, and booking reference number (as given in your booking confirmation) along with your cancellation request."
     },
     "complaints": {
       "section_title": "5. Complaints",
-      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to conduct a re-inspection of the Vehicle to address that complaint, and you agree to allow Us to do so.",
+      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +66 645893636 as soon as possible. We may need to conduct a re-inspection of the Vehicle to address that complaint, and you agree to allow Us to do so.",
       "point_2": "No repairs should be undertaken or any parts of the vehicle replaced before a re-inspection is carried out by Us. If emergency repairs are needed to ensure the Vehicle is safe to use and subsequently becomes the subject of a complaint to Us, you must ensure that the complaint is made to Us (including notification of the emergency repair requirement) within a reasonable period after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not be responsible under any circumstances for the cost of repairs or parts replacement without prior written agreement from Us.",
       "point_3": "We reserve the right to require another of our Inspectors to conduct a re-inspection of any Vehicle at our own expense if deemed necessary to address any complaint. You are also required to allow our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued."
     },
@@ -646,7 +646,7 @@
     "within_ten_days": {
       "section_title": "Within the First 10 Days",
       "eligibility": "If you request cancellation within 10 days of purchase, you are entitled to a full refund of your premium.",
-      "how_to_cancel": "To request cancellation, please send an email to support.my@wisedrive.com with your policy details and cancellation request.",
+      "how_to_cancel": "To request cancellation, please send an email to nyomi.wai@wisedrive.com with your policy details and cancellation request.",
       "coverage_termination": "Your coverage will be terminated immediately upon receipt of your cancellation request.",
       "refund_entitlement": "You will receive a full refund of the amount paid."
     },
@@ -660,7 +660,7 @@
       "section_title": "Payment and Refund Methods",
       "processing_time": "Approved refunds will be processed within 14 days.",
       "original_method": "Refunds will be credited back to your original payment method.",
-      "alternative_arrangement": "If you would like to arrange an alternative refund method, please contact our support team at support.my@wisedrive.com."
+      "alternative_arrangement": "If you would like to arrange an alternative refund method, please contact our support team at nyomi.wai@wisedrive.com."
     }
   },
   "PrivacyPolicy": {
@@ -671,7 +671,7 @@
     },
     "consent": {
       "section_title": "Consent",
-      "how_consent": "How do you give us your consent? When you provide personal information to us to complete a transaction, verify your credit card, place an order, arrange delivery or return a purchase, we consider that you consent for us to collect and use it only for that specific purpose. If we ask for your personal information for a secondary purpose, such as marketing, we will ask for your permission directly or give you an opportunity to refuse. How can I withdraw my consent? If after you consent, you change your mind, you can withdraw your consent for us to contact you, to continue collecting, using or disclosing your information at any time by contacting us at support.my@wisedrive.com."
+      "how_consent": "How do you give us your consent? When you provide personal information to us to complete a transaction, verify your credit card, place an order, arrange delivery or return a purchase, we consider that you consent for us to collect and use it only for that specific purpose. If we ask for your personal information for a secondary purpose, such as marketing, we will ask for your permission directly or give you an opportunity to refuse. How can I withdraw my consent? If after you consent, you change your mind, you can withdraw your consent for us to contact you, to continue collecting, using or disclosing your information at any time by contacting us at nyomi.wai@wisedrive.com."
     },
     "disclosure": {
       "section_title": "Disclosure",
@@ -703,15 +703,15 @@
     },
     "contact": {
       "section_title": "Questions & Contact Information",
-      "content": "If you would like to: access, correct, amend or delete any personal information we have about you, make a complaint, or simply want more information, please contact our Privacy Compliance Officer at support.my@wisedrive.com."
+      "content": "If you would like to: access, correct, amend or delete any personal information we have about you, make a complaint, or simply want more information, please contact our Privacy Compliance Officer at nyomi.wai@wisedrive.com."
     }
   },
   "InspectionTermsAndConditions": {
-    "page_title": "Wisedrive Technologies (M) Sdn. Bhd. Privacy Policy",
+    "page_title": "Wisedrive Thailand Privacy Policy",
     "definitions": {
       "section_title": "Definitions",
       "we_us": "We/Us",
-      "we_us_desc": "Wisedrive Technologies (M) Sdn. Bhd. Limited",
+      "we_us_desc": "Wisedrive Thailand",
       "agreement": "Agreement",
       "agreement_desc": "An agreement between Wisedrive and the Customer whereby Wisedrive agrees to arrange for an Inspector to perform an Inspection in accordance with these terms and conditions",
       "cancellation_fee": "Cancellation Fee",
@@ -723,7 +723,7 @@
       "inspection": "Inspection",
       "inspection_desc": "A visual audio and external examination and road test conducted by an Inspector on behalf of Wisedrive for the Customer in accordance with these terms and conditions",
       "inspection_note": "Inspection Note",
-      "inspection_note_desc": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +60 122559610. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle",
+      "inspection_note_desc": "Wisedrive provides several different categories of Inspections, each involving different checks. Details regarding the different inspection categories and the checks involved can be found at https://www.wisedrive.com or by contacting +66 645893636. Confirmation of the Inspection category selected by the Customer will be performed on the Vehicle",
       "inspector": "Inspector",
       "inspector_desc": "A qualified inspector who conducts an Inspection on behalf of Wisedrive. The Inspector is subject to availability and may be replaced with a suitable third-party agent",
       "report": "Report",
@@ -763,13 +763,13 @@
       ],
       "point_3": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking",
       "point_4": "You have the right to cancel the Inspection and receive a full refund of Payment if cancellation is made at least 24 hours before the Inspection is scheduled. After the Inspection is carried out, no refund will be given",
-      "point_5": "To cancel an Inspection, You must inform our Customer Support Team of your decision by emailing support.my@wisedrive.com or calling +60 122559610, Monday to Friday from 9am to 5pm",
+      "point_5": "To cancel an Inspection, You must inform our Customer Support Team of your decision by emailing nyomi.wai@wisedrive.com or calling +66 645893636, Monday to Friday from 9am to 5pm",
       "point_6": "To enable us to locate your booking, you need to provide your name, address, telephone number and booking reference number (as given in your booking confirmation) along with your cancellation request",
       "point_7": "If You wish Us to perform another Inspection, You need to make an additional payment at the time of the new booking"
     },
     "complaints": {
       "section_title": "Complaints",
-      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +60 122559610 as soon as possible. We may need to perform a re-inspection of the Vehicle to address such complaint, and you agree to permit Us to do so",
+      "point_1": "If you have a complaint or are dissatisfied with any Inspection that has been carried out, please contact Us at +66 645893636 as soon as possible. We may need to perform a re-inspection of the Vehicle to address such complaint, and you agree to permit Us to do so",
       "point_2": "No repairs may be made or any vehicle parts replaced before a re-inspection is carried out by Us. If emergency repairs are required to ensure the Vehicle is safe to use and subsequently become the subject of a complaint to Us, you must ensure the complaint is made to Us (including notice of the requirement for emergency repairs) within a reasonable time after the problem is discovered. Any damaged or worn parts that have been repaired or replaced must be retained for further inspection by Us. We will not in any circumstances be liable for the cost of repairs or replacement of parts without Our prior written consent",
       "point_3": "We have the right to require another of Our Inspectors to conduct a re-inspection of any Vehicle at Our own expense if deemed necessary to address any complaint. You are also required to allow Our Inspector to carry out such re-inspection in accordance with these terms and conditions. We will provide an unbiased second opinion on the original Report issued"
     },

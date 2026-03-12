@@ -136,7 +136,7 @@ export default function Navbar() {
 
         <div className="flex flex-row gap-4">
           <AppButton
-            href="https://wisedrive.com/#services"
+            href="https://wa.me/66645893636"
             variant="default"
             size="sm"
             leftIcon={
@@ -230,7 +230,7 @@ export default function Navbar() {
               })}
 
               <AppButton
-                href="https://wisedrive.com/#services"
+                href="https://wa.me/66645893636"
                 variant="default"
                 size="sm"
                 leftIcon={<CircleCheck className="size-4" />}
