@@ -60,32 +60,32 @@ export default function Footer() {
             {/* Socials */}
             <div className={cn('flex flex-row', 'gap-4')}>
               {/* Instagram */}
-              <span className="opacity-80">
+              {/* <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/instagram.svg"
                   alt="Instagram"
                   width={24}
                   height={24}
                 />
-              </span>
+              </span> */}
               {/* Facebook */}
-              <span className="opacity-80">
+              {/* <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/fb.svg"
                   alt="Facebook"
                   width={24}
                   height={24}
                 />
-              </span>
+              </span> */}
               {/* Tiktok */}
-              <span className="opacity-80">
+              {/* <span className="opacity-80">
                 <Image
                   src="/icons/componentIcons/tiktok.svg"
                   alt="Tiktok"
                   width={24}
                   height={24}
                 />
-              </span>
+              </span> */}
               {/* LinkedIn */}
               <a href="https://linkedin.com/company/wisedrive" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
                 <Image
